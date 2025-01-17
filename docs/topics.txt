@@ -58,3 +58,27 @@ packet loss
 - hardware_req_perf (optimization, low end, toaster, laptop)
 - mods
 - audio_music
+
+
+# Maxi
+Content (Wie viel gibt es?)
+Gameplay
+Support
+Multiplayer/Singleplayer (Server)
+PVP/PVE
+Price
+Bugs
+Graphics
+Worldbuilding
+Story
+Sound
+Mechanics
+Mods
+DLC
+Fun
+Achievements
+Cheater/Hacker
+Balancing
+Community
+PC Requirements
+Developers/Publishers
