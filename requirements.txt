@@ -1,0 +1,17 @@
+pandas
+gensim
+ipykernel
+jupyter
+matplotlib
+nltk
+numpy
+ollama
+pyarrow
+pyspellchecker
+requests
+scikit-learn
+seaborn
+spacy
+tqdm
+termcolor
+ollama
