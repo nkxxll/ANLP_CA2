@@ -36,3 +36,25 @@ paywall
 movement
 addicting
 packet loss
+
+
+# Cedric
+- gameloop (leveling, grind, battle royale, farming, endgame, hours, fps, adventure, MMO, roleplay, shooter survival, playtime)
+- story (campaign, characters, emotional, slow)
+- setting (realistic)
+- game_mechanics (mode, class, combat mechanics, customization, gear, stealth, gunfight, cosmetics, survival, basebuilding)
+- cost_transactions (p2w, money, greedy, purchase, trial, sale, cashgrab, store season pass)
+- online_play (coop, competitive, team, server, ping, ranking, match, friends, mmo, pvp)
+- cheating (bots, cheater, hacker, reporting, anticheat, spamming, ban)
+- community (playerbase)
+- updates_development (qol improvements, season, downgrade, beta, feedback, launch)
+- visuals (look, graphic, animation)
+- vibe_ambience (cozy, relaxing, chill)
+- bugs_stability (issue, crash, freeze, error, restart, invisible wall)
+- achievements
+- difficulty (beginner, challenge, boss)
+- worldbuilding (empty, dull, map, discover, layout, exploration, diversity)
+- publisher (Ubisoft, valve)
+- hardware_req_perf (optimization, low end, toaster, laptop)
+- mods
+- audio_music
