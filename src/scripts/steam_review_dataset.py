@@ -1,7 +1,7 @@
 import pandas as pd
+import sentencepiece as spm
 import torch
 from torch.utils.data import Dataset
-import sentencepiece as spm
 
 
 class SteamReviewDataset(Dataset):
