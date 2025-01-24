@@ -1,0 +1,8 @@
+Please classify the game review with the given set of topics.
+
+## Input:
+  Review: $Review$
+  Topics: $Topics$
+
+## Output:
+  Only the most fitting topics for the game review.

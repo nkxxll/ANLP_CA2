@@ -1,0 +1,8 @@
+Please classify the review with the given set of topics.
+
+Input:
+  Review: $Review$
+  Topics: $Topics$
+
+Output:
+  ONLY the single most fitting topic!!!

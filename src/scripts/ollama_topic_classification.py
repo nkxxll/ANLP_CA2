@@ -3,16 +3,18 @@
 import csv
 import string
 from enum import StrEnum
-from logging import Logger, getLogger
+from logging import INFO, Logger, basicConfig, getLogger
 from types import FunctionType
 from typing import Literal
 
+from ollama import ChatResponse, Client, Message, Options, RequestError
 from termcolor import colored
 
-from ollama import ChatResponse, Client, Message, Options, RequestError
-
-SYSTEM_FILE = "./prompts/system_prompt_classifying1.txt"
-PROMPT_TEMPLATE = "./prompts/classification_prompt1.txt"
+SYSTEM_FILE = "./assets/system_multilabel.txt"
+PROMPT_TEMPLATE = "./assets/multilabel.txt"
+DATA_DIR = "../../data/"
+RAW_DATA_FILE = "reviews_100k_raw.csv.bz2"
+CLEANED_DATA_FILE = "reviews_fetch_100k_cleaned_v2.csv.bz2"
 
 
 class Model(StrEnum):
@@ -80,6 +82,7 @@ class OllamaClassifier:
         system_prompt: str,
         prompt_template: str,
         reviews: list[str],
+        ids: list[int],
         topics: list[Topic],
         logger: Logger = getLogger(__name__),
         client: Client | None = None,
@@ -87,11 +90,14 @@ class OllamaClassifier:
     ) -> None:
         self._reviews = reviews
         self._topics = topics
+        self._ids = ids
         self._model = model
         self._prompt_template = prompt_template
         self._system_prompt = system_prompt
         self._logger = logger
-        self._options = self._make_default_options() if Options is None else options
+        self._options: Options = (
+            self._make_default_options() if options is None else options
+        )
         # options have to be defined before the client because client uses options
         self._client = (
             self._make_default_client(self._options) if client is None else client
@@ -106,9 +112,10 @@ class OllamaClassifier:
             eval_answer = eval_answer_function
 
         res = []
-        for review in self._reviews:
+        for id, review in zip(self._ids, self._reviews):
+            self._logger.info(f"{colored("Review:", color="green")}\n{review}")
             answer = self.get_topic(review)
-            res.append(eval_answer(answer))
+            res.append((id, eval_answer(answer)))
         return res
 
     def get_topic_eval(self, review: str):
@@ -127,7 +134,7 @@ class OllamaClassifier:
 
         return answer.message.content if answer.message.content is not None else "None"
 
-    def evaluate_answer(self, answer: str) -> Topic | None:
+    def evaluate_answer(self, answer: str) -> list[Topic] | None:
         """Evaluates the answer of the model
 
         Args:
@@ -136,17 +143,12 @@ class OllamaClassifier:
         Returns:
             Topic if the answer is valid else None
         """
-        topic: Topic | None = None
+        topics: list[Topic] = []
         for t in self._topics:
             if t.value in answer:
-                if topic is not None and topic != t:
-                    self._logger.warning(
-                        f"{colored("There was a second topic found in answer:", "red")}\n{answer}"
-                    )
-                    continue
-                topic = t
+                topics.append(t)
 
-        return topic
+        return topics if topics != [] else None
 
     def _build_prompt(self, review: str) -> str:
         return self._prompt_template.replace("$Review$", review).replace(
@@ -175,23 +177,31 @@ def read_review_csv(file: str, rrow: str = "review"):
     return reviews
 
 
-def read_review_panda(file: str, rrow: str = "review", n: int = 100):
+def read_review_panda(
+    file: str, columns: list[str] = ["recommendationid", "review"], n: int = 100
+):
     from pandas import read_csv
 
     csv = read_csv(file, compression="bz2", low_memory=False)
 
-    reviews_series = csv[rrow]
-    reviews = list(reviews_series[:n])
+    print(csv.columns)
+    sample = csv.sample(n=n)
+    print(sample.index)
+
+    reviews = sample[columns]
 
     return reviews
 
 
 def main():
+    basicConfig(level=INFO)
     with open(SYSTEM_FILE, "r") as f:
         sys_prompt = f.read()
     with open(PROMPT_TEMPLATE, "r") as f:
         prompt_template = f.read()
-    reviews = read_review_panda("./static/reviews_100k_raw.csv.bz2", "review", 20)
+    id_reviews = read_review_panda(f"{DATA_DIR}{RAW_DATA_FILE}", n=10)
+    reviews = list(id_reviews["review"])
+    ids = list(id_reviews["recommendationid"])
     print(f"info: {len(reviews)}")
     topics = [
         Topic(t)
@@ -204,7 +214,9 @@ def main():
             "Performance",
         ]
     ]
-    o = OllamaClassifier(Model.LLAMA3B, sys_prompt, prompt_template, reviews, topics)
+    o = OllamaClassifier(
+        Model.LLAMA3B, sys_prompt, prompt_template, reviews, ids, topics
+    )
     print(o.get_all_topic_eval())
 
 
