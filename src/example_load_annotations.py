@@ -3,7 +3,7 @@ import sys
 import pandas as pd
 
 sys.path.append("scripts")
-from scripts.annotations import *
+from scripts import lstudio_label_mapping_to_dict, update_df_review_labels
 
 # demonstration how loading the annotations from label studio works
 

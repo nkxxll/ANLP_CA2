@@ -7,13 +7,17 @@ from logging import INFO, Logger, basicConfig, getLogger
 from types import FunctionType
 from typing import Literal
 
+from annotations import lstudio_label_mapping_to_dict, update_df_review_labels
 from ollama import ChatResponse, Client, Message, Options, RequestError
+from pandas import read_csv
 from termcolor import colored
 
 SYSTEM_FILE = "./assets/system_multilabel.txt"
 PROMPT_TEMPLATE = "./assets/multilabel.txt"
 DATA_DIR = "../../data/"
 RAW_DATA_FILE = "reviews_100k_raw.csv.bz2"
+JSON_PATH = "../../data/lstudio_annotations.json"
+JSON_MIN_PATH = "../../data/lstudio_min_annotations.json"
 CLEANED_DATA_FILE = "reviews_fetch_100k_cleaned_v2.csv.bz2"
 
 
@@ -105,17 +109,19 @@ class OllamaClassifier:
 
     def get_all_topic_eval(
         self, eval_answer_function: FunctionType | None = None
-    ) -> list[Topic | None]:
+    ) -> dict[int, list[str]]:
         if eval_answer_function is None:
             eval_answer = self.evaluate_answer
         else:
             eval_answer = eval_answer_function
 
-        res = []
+        res = {}
         for id, review in zip(self._ids, self._reviews):
             self._logger.info(f"{colored("Review:", color="green")}\n{review}")
             answer = self.get_topic(review)
-            res.append((id, eval_answer(answer)))
+            topics = eval_answer(answer)
+            topics_list = [t.value for t in (topics if topics is not None else [])]
+            res[id] = topics_list
         return res
 
     def get_topic_eval(self, review: str):
@@ -180,8 +186,6 @@ def read_review_csv(file: str, rrow: str = "review"):
 def read_review_panda(
     file: str, columns: list[str] = ["recommendationid", "review"], n: int = 100
 ):
-    from pandas import read_csv
-
     csv = read_csv(file, compression="bz2", low_memory=False)
 
     print(csv.columns)
@@ -193,15 +197,41 @@ def read_review_panda(
     return reviews
 
 
+def ids_reviews_from_json(n: int):
+    ids: list[int] = []
+    reviews: list[str] = []
+
+    ann_mappings = lstudio_label_mapping_to_dict(JSON_MIN_PATH)
+
+    # load the original dataset
+    reviews_df = read_csv("../../data/reviews_100k.csv.bz2", low_memory=False)
+    reviews_df["review"] = reviews_df["review"].astype(str)
+
+    # update the dataset with the new annotations (all rows not covered will have NaN)
+    reviews_labeled = update_df_review_labels(reviews_df, ann_mappings, mode="dummy")
+
+    print(reviews_labeled)
+
+    # drop all reviews which are not yet annotated
+    print(reviews_labeled.dropna())
+
+    reviews = list(reviews_labeled["review"])[:n]
+    ids = list(reviews_labeled["review_id"])[:n]
+
+    return ids, reviews
+
+
 def main():
     basicConfig(level=INFO)
     with open(SYSTEM_FILE, "r") as f:
         sys_prompt = f.read()
     with open(PROMPT_TEMPLATE, "r") as f:
         prompt_template = f.read()
-    id_reviews = read_review_panda(f"{DATA_DIR}{RAW_DATA_FILE}", n=10)
-    reviews = list(id_reviews["review"])
-    ids = list(id_reviews["recommendationid"])
+    # id_reviews = read_review_panda(f"{DATA_DIR}{RAW_DATA_FILE}", n=10)
+    # reviews = list(id_reviews["review"])
+    # ids = list(id_reviews["recommendationid"])
+
+    ids, reviews = ids_reviews_from_json(10)
     print(f"info: {len(reviews)}")
     topics = [
         Topic(t)
