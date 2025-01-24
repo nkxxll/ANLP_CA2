@@ -1,7 +1,8 @@
 import pandas as pd
 from torch.utils.data import Dataset
 
-class SteamReviewDataset(Dataset):
+
+class SteamReviewDataset_old(Dataset):
     """Minimal PyTorch Dataloader for our dataset, see also https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
 
     Args:
