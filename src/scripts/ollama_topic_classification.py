@@ -3,6 +3,8 @@
 import csv
 import json
 import string
+from argparse import ArgumentParser
+from datetime import datetime
 from enum import StrEnum
 from logging import INFO, Logger, basicConfig, getLogger
 from types import FunctionType
@@ -45,6 +47,9 @@ class Topic:
 
     def __repr__(self) -> str:
         return self._topic
+
+    def __hash__(self):
+        return hash(str(self))
 
     def __eq__(self, other: object) -> bool:
         if isinstance(other, self.__class__):
@@ -120,7 +125,9 @@ class OllamaClassifier:
         for id, review in zip(self._ids, self._reviews):
             self._logger.info(f"{colored("Review:", color="green")}\n{review}")
             answer = self.get_topic(review)
+            self._logger.info(f"{colored("Answer:", color="green")}\n{answer}")
             topics = eval_answer(answer)
+            self._logger.info(f"{colored("Topics:", color="green")}\n{topics}")
             topics_list = [t.value for t in (topics if topics is not None else [])]
             res[id] = topics_list
         return res
@@ -150,12 +157,26 @@ class OllamaClassifier:
         Returns:
             Topic if the answer is valid else None
         """
-        topics: list[Topic] = []
-        for t in self._topics:
-            if t.value in answer:
-                topics.append(t)
+        topics: set[Topic] = set()
+        lower = answer.lower()
+        generated_topics = self.generate_topic_options(self._topics)
+        for k, v in generated_topics.items():
+            if k in lower:
+                topics.add(v)
 
-        return topics if topics != [] else None
+        return list(topics) if bool(topics) else None
+
+    @staticmethod
+    def generate_topic_options(topics: list[Topic]) -> dict[str, Topic]:
+        res = {}
+        for topic in topics:
+            if "_" in topic.value:
+                res[topic.value.replace("_", " ")] = topic
+                res[topic.value] = topic
+            else:
+                res[topic.value] = topic
+
+        return res
 
     def _build_prompt(self, review: str) -> str:
         return self._prompt_template.replace("$Review$", review).replace(
@@ -169,7 +190,7 @@ class OllamaClassifier:
         client = Client()
 
         msg: Message = Message(role="system", content=self._system_prompt)
-        client.chat(self._model, messages=[msg], options=options)
+        client.chat(str(self._model), messages=[msg], options=options)
 
         return client
 
@@ -212,7 +233,6 @@ def ids_reviews_from_json(n: int = -1):
     reviews_labeled = update_df_review_labels(reviews_df, ann_mappings, mode="dummy")
 
     # drop all reviews which are not yet annotated
-    print(reviews_labeled.dropna())
     ann_reviews = reviews_labeled.dropna()
 
     if n != -1:
@@ -225,7 +245,33 @@ def ids_reviews_from_json(n: int = -1):
     return ids, reviews
 
 
+def setup_args():
+    """Set up arguments for ollama script
+
+    Returns:
+        arguments Namespace
+    """
+    ap = ArgumentParser()
+    ap.add_argument(
+        "-n",
+        "--number",
+        type=int,
+        default=-1,
+        help="number of reviews to annotate [default] -1 => all",
+    )
+    ap.add_argument(
+        "-m",
+        "--model",
+        type=Model,
+        choices=list(Model),
+        default=Model.LLAMA3B,
+        help="Model to use [default] LLAMA3B",
+    )
+    return ap.parse_args()
+
+
 def main():
+    args = setup_args()
     basicConfig(level=INFO, filename="./ollama_log.txt")
     with open(SYSTEM_FILE, "r") as f:
         sys_prompt = f.read()
@@ -235,7 +281,7 @@ def main():
     # reviews = list(id_reviews["review"])
     # ids = list(id_reviews["recommendationid"])
 
-    ids, reviews = ids_reviews_from_json()
+    ids, reviews = ids_reviews_from_json(n=args.number)
     print(f"info: {len(reviews)}")
     topics = [
         Topic(t)
@@ -254,11 +300,9 @@ def main():
             "seasonal_content",
         ]
     ]
-    o = OllamaClassifier(
-        Model.LLAMA3B, sys_prompt, prompt_template, reviews, ids, topics
-    )
+    o = OllamaClassifier(args.model, sys_prompt, prompt_template, reviews, ids, topics)
     data = o.get_all_topic_eval()
-    with open("results.json", "w") as f:
+    with open(f"results-{datetime.now().isoformat()}-{str(args.model)}.json", "w") as f:
         json.dump(data, f)
 
 
