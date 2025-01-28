@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import csv
+import json
 import string
 from enum import StrEnum
 from logging import INFO, Logger, basicConfig, getLogger
@@ -197,7 +198,7 @@ def read_review_panda(
     return reviews
 
 
-def ids_reviews_from_json(n: int):
+def ids_reviews_from_json(n: int = -1):
     ids: list[int] = []
     reviews: list[str] = []
 
@@ -210,19 +211,22 @@ def ids_reviews_from_json(n: int):
     # update the dataset with the new annotations (all rows not covered will have NaN)
     reviews_labeled = update_df_review_labels(reviews_df, ann_mappings, mode="dummy")
 
-    print(reviews_labeled)
-
     # drop all reviews which are not yet annotated
     print(reviews_labeled.dropna())
+    ann_reviews = reviews_labeled.dropna()
 
-    reviews = list(reviews_labeled["review"])[:n]
-    ids = list(reviews_labeled["review_id"])[:n]
+    if n != -1:
+        reviews = list(ann_reviews["review"])[:n]
+        ids = list(ann_reviews["review_id"])[:n]
+    else:
+        reviews = list(ann_reviews["review"])
+        ids = list(ann_reviews["review_id"])
 
     return ids, reviews
 
 
 def main():
-    basicConfig(level=INFO)
+    basicConfig(level=INFO, filename="./ollama_log.txt")
     with open(SYSTEM_FILE, "r") as f:
         sys_prompt = f.read()
     with open(PROMPT_TEMPLATE, "r") as f:
@@ -231,23 +235,31 @@ def main():
     # reviews = list(id_reviews["review"])
     # ids = list(id_reviews["recommendationid"])
 
-    ids, reviews = ids_reviews_from_json(10)
+    ids, reviews = ids_reviews_from_json()
     print(f"info: {len(reviews)}")
     topics = [
         Topic(t)
         for t in [
-            "Gameplay",
-            "Graphics",
-            "Story",
-            "Multiplayer",
-            "Bugs",
-            "Performance",
+            "gamemode",
+            "bugs",
+            "visuals",
+            "sound",
+            "hardware_requirements",
+            "price",
+            "gameplay",
+            "story",
+            "support",
+            "online_play",
+            "updates",
+            "seasonal_content",
         ]
     ]
     o = OllamaClassifier(
         Model.LLAMA3B, sys_prompt, prompt_template, reviews, ids, topics
     )
-    print(o.get_all_topic_eval())
+    data = o.get_all_topic_eval()
+    with open("results.json", "w") as f:
+        json.dump(data, f)
 
 
 if __name__ == "__main__":
