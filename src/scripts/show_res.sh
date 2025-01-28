@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+if [[ $(command -v fzf) ]]; then
+    echo "[fzf] command line tool is not present you have to search yourself sorry!"
+    echo "install with: sudo apt install fzf"
+    echo "install with: brew install fzf"
+    exit 1
+fi
+
 resdir="./results"
 prettydir="./pretty_results"
 file=$(find "$resdir" -type f | fzf)
@@ -16,7 +23,7 @@ if [[ $(command -v prettier) && ! (-f "$pretty_file_name") ]] ; then
 fi
 
 if [[ $(command -v bat) && $pretty ]]; then
-    bat "$basename".pretty.json
+    bat "$pretty_file_name"
 elif [[ $(command -v bat) ]]; then
     bat "$file"
 else

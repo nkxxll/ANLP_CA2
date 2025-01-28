@@ -48,14 +48,14 @@ class Topic:
     def __repr__(self) -> str:
         return self._topic
 
-    def __hash__(self):
-        return hash(str(self))
-
     def __eq__(self, other: object) -> bool:
         if isinstance(other, self.__class__):
             return self._topic == other._topic
         else:
             raise TypeError("Other is not of type Topic")
+
+    def __hash__(self):
+        return hash(str(self))
 
     @property
     def value(self) -> str:
@@ -302,7 +302,10 @@ def main():
     ]
     o = OllamaClassifier(args.model, sys_prompt, prompt_template, reviews, ids, topics)
     data = o.get_all_topic_eval()
-    with open(f"results-{datetime.now().isoformat()}-{str(args.model)}.json", "w") as f:
+    with open(
+        f"./results/results-{datetime.now().isoformat()}-n{args.number if args.number > 0 else "all"}-{str(args.model)}.json",
+        "w",
+    ) as f:
         json.dump(data, f)
 
 

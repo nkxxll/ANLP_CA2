@@ -1,0 +1,4066 @@
+[
+  {
+    "review_id": 218,
+    "review": "game be good but since the last patch a few day ago the game have become unplayable and keep crash every to minute and this seem to be the case for the majority of player",
+    "voted_up": false,
+    "app_name": "Hogwarts Legacy",
+    "id": 219,
+    "tag": "bugs",
+    "annotator": 7,
+    "annotation_id": 232,
+    "created_at": "2025-01-22T23:12:14.795003Z",
+    "updated_at": "2025-01-22T23:12:14.795034Z",
+    "lead_time": 9.652
+  },
+  {
+    "review_id": 738,
+    "review": "ehh feel cool for the first hour or so then thing start to get kinda lame after use the same type of spell for the longest time see the castle be neat also i want to be evil as hell in this game but it feel like if you go with the evil end all you get for it be that old guy be dumbfound with your choice and you do not do anything diabolical with it come on man let me be evil and shit i want to be a menace",
+    "voted_up": false,
+    "app_name": "Hogwarts Legacy",
+    "id": 739,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 78,
+    "created_at": "2025-01-20T16:20:48.553963Z",
+    "updated_at": "2025-01-20T16:20:48.553990Z",
+    "lead_time": 42.981
+  },
+  {
+    "review_id": 1001,
+    "review": "im a fan of harry potter and i have my doubt with this game but so far hour in and i would say its definetly one of the best game ive ever play the combat movement mechanic feel great and the game look great",
+    "voted_up": true,
+    "app_name": "Hogwarts Legacy",
+    "id": 1002,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 250,
+    "created_at": "2025-01-22T23:17:43.347935Z",
+    "updated_at": "2025-01-22T23:17:43.347961Z",
+    "lead_time": 12.406
+  },
+  {
+    "review_id": 2891,
+    "review": "that be really a perfect fps game by valve i think they do so well in improve the playing quality of counter strike that i have just fall in love in it really",
+    "voted_up": true,
+    "app_name": "Counter-Strike: Global Offensive",
+    "id": 2892,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2025-01-18T13:59:33.113187Z",
+    "updated_at": "2025-01-18T13:59:33.113212Z",
+    "lead_time": 133.534
+  },
+  {
+    "review_id": 3419,
+    "review": "valve completely ruin the game in the same vain as they do we have lose the vast majority of gamemodes map and event little co op campaign from c go alongside weekly challenge which use to be part of it be also very apparent that valve be anticheat can not keep up with the cheater to my memory there be not an anticheat out there more worthless than whatever valve have to add salt to the wound valve have directly state that they be unwilling to do the work require to keep cheater at bay call it treadmill work they have do this presumably to look for a win button solution but we all know the real reason be that they simply do not wan na allocate resource need to keep this game clean they have now resort to use the minimum strategy of have the community do their work for them as see by the most recent update real mvp all valve have do be a couple of light bugfixes slight <NULL> to the graphic setting and a remade win screen all the map add be labor do by the community in the past the c go time map maker would get pay a percentage of sale from the operation pas in which their map be include in how this be nowadays i can not tell you because we just get these community map without an operation so how would the map maker earn money or how much would it cost for valve i have no idea regardless of that whole thing it be sicken that valve could not even bother to add their own new content that they presumably have have in the work since before the release of even the beta the game feel like an early access title which be crazy to me in any case i encourage everyone to not spend a dime on this sad excuse of a release until valve bother to do their job also here be to hop that valve will be hold accountable for the creation of an incomprehensibly huge unregulated casino business that have be and will continue to ruin life of minor create a generation of gamble addict",
+    "voted_up": false,
+    "app_name": "Counter-Strike: Global Offensive",
+    "id": 3420,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "visuals",
+        "price",
+        "support",
+        "online_play",
+        "updates"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 45,
+    "created_at": "2025-01-18T17:32:03.939136Z",
+    "updated_at": "2025-01-18T17:32:03.939165Z",
+    "lead_time": 196.824
+  },
+  {
+    "review_id": 3595,
+    "review": "team deathmatch be not come back anti cheat be practically nonexistent and the new armory pass be a scam per pas with a maximum of equipped pass at a time pass each one with a cap of only credit before you have to buy a new one fortnite do not even try to rob their playerbase that much be valve have some insane debt that i be not make aware of that be a serious <NULL>",
+    "voted_up": false,
+    "app_name": "Counter-Strike: Global Offensive",
+    "id": 3596,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "price",
+        "online_play",
+        "seasonal_content"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 204,
+    "created_at": "2025-01-22T22:59:13.022372Z",
+    "updated_at": "2025-01-22T22:59:13.022475Z",
+    "lead_time": 145.452
+  },
+  {
+    "review_id": 4352,
+    "review": "hi everyone i be newbie in dota but after that hour i felt what i lose my time so it be so sad please if you read this review immediatly stop playing dota and go straight to your plan you know what after i stop play this i be start to focus on my career find my love and living in better life if you play it after work or on some of your free time probably there be no problem you ever felt when you play at evening or at pm most of them be old enough people but they be talk and think as child but anyways be real and focus on your life i wish you best and good luck",
+    "voted_up": true,
+    "app_name": "Dota 2",
+    "id": 4353,
+    "tag": "gamemode",
+    "annotator": 3,
+    "annotation_id": 86,
+    "created_at": "2025-01-20T16:29:06.922036Z",
+    "updated_at": "2025-01-20T16:29:06.922064Z",
+    "lead_time": 49.95
+  },
+  {
+    "review_id": 4759,
+    "review": "this be the best and the worst game i do not know how to describe it i be legit lose on word all i get to say be its perfect down to the minute detail of it just perfect and i be obsess with it to the core for like legit the best thing ever happen to me but this cant be the only best thing always remember that friend and family top priority then come wife job money and then its dota",
+    "voted_up": true,
+    "app_name": "Dota 2",
+    "id": 4760,
+    "annotator": 3,
+    "annotation_id": 95,
+    "created_at": "2025-01-20T16:31:26.068240Z",
+    "updated_at": "2025-01-20T16:31:26.068268Z",
+    "lead_time": 24.365
+  },
+  {
+    "review_id": 4833,
+    "review": "the excellent sound design and a great sandbox mode demo mode spawn item hero via chat command etc",
+    "voted_up": true,
+    "app_name": "Dota 2",
+    "id": 4834,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "sound",
+        "gameplay"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 205,
+    "created_at": "2025-01-22T22:59:33.440680Z",
+    "updated_at": "2025-01-22T22:59:33.440728Z",
+    "lead_time": 19.951
+  },
+  {
+    "review_id": 5127,
+    "review": "obviously the game seem intimidate with all the mechanic and strats but just pick one thing to focus on and you will have a blast while learn the game i like roam but i keep forget to place ward but i still find fun in initiate fight across the map do take your time as you might not fight the perfect character s for you since the cast be really diverse to suit many different type of play treat it like an adventure and explore whatever you feel like",
+    "voted_up": true,
+    "app_name": "Dota 2",
+    "id": 5128,
+    "tag": "gameplay",
+    "annotator": 3,
+    "annotation_id": 50,
+    "created_at": "2025-01-20T15:52:04.522922Z",
+    "updated_at": "2025-01-20T15:52:04.522950Z",
+    "lead_time": 47.859
+  },
+  {
+    "review_id": 5317,
+    "review": "garbage as game they decide to launch another one of their game break bug i mean update that make all player disconnect and earn gold there be game where the gold would be take from my character when i want to buy an item but you guess it no item i can not believe how incompetent and unprofessional the valve neckbeard team be",
+    "voted_up": false,
+    "app_name": "Dota 2",
+    "id": 5318,
+    "tag": {
+      "choices": [
+        "bugs",
+        "support",
+        "updates"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 149,
+    "created_at": "2025-01-22T11:35:23.807249Z",
+    "updated_at": "2025-01-22T11:35:23.807278Z",
+    "lead_time": 330.604
+  },
+  {
+    "review_id": 5696,
+    "review": "valve change your teammate pairing system always get new player newbie trash teammate every single game now ppl decrease their score just to avoid those player i be get trash teammate while enemy get pro teammate money hungry game developer aint gon na do shit",
+    "voted_up": false,
+    "app_name": "Dota 2",
+    "id": 5697,
+    "tag": {
+      "choices": [
+        "bugs",
+        "support"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 167,
+    "created_at": "2025-01-22T12:28:05.578317Z",
+    "updated_at": "2025-01-22T12:28:05.578348Z",
+    "lead_time": 55.219
+  },
+  {
+    "review_id": 6259,
+    "review": "wan na know how to get rid of the water on the map well all you have to do be go to creative mode get to a cave enter it and type goto <NULL> then you type goto banana katana ocean or virginia by do this all of the water disappear include the tree around you leave bare mountain",
+    "voted_up": true,
+    "app_name": "Sons Of The Forest",
+    "id": 6260,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 120,
+    "created_at": "2025-01-20T21:26:11.185938Z",
+    "updated_at": "2025-01-20T21:26:11.185977Z",
+    "lead_time": 83.846
+  },
+  {
+    "review_id": 6752,
+    "review": "game play be really good with impressive graphic",
+    "voted_up": true,
+    "app_name": "Sons Of The Forest",
+    "id": 6753,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 101,
+    "created_at": "2025-01-20T16:32:56.196330Z",
+    "updated_at": "2025-01-20T16:32:56.196393Z",
+    "lead_time": 4.266
+  },
+  {
+    "review_id": 6895,
+    "review": "you and friend can enjoy some wholesome chicken noodle soup around a campfire underground with killer baby stalk you",
+    "voted_up": true,
+    "app_name": "Sons Of The Forest",
+    "id": 6896,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 62,
+    "created_at": "2025-01-20T16:03:03.620243Z",
+    "updated_at": "2025-01-20T16:03:03.620272Z",
+    "lead_time": 16.128
+  },
+  {
+    "review_id": 6914,
+    "review": "game be really great and even more fun with friend the only thing game need be some content from the first game like boat",
+    "voted_up": true,
+    "app_name": "Sons Of The Forest",
+    "id": 6915,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "updates"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2025-01-18T13:47:42.373931Z",
+    "updated_at": "2025-01-18T13:47:42.373961Z",
+    "lead_time": 66.23700000000001
+  },
+  {
+    "review_id": 7067,
+    "review": "i wish i could re live the fun of this game i play this co op with my brother and have an absolute blast be terrify of all the nightmare on the island the story felt compel to boot would recommend",
+    "voted_up": true,
+    "app_name": "Sons Of The Forest",
+    "id": 7068,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 241,
+    "created_at": "2025-01-22T23:14:02.850284Z",
+    "updated_at": "2025-01-22T23:14:02.850310Z",
+    "lead_time": 10.02
+  },
+  {
+    "review_id": 7185,
+    "review": "first survival game like this that i have play so i do not have much past experience but for me its good not sure if it be the area i start in beach but my camp seem to be attack a lot i struggle for a while until i figure out how to make a bow and arrows now i at least have a fighting chance",
+    "voted_up": true,
+    "app_name": "Sons Of The Forest",
+    "id": 7186,
+    "tag": "gameplay",
+    "annotator": 4,
+    "annotation_id": 135,
+    "created_at": "2025-01-20T22:04:11.393436Z",
+    "updated_at": "2025-01-20T22:04:11.393472Z",
+    "lead_time": 157.545
+  },
+  {
+    "review_id": 7578,
+    "review": "have really enjoy playing this game with friend through multiple large update the base building can be wonky but have overall be improve over the development of the game along with the complexity of the story the only issue that i have find be after play on a server host by a friend for countless day and get close to the endgame suddenly i can no longer connect to the server no matter what fix i try it be really very frustrate for such a fun game",
+    "voted_up": true,
+    "app_name": "Sons Of The Forest",
+    "id": 7579,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "bugs",
+        "gameplay",
+        "story",
+        "online_play",
+        "updates"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 130,
+    "created_at": "2025-01-20T21:49:19.088964Z",
+    "updated_at": "2025-01-20T21:49:19.088993Z",
+    "lead_time": 110.293
+  },
+  {
+    "review_id": 7592,
+    "review": "survive an island full of unholy creature solo or with friend",
+    "voted_up": true,
+    "app_name": "Sons Of The Forest",
+    "id": 7593,
+    "tag": "gamemode",
+    "annotator": 3,
+    "annotation_id": 82,
+    "created_at": "2025-01-20T16:22:28.640802Z",
+    "updated_at": "2025-01-20T16:22:28.640834Z",
+    "lead_time": 6.189
+  },
+  {
+    "review_id": 8118,
+    "review": "i have fun playing but late game be almost like a job because you need to farm a lot of gold and defeat the week boss and it take so much time just to put a party to go to the bos then the fight itself",
+    "voted_up": false,
+    "app_name": "Lost Ark",
+    "id": 8119,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 60,
+    "created_at": "2025-01-20T15:57:17.797733Z",
+    "updated_at": "2025-01-20T15:57:17.797765Z",
+    "lead_time": 33.501
+  },
+  {
+    "review_id": 8192,
+    "review": "its stupid for a new player in theory sound like a great game but it really be not aspect be crazy big in end content polish raid and combat other than that its not good for free to play aspect and combat unreal engine lol",
+    "voted_up": false,
+    "app_name": "Lost Ark",
+    "id": 8193,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "price",
+        "gameplay"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 83,
+    "created_at": "2025-01-20T16:23:14.220167Z",
+    "updated_at": "2025-01-20T16:23:14.220197Z",
+    "lead_time": 45.017
+  },
+  {
+    "review_id": 8434,
+    "review": "predatory anniversary shop update for pose that kr get for free just for spend money over time on actual valuable stuff ridiculous",
+    "voted_up": false,
+    "app_name": "Lost Ark",
+    "id": 8435,
+    "tag": {
+      "choices": [
+        "price",
+        "online_play",
+        "seasonal_content"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 150,
+    "created_at": "2025-01-22T11:38:09.504713Z",
+    "updated_at": "2025-01-22T11:38:09.504739Z",
+    "lead_time": 144.176
+  },
+  {
+    "review_id": 8554,
+    "review": "have everything to be a great game get all mess up not fun after some time too much non sense grind for very little reward",
+    "voted_up": false,
+    "app_name": "Lost Ark",
+    "id": 8555,
+    "tag": "story",
+    "annotator": 5,
+    "annotation_id": 174,
+    "created_at": "2025-01-22T12:38:10.655213Z",
+    "updated_at": "2025-01-22T12:38:10.655245Z",
+    "lead_time": 18.67
+  },
+  {
+    "review_id": 8844,
+    "review": "no wasd movement uninstalled i do not play click to move game wish someone would have say that in the many hour of gameplay i watch",
+    "voted_up": false,
+    "app_name": "Lost Ark",
+    "id": 8845,
+    "tag": {
+      "choices": [
+        "bugs",
+        "hardware_requirements",
+        "gameplay"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 80,
+    "created_at": "2025-01-20T16:22:06.809062Z",
+    "updated_at": "2025-01-20T16:22:06.809091Z",
+    "lead_time": 21.524
+  },
+  {
+    "review_id": 9754,
+    "review": "pubg be one of my favorite game to of all time so ill list out what i like and dont like for anyone new or want to get back into it pros game play i love the weight of the equipment car movement and just the over all feel of the game be something that always draw me to it over other title get an elimination in pubg feel infinitely more rewarding compare to other shoot title i have play i think its due to the fact its not really the easiest mechanically to control the character gun and the strategy alone require in a big open map to successfully slim other team make the payoff feel huge social the friend who be able to tolerate sucking at the beginning of play this game i can guarantee you will be some of the best friend you can ever make because if they can enjoy pubg without have to win every game they be typically very down to earth people who enjoy the process of thing more than the flashy winning title and make up accolade besides steam acheivements those be very important cosmetic as someone who love be customization and would spend hour manipulate the market to afford cent item i can easily say pubg be just as good if you do not want to be a kpop star thats fine i guess you can be literally customize to whatever you want to wear whether thats apocalyptic steam punk gear designer fashion wear jeremy in for some reason or you can be a giant polar bear all cosmetic be pretty cheap or easily earn through contraband box all my skin be from twitch drop and contraband and my inventory be lookin nice con bots there be ai player that fill up lobbyou s to make sure you do not ride on empty plane they ar not too annoy at first until you have have to figure out the shoot you have hear for min be two bot battle to the death miss every shot they dont feel too reward to slim and dont actually carry useful loot other than the bullet you use to take them out dark side of social a lot of the time people who play this game be closet mil sim enjoyer who think they be legit on deployment siege ing the field of a foreign country sit on top of oil reserve literally if you take away anything from this post do not pay these people any attention they be very control in their game plan best advice be when they get knock out you can see their true nature come out as they scream to be revive as if they legit get shot learn curve this be not really a con but be prepare to deploy the parachute and land late loot all game and see no one then get shot in the back for many many game as someone who love game like <NULL> just pretend that its go to be a lot of exploration for sometime you wont know where to look or where to be but over time thing come naturally just always make sure above all else to have fun when try to learn thanks for read i hope this help",
+    "voted_up": true,
+    "app_name": "PUBG: BATTLEGROUNDS",
+    "id": 9755,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 84,
+    "created_at": "2025-01-20T16:24:49.059177Z",
+    "updated_at": "2025-01-20T16:24:49.059204Z",
+    "lead_time": 94.266
+  },
+  {
+    "review_id": 11036,
+    "review": "game be one of my favorite to play with that say get ready to be wall hack and aim botted into oblivion game be full of cheater in almost every match worst thing this game ever do be go free to play ban should be ip ban nothing be stop these lowlife from make another free account and cheating again suck because it ruin the fun for the people who enjoy the game save yourself from the torment and play something else one day the developer might get a hold of how to handle the hacking but probably not before they strip your wallet for the in store good that be absurdly overpriced",
+    "voted_up": false,
+    "app_name": "PUBG: BATTLEGROUNDS",
+    "id": 11037,
+    "tag": {
+      "choices": [
+        "bugs",
+        "support",
+        "online_play"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 170,
+    "created_at": "2025-01-22T12:30:21.907484Z",
+    "updated_at": "2025-01-22T12:30:21.907517Z",
+    "lead_time": 42.238
+  },
+  {
+    "review_id": 11616,
+    "review": "at this point this game be a slowly dying close community i be look for a co op shooter game to play with the kid since they finally outgrow the stupid childish fortnite so i decide to give pubg a try since it be genre define game well apparently as a new player you will get absolutely fun with it i understand that a game need time get use to git gud but this game be so frustrating each match start with a coinflip be you go to play run simulator or actual br then if you be lucky you may land near the first circle and its almost sure taht the first sec of the game will be frantically run to get to the nearest gun before someone faster than you manages to do that and one shot you great now you have some gun and ammo and you be alive so lets play sec later you realize that the next circle edge be away and you need to start run again if you want to even have a chance not to die in it if you manage to do that its almost sure you be see by someone luckier who land inside the first circle with time gear and get goot position so basically if you dont have hour and know every single map perfectly because you cant even play on a specific map you want you be meat for the vet player it be almost obvious that the only motivation for the devs to attack new player be to get them to buy the <NULL> casual mode be limit to match per day without it tl dr i have spend more time in the than in an actual match maybe of the match i haven fire a single bullet only run or get one shot if you want to be employ as an advanced bot to keep veteran player engage play pubg now",
+    "voted_up": false,
+    "app_name": "PUBG: BATTLEGROUNDS",
+    "id": 11617,
+    "tag": "gameplay",
+    "annotator": 5,
+    "annotation_id": 155,
+    "created_at": "2025-01-22T12:01:27.122993Z",
+    "updated_at": "2025-01-22T12:01:27.123025Z",
+    "lead_time": 102.916
+  },
+  {
+    "review_id": 11970,
+    "review": "iv e spend be of hour on console and pc and spent be of dollar to support your game just to go into the dirt because your company just want to suck the money out of people way to ruin this game like you do every other game ea from sport game to battle royale you suck at your job go make a roblox game",
+    "voted_up": false,
+    "app_name": "Apex Legends™",
+    "id": 11971,
+    "tag": {
+      "choices": [
+        "price",
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 213,
+    "created_at": "2025-01-22T23:04:27.821919Z",
+    "updated_at": "2025-01-22T23:04:27.821948Z",
+    "lead_time": 24.899
+  },
+  {
+    "review_id": 12140,
+    "review": "i love this game to the grave and back but the absolute greed from ea and lack of reaction from the respawn be side make me question the real plan for this game i be start to feel like the only good think that ea sell be their stock",
+    "voted_up": false,
+    "app_name": "Apex Legends™",
+    "id": 12141,
+    "tag": "support",
+    "annotator": 4,
+    "annotation_id": 124,
+    "created_at": "2025-01-20T21:37:06.906078Z",
+    "updated_at": "2025-01-20T21:37:06.906104Z",
+    "lead_time": 75.945
+  },
+  {
+    "review_id": 12173,
+    "review": "i love this game ive be play it since day have hour on ea client before it come to steam i wish that count towards my hour here but regardless i still love this game from the lore to game play there be always a thrill to be find it can take a while to get use to but if your willing to put in the time it will feel reward for each victory you get if you just want to play a mix of gun run team death match and control this game also offer that as well i know that there be issue from time to time but what game do not have that in there legacy of exist its a live service so do not like the negativity hold you back from try this one also its free to play and you can unlock every legend with play time so as long as you play you will get everything eventually",
+    "voted_up": true,
+    "app_name": "Apex Legends™",
+    "id": 12174,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "price",
+        "gameplay",
+        "online_play",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 223,
+    "created_at": "2025-01-22T23:08:42.981181Z",
+    "updated_at": "2025-01-22T23:08:42.981212Z",
+    "lead_time": 13.943
+  },
+  {
+    "review_id": 12419,
+    "review": "the game be die streamer and pro be the only reason it have not die yet four year of broken promise now the game be wall hack aim botters player bot terrible meta after terrible meta you open the game to have fun but it simply be not",
+    "voted_up": false,
+    "app_name": "Apex Legends™",
+    "id": 12420,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "bugs",
+        "support",
+        "updates"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 144,
+    "created_at": "2025-01-22T11:09:19.976737Z",
+    "updated_at": "2025-01-22T11:09:19.976764Z",
+    "lead_time": 164.027
+  },
+  {
+    "review_id": 13449,
+    "review": "it be a great game but it be bring down by it be horrible server constant cheater sbmm be a joke dead sliding and get shot behind corner or door bring back punch boost it may be free but not worth pay for their cosmetic it use to be fun now it be not the fact that i be in oceania and the oce server be dead for ranked i be force to play on na server because even the asia server be horrendous when it come to ping make it make sense respawn and ea",
+    "voted_up": false,
+    "app_name": "Apex Legends™",
+    "id": 13450,
+    "tag": {
+      "choices": [
+        "price",
+        "online_play"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 154,
+    "created_at": "2025-01-22T11:57:35.277359Z",
+    "updated_at": "2025-01-22T11:57:35.277390Z",
+    "lead_time": 43.886
+  },
+  {
+    "review_id": 13476,
+    "review": "the potential to be a great tactical strategic yet hectic slow time to kill ability base gem of a team base competitive shooter unfortunately plague by a swarm of bug either introduce in every recent patch or have be there from day one couple season in a row where patch introduce nothing but crazy expensive mtx and they have the audacity to call it while bring along massively intrusive and disruptive bug rubberbanding make ziplines disfunctional rubberbanding make you get shoot behind wall client side hit reg feel worse than it ever have audio be the joke of the competitive shooter scene etc etc the current massive decline in playerbase be frankly warrant this game continue to take two step back for every one step forward the only reason i play anymore be because of addiction and nostalgia it be a toxic relationship in the current oversaturated ecosystem of battle royales and competitive shooter you should take your time and money elsewhere",
+    "voted_up": false,
+    "app_name": "Apex Legends™",
+    "id": 13477,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "bugs",
+        "sound",
+        "price",
+        "gameplay",
+        "online_play",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 214,
+    "created_at": "2025-01-22T23:05:23.102150Z",
+    "updated_at": "2025-01-22T23:05:23.102187Z",
+    "lead_time": 31.895
+  },
+  {
+    "review_id": 13706,
+    "review": "b since this be my first call of duty game and it be quite possible that it will also be my last the gameplay be acceptable and the gunplay be very satisfying i find enjoyment in despite not be a regular player of the cod franchise but i understand why veteran cod player be not impressed with it i do not recommend spend the regular full price nor the discounted price of on it it be an alright game but that price simply put be not worth the experience that you will get from play this game b also dont preorder black ops pls",
+    "voted_up": false,
+    "app_name": "Call of Duty®: Modern Warfare® II",
+    "id": 13707,
+    "tag": {
+      "choices": [
+        "price",
+        "gameplay"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 44,
+    "created_at": "2025-01-18T17:28:45.714051Z",
+    "updated_at": "2025-01-18T17:28:45.714095Z",
+    "lead_time": 42.463
+  },
+  {
+    "review_id": 13828,
+    "review": "endure many year of mental and verbal abuse on this video game i have now develop a handfull of mental disorder and a list of trauma that i be currently work on therapy go a long way when you be a call of duty player but if you ignore your issue it might be time to kick the bucket soon excite to see what other disability and trauma i will develop play black ops will recommend for people seek a mental thrill physical if you be an alcoholic with a wife",
+    "voted_up": false,
+    "app_name": "Call of Duty®: Modern Warfare® II",
+    "id": 13829,
+    "annotator": 3,
+    "annotation_id": 87,
+    "created_at": "2025-01-20T16:29:26.660164Z",
+    "updated_at": "2025-01-20T16:29:26.660198Z",
+    "lead_time": 19.187
+  },
+  {
+    "review_id": 14437,
+    "review": "this game be literally the prime example of a money hungry organization do whatever it take to make a quick buck the game be so buggy and glitchy that it be next to unplayable game have to be extensively test to find bug and this game be rush so money could be make and it show when you be drive and run into an invisible wall that cause your vehicle to take on disable damage or when you can not activate a contract because it be glitched out or when you finish a contract but can not access the reward because it be glitched out and randomly day later the reward be now available it feel almost criminal to have pay and receive something as awful as this",
+    "voted_up": false,
+    "app_name": "Call of Duty®: Modern Warfare® II",
+    "id": 14438,
+    "tag": {
+      "choices": [
+        "bugs",
+        "price",
+        "gameplay",
+        "support"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 68,
+    "created_at": "2025-01-20T16:06:48.034287Z",
+    "updated_at": "2025-01-20T16:06:48.034315Z",
+    "lead_time": 26.434
+  },
+  {
+    "review_id": 14855,
+    "review": "upon load you be immediately meet with an option to purchase some stupid battle pas for whoever think this be a good idea deserve a solid curb stomp for sure",
+    "voted_up": false,
+    "app_name": "Call of Duty®: Modern Warfare® II",
+    "id": 14856,
+    "tag": "seasonal_content",
+    "annotator": 1,
+    "annotation_id": 118,
+    "created_at": "2025-01-20T19:32:55.598484Z",
+    "updated_at": "2025-01-20T19:32:55.598512Z",
+    "lead_time": 20.74
+  },
+  {
+    "review_id": 15862,
+    "review": "gta online be really frustrating it take either minute to load or never load when you enter or exit an apartment or garage it either take minute to load or never load",
+    "voted_up": false,
+    "app_name": "Grand Theft Auto V",
+    "id": 15863,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "bugs"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 102,
+    "created_at": "2025-01-20T16:33:04.383810Z",
+    "updated_at": "2025-01-20T16:33:04.383840Z",
+    "lead_time": 7.639
+  },
+  {
+    "review_id": 15910,
+    "review": "battleye be fuck cringe and do nothing but exclude linux user all you have to do be keep the server run rockstar",
+    "voted_up": false,
+    "app_name": "Grand Theft Auto V",
+    "id": 15911,
+    "tag": "support",
+    "annotator": 4,
+    "annotation_id": 23,
+    "created_at": "2025-01-18T17:04:25.054011Z",
+    "updated_at": "2025-01-18T17:04:25.054038Z",
+    "lead_time": 103.691
+  },
+  {
+    "review_id": 16172,
+    "review": "its fun but the story be kinda eh",
+    "voted_up": true,
+    "app_name": "Grand Theft Auto V",
+    "id": 16173,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 221,
+    "created_at": "2025-01-22T23:08:07.236736Z",
+    "updated_at": "2025-01-22T23:08:07.236782Z",
+    "lead_time": 6.572
+  },
+  {
+    "review_id": 16873,
+    "review": "i would highly reccomend check the shoe shop out its a high heel on the map especially for a younger audience there be alot of fun thing for child",
+    "voted_up": true,
+    "app_name": "Grand Theft Auto V",
+    "id": 16874,
+    "annotator": 3,
+    "annotation_id": 98,
+    "created_at": "2025-01-20T16:32:24.126357Z",
+    "updated_at": "2025-01-20T16:32:24.126386Z",
+    "lead_time": 10.722
+  },
+  {
+    "review_id": 16907,
+    "review": "it be a very old and very bad game why pay lira for a game that come out in it be pointless to pay for game anyway they constantly release new game you can play roblox for free its graphic be better than its vehicle mechanic be better it be a world leader in variety it be the new world leader in download also gta do not set you free it keep go from mission to mission also i tried online everyone have activate the immortality cheat as if it be a joke i be not an incompetent gamer who can not kill he just do not die despite a lot of headshot despite the ridiculous program call battle eye that supposedly block cheat everyone be open cheat i will spam and other gta game score from fake account until they ruin the score steam be a terrible game company establish to make money for gta the reason why it be such a company be that you can not close from steam also do you hide the evaluation section of the game",
+    "voted_up": false,
+    "app_name": "Grand Theft Auto V",
+    "id": 16908,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "visuals",
+        "price",
+        "gameplay",
+        "story",
+        "support",
+        "online_play"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 47,
+    "created_at": "2025-01-18T17:34:24.098023Z",
+    "updated_at": "2025-01-18T17:34:24.098062Z",
+    "lead_time": 90.172
+  },
+  {
+    "review_id": 17242,
+    "review": "great cool and rich entertainment interest character and plot great dialogue",
+    "voted_up": true,
+    "app_name": "Grand Theft Auto V",
+    "id": 17243,
+    "tag": "story",
+    "annotator": 7,
+    "annotation_id": 251,
+    "created_at": "2025-01-22T23:17:55.323721Z",
+    "updated_at": "2025-01-22T23:17:55.323750Z",
+    "lead_time": 11.587
+  },
+  {
+    "review_id": 17812,
+    "review": "the best horror co op game i have ever play especially when you add mod there be no learn curve so it be very easy to pick up and play and at the price to content ratio be a steal definitely give it a try",
+    "voted_up": true,
+    "app_name": "Lethal Company",
+    "id": 17813,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "price"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 63,
+    "created_at": "2025-01-20T16:03:39.556686Z",
+    "updated_at": "2025-01-20T16:03:39.556715Z",
+    "lead_time": 35.291
+  },
+  {
+    "review_id": 17839,
+    "review": "dangerous business deadly corporate fatal bureau devastate enterprise deathly institution harmful agency <NULL> organisation all of these fictional establishment may sound quite hazardous to you perhaps even pernicious however i can assure you that none of these above corporation can even begin to come close to the sheer lethalness of this company let be say for instance that all of the aforementioned synonym of lethal company be actual business compete in the same market as the lethal company let us also say that instead of market share these business be compete to control the most lethalness in the market in this situation all of the theoretical smaller business go bankrupt and the lethal company gain a monopoly over the hazardous establishment market but gain market share be not just about make money or have lethalness in this case there be many underlying factor that contribute towards this growth in company wealth in particular consumer have to ultimately enjoy the product service and continue to support it and as a consumer of lethal company i can safely say that this game be excellent from the design of the monster the variety of item the humorous co op the overall fun of the game play loop it all come together into a lovely package that keep me and i be sure many other consumer hook however if the lethal company be real i be afraid that it would ultimately be face by hundred if not thousand of lawsuit from various source due to the many workplace health and safety violation it be procedure break that would inevitably lead to it be bankruptcy luckily all of these violation be fictional as this be a game so the company can live on in all seriousness this be truly an excellent game and i highly recommend it to everyone",
+    "voted_up": true,
+    "app_name": "Lethal Company",
+    "id": 17840,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 79,
+    "created_at": "2025-01-20T16:21:44.709493Z",
+    "updated_at": "2025-01-20T16:21:44.709524Z",
+    "lead_time": 55.503
+  },
+  {
+    "review_id": 17917,
+    "review": "one of the best game i have play in a while great with friend and you can use mod to go past the default party size can not wait for my next shift",
+    "voted_up": true,
+    "app_name": "Lethal Company",
+    "id": 17918,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "online_play"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 52,
+    "created_at": "2025-01-20T15:52:50.857001Z",
+    "updated_at": "2025-01-20T15:52:50.857027Z",
+    "lead_time": 17.831
+  },
+  {
+    "review_id": 17929,
+    "review": "prop to zeekers for pull off an amazing game on their own truly a one man army certain aspect of the game may feel cheap to people that be use to play triple a game with unlimited funding but you will eventually get over it i have to say the outside environment be pretty normal dare i say uninteresting but that be not what you play this game for the monster here manage to strike a weird balance between uninspired and their own little charm to it of course you have thing like the coilhead or eyeless dog that be really just knock off <NULL> then you have thing like the bracken little girl or jester that really be just downright terrify lethal company also make amazing use of the in game voice chat as it do add to the immersion of be in the game you have to play it to understand me the game play itself be extremely simple and the graphic can be run very easily by low end gpus basically if you be look for a game to play and have fun with your friend i could not recommend this game more",
+    "voted_up": true,
+    "app_name": "Lethal Company",
+    "id": 17930,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "visuals",
+        "sound",
+        "hardware_requirements",
+        "gameplay"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 72,
+    "created_at": "2025-01-20T16:08:39.781977Z",
+    "updated_at": "2025-01-20T16:08:39.782017Z",
+    "lead_time": 57.445
+  },
+  {
+    "review_id": 18210,
+    "review": "yes it be highly unoptimized but it sure as hell its fun there be type of lobby in this game the one that will accuse you of domestic terrorism and kick you the one that will make your day",
+    "voted_up": true,
+    "app_name": "Lethal Company",
+    "id": 18211,
+    "tag": {
+      "choices": [
+        "hardware_requirements",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 208,
+    "created_at": "2025-01-22T23:01:13.017677Z",
+    "updated_at": "2025-01-22T23:01:13.017703Z",
+    "lead_time": 29.942
+  },
+  {
+    "review_id": 18517,
+    "review": "annoyingly good sometimes there be bug like can not select object object keep show up even after my team take it from ground or rarely some ppl in the server have different universe or when i use inverse player sometimes i get stick can not move or all the door be lock so i cant go back to the ship but after all this be a cheap game to begin with so all of that be forgivable because i get great content for my boredom the random seed and the audio thingy be the best to offer for this game so annoyingly good be my best word to describe this game",
+    "voted_up": true,
+    "app_name": "Lethal Company",
+    "id": 18518,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "bugs",
+        "price",
+        "gameplay"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 249,
+    "created_at": "2025-01-22T23:17:30.496521Z",
+    "updated_at": "2025-01-22T23:17:30.496561Z",
+    "lead_time": 24.523
+  },
+  {
+    "review_id": 18531,
+    "review": "really fun game concept but the server browser need to be optimize a lot it should be clear wether or not a server be compatible for you to join or not before you try to join it also the late company mod should be part of the base game you should not need a mod for people to join your server once you have land once other than that once you be in a game with a stack the game be really fun",
+    "voted_up": true,
+    "app_name": "Lethal Company",
+    "id": 18532,
+    "tag": {
+      "choices": [
+        "bugs",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 242,
+    "created_at": "2025-01-22T23:14:16.724855Z",
+    "updated_at": "2025-01-22T23:14:16.724885Z",
+    "lead_time": 13.502
+  },
+  {
+    "review_id": 18914,
+    "review": "i have spend hour toil on the moon with my coworkers and this be one of the best multiplayer experience i have have in a long time i be not a fan of horror game or survival game really i would describe the experience as something like watch paranormal activity with some friend high anxiety scream until you laugh moment well worth the price if you have companion to play with",
+    "voted_up": true,
+    "app_name": "Lethal Company",
+    "id": 18915,
+    "tag": {
+      "choices": [
+        "price",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 35,
+    "created_at": "2025-01-18T17:17:25.808046Z",
+    "updated_at": "2025-01-18T17:17:25.808077Z",
+    "lead_time": 33.017
+  },
+  {
+    "review_id": 19984,
+    "review": "the remake of resident evil have be universally praise as a triumphant reimagining of capcom be action horror masterpiece the remake elevate nearly every aspect of the original from its ominous spanish countryside set to its modernize control and polish gameplay mechanic key highlight enhance gameplay modern twin stick movement weapon swapping and the addition of parry mechanic make combat fluid without reduce the challenge refine combat mechanic player can employ strategic area specific damage effect and use environmental element to gain tactical advantage improve pacing and content the campaign eliminate unnecessary filler feature revamp boss battle and introduces side quest that offer additional reward visuals and audio the re engine bring the world to life with stunning graphic and a hauntingly effective soundscape heighten tension and immersion smarter ai and quality of life update ashleyou s improve ai and the absence of a health bar streamline escort segment while weapon upgrade system feel fairer and more flexible shortcoming the absence of the mercenary mode at launch promise as a future update and the tone down personality of the merchant be minor drawback additional mode like assignment ada and separate way be not include potentially save for dlc verdict the remake strike the perfect balance between nostalgia and modern innovation offer a relentless and exhilarate experience for both return fan and newcomer it s an unmissable adventure cement itself as one of the best resident evil game to date",
+    "voted_up": true,
+    "app_name": "Resident Evil 4",
+    "id": 19985,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "visuals",
+        "sound",
+        "gameplay",
+        "story",
+        "updates"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 43,
+    "created_at": "2025-01-18T17:28:02.325944Z",
+    "updated_at": "2025-01-18T17:28:02.325970Z",
+    "lead_time": 135.141
+  },
+  {
+    "review_id": 20348,
+    "review": "long recommendation incoming these past at least year i have be super obsess with the series my introduction experience be youtubers like markiplier and such play the game my introduction from game be six and four six for me be not really that bad and i think a lot of the design of monster be cool four be what i really liked and i really enjoy what the game have to offer as an introduction game for me even though i never be able to rescue ashley from the church now i originally play this game around a year ago and do not make it past the part after you first meet luis get capture and meet the merchant after a year of when i first play this game i buy it and play through it i be not do with the game yet but i truly do love this game the overall setting and graphic in this game be absolutely phenomenal the game look amazing and better than any of the previous remake before it the voice act in this game be also great as well as the cutscenes and such capcom do so well with this game the combat in this game feel perfect and way well than the original especially aim i use to feel so lock in place when aiming and the original just felt pretty slow overall and you felt lock in place when try to preform quick action the knife importance in this game really give the knife true mean the enemy in this game feel so well think out and they each have their own role in fight most of the fight that i have encounter so far be just raid of people but some of them could be parasite and then get a whole second life or they could turn into a parasite if you do not stab them when theyou re <NULL> on the ground the boss in this game unimportant or not be still very fun and add a challenge to the game that be not to present just through regular enemy overall even though this game come out last year this have definitely be one of my top game of and i encourage anyone who be look to spend money on something to buy this game as you will most likely enjoy it unless shooter survival horror be not exactly your style",
+    "voted_up": true,
+    "app_name": "Resident Evil 4",
+    "id": 20349,
+    "tag": {
+      "choices": [
+        "visuals",
+        "sound",
+        "price",
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 25,
+    "created_at": "2025-01-18T17:09:00.557966Z",
+    "updated_at": "2025-01-18T17:09:00.557995Z",
+    "lead_time": 170.717
+  },
+  {
+    "review_id": 21230,
+    "review": "an amazing remake to an amazing game definitely worth a pick up drawback imo the music score be much well in the original especially during the regenerator moment but it be available as dlc for remake",
+    "voted_up": true,
+    "app_name": "Resident Evil 4",
+    "id": 21231,
+    "tag": {
+      "choices": [
+        "sound",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 234,
+    "created_at": "2025-01-22T23:12:48.980350Z",
+    "updated_at": "2025-01-22T23:12:48.980378Z",
+    "lead_time": 14.763
+  },
+  {
+    "review_id": 21441,
+    "review": "great remake once again from capcom you can see the love and care this entry have see and it speak for itself top notch from start to finish and at least for me up there with the which be my favourite highly recommend",
+    "voted_up": true,
+    "app_name": "Resident Evil 4",
+    "id": 21442,
+    "tag": "story",
+    "annotator": 1,
+    "annotation_id": 191,
+    "created_at": "2025-01-22T13:32:02.009210Z",
+    "updated_at": "2025-01-22T13:32:02.009236Z",
+    "lead_time": 57.603
+  },
+  {
+    "review_id": 21476,
+    "review": "this be what i will call a near perfect remake one to one creation from the original with new content add love the way they expand on krauser and leon be story and relationship but at the same time they kinda degrade the role of lord saddler which be the only thing i find to criticize about this game combat be so satisfying and the new weapon and accessory be amaze mercenary mode and separate way dlc be back for which i be glad they do not choose to go through the same path as remake overall a game for both as an individual game and a remake",
+    "voted_up": true,
+    "app_name": "Resident Evil 4",
+    "id": 21477,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "story",
+        "updates",
+        "seasonal_content"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 123,
+    "created_at": "2025-01-20T21:35:49.830520Z",
+    "updated_at": "2025-01-20T21:35:49.830559Z",
+    "lead_time": 324.756
+  },
+  {
+    "review_id": 21482,
+    "review": "village play like a survival horror game castle play like a survival game island play like a fps game",
+    "voted_up": true,
+    "app_name": "Resident Evil 4",
+    "id": 21483,
+    "tag": "gameplay",
+    "annotator": 1,
+    "annotation_id": 114,
+    "created_at": "2025-01-20T19:30:24.499996Z",
+    "updated_at": "2025-01-20T19:30:24.500024Z",
+    "lead_time": 21.637
+  },
+  {
+    "review_id": 21940,
+    "review": "do not even start crash log show nothing multiple reinstall no support from developer roll driver back fresh driver install update window then reinstall i do not use mod on any game windows firewall allow access verify integrity game be launch then black screen then desktop the unreal crash report tool do not even open up to let me know what be wrong i have to go to native folder in the install directory to find crash log the error give a memory read error that could be a million different thing not trouble shoot all that ryzen rx xt ram windows up to date clearly my configuration be the problem but with literally no other game have this issue mean there be some cod bug that do not play well with my configuration oh well",
+    "voted_up": false,
+    "app_name": "Remnant II",
+    "id": 21941,
+    "tag": {
+      "choices": [
+        "bugs",
+        "hardware_requirements",
+        "support",
+        "updates"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 146,
+    "created_at": "2025-01-22T11:20:33.932079Z",
+    "updated_at": "2025-01-22T11:20:33.932106Z",
+    "lead_time": 439.727
+  },
+  {
+    "review_id": 22173,
+    "review": "if you can get all dlcs as a bundle it be definitely worth it still a bit expensive but the base game be cheap so it cancel out imo",
+    "voted_up": true,
+    "app_name": "Remnant II",
+    "id": 22174,
+    "tag": "price",
+    "annotator": 5,
+    "annotation_id": 176,
+    "created_at": "2025-01-22T12:39:41.157796Z",
+    "updated_at": "2025-01-22T12:39:41.157823Z",
+    "lead_time": 13.416
+  },
+  {
+    "review_id": 23241,
+    "review": "remnant be an excellent sequel that besides some minor and one major issue improve on everything the original do on such a scale that i highly encourage pick it up for anyone even slightly interested in soulslike fromsoft game even if the gun focus do not seem initially like your jam there be much that be familiar and the rest be a nice change of pace from other soulslike game the randomization aspect of level and loot be reason enough to provide gameplay for a good while in this review i will go over some of the basic of what make this game so good while be vague so as to not spoil any of the experience this review be write after the first dlc launch and it will be update if anything significant happen as the rest of them be release first off the archetype the best thing i can say about the class system of this game be that i hope other game will steal the idea from this one as the way remnant do it be brilliant each class provide a selection of three active ability of which only one can be equip and use at a time and several passive perk along with a powerful prime perk that provide a major change to how you play the game the medic class for instance can recover estus charge your heal potion if you be new to the genre by heal ally allow them to keep themselves and others alive longer their ability heal in various way and can even revive fallen ally back to their foot once you have the item for a class you can swap them at any time thus allow you to freely switch up whenever you feel like you can also have two class equip at a time provide many unique combination of ability and passive perk it be a blast to think of and play as different combination with many of them have synergy with each other there be a good selection of class to start from and you can unlock more by find obscure secret as you play through the game some be not all that powerful but even the worst one have their use case secondly the loot you can equip up to four different ring an amulet a long gun a hand gun a melee weapon an estus flask and your choice of four armor piece weapon mod and mutators also affect how you play of these the one that stand out the most be rings amulet weapon mod and weapon ring and amulet provide passive effect to your character with some vary from boost reload speed damage or just give you a chance to not consume estus upon use amulet often have more powerful unique effect like release toxic gas upon switch weapon or cause reloads to only consume half the ammo you reload ring tend to be more minor but still retain significant effect on your build with more than amulet and more than ring in the game there be plenty to choose from weapon vary in effect from bow to rifle to shotguns with most have their own unique niche that they fulfil basic long gun and hand gun can equip weapon mod while bos weapon and unique weapon usually have their own custom weapon mod that can not be remove weapon mod be like spell you can fire from your gun with some just dealing damage some firing heal energy while others create new weakspots on hit enemy most gun and weapon mod be useful or even build define with some fall short compare to what others provide again there be plenty to choose from melee weapon also exist but theyou re much more simplified compare to common soulslike weapon each one have a combo string a heavy attack and a backlash attack many of the unique weapon change how you use them with some be throwable while others might leave a damage over time effect melee combat be a great alternative to use ammo on common enemy but against many of the boss it be either reckless or basically impossible estus flask or relic as the game call them come in many variety some heal you instantly on use others heal over time some provide other bizzare way to regain health with unique one to choose from this system be like if salt and sanctuary healing be overhaul and expand on not all be make equal but the stand out one can define how you build your character not go to spoil them of course armor be divide into light medium heavy and ultra heavy variety it use a similar weight base system common to soulslikes where wear heavier armor grant you better defence at the cost of slower invincibility roll and more stamen consumption while lighter armor allow you to roll faster at the cost of less resistance there be good variety in aesthetic with some be fantasy like some be just utilitarian armor while others be just something like a cowboy costume armor do not provide anything beyond defence which be a shame since they have ability in the first game but the other loot provide them in spade thirdly boss fight the main boss be a treat unique fight that have a twist that change up the normal dodging and weaving of normal fight they be challenge and satisfy to take down and even the minibosses pose a unique threat two especially memorable fight that everyone will meet regardless of randomization be sure to stick out love or hate theyou re excellent in provide a unique challenge you can not find elsewhere the final bos will thoroughly test you and your build do not be discourage keep up the fight skeleton now you know the basic of what make this game cool all that be leave be to mention the few issue the game have major issue performance with the release of the first dlc performance have take a dive i do not mean that it be a constant low framerate mess just that sometimes in some area it dip below what it should be my computer can run the game on ultra setting just fine but in some of the dlc area the framerate have be reduce to less than a single frame every second while the computer scream in agony these dip tend to pass after a while but it have get me kill more than once if you do not plan on get the dlc this should not affect you atleast accord to some user report which might not be reliable minor gripe economy scrap the main resource of the game be hard to come by environmental object and common enemy drop pitiful amount while chest boss and minibosses provide slightly more all in all you can not afford much beyond upgrade your main weapon until you start grind an area you have already explore once again the highest yield of scrap can be gain from pick up either amulet ring you already have or tome of trait after you have reach the trait cap as a result the consumable item like buff potion be almost a bad investment when compare to save for buy permanent power in the form of new weapon weapon mod and weapon upgrade if it be up to me i boost income by introduce item like the soul from dark soul or rune from elden ring a pickup that grant you scrap upon consume it these could drop from any viable loot source and if theyou d boost the player income by say you have enough to go around for buy consumables or try new weapon from the shop or whatever else you might use it for story the main story be very barebones it be just an excuse to go see cool world and shoot enemy for loot no lore channel will spring forth to explain the main story as there be not much to go on the world building for each of the area be interesting and fun to read",
+    "voted_up": true,
+    "app_name": "Remnant II",
+    "id": 23242,
+    "tag": {
+      "choices": [
+        "visuals",
+        "sound",
+        "hardware_requirements",
+        "price",
+        "gameplay",
+        "story",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 219,
+    "created_at": "2025-01-22T23:07:01.885864Z",
+    "updated_at": "2025-01-22T23:07:01.885890Z",
+    "lead_time": 30.29
+  },
+  {
+    "review_id": 23493,
+    "review": "the game be make terribly and there be nothing in it except graphic the previous part be much better i will not buy the third and i will not recommend it to anyone",
+    "voted_up": false,
+    "app_name": "Remnant II",
+    "id": 23494,
+    "tag": {
+      "choices": [
+        "visuals",
+        "price",
+        "gameplay",
+        "support"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 210,
+    "created_at": "2025-01-22T23:01:56.379513Z",
+    "updated_at": "2025-01-22T23:01:56.379551Z",
+    "lead_time": 13.621
+  },
+  {
+    "review_id": 23560,
+    "review": "i get in with a server full of bots game be not dead its just annoying to play the game",
+    "voted_up": true,
+    "app_name": "Team Fortress 2",
+    "id": 23561,
+    "tag": "online_play",
+    "annotator": 4,
+    "annotation_id": 33,
+    "created_at": "2025-01-18T17:16:33.503145Z",
+    "updated_at": "2025-01-18T17:16:33.503174Z",
+    "lead_time": 38.737
+  },
+  {
+    "review_id": 23719,
+    "review": "play team fortress during the bot apocalypse felt like be trap in a movie direct by a hyperactive squirrel every game i play there be a bot wait to introduce me to their friend aimbot it be like try to play chess against a team of supercomputer program to laugh maniacally every time they <NULL> you at this point i be pretty sure the stand for fucked because that be how i felt every time i respawned",
+    "voted_up": false,
+    "app_name": "Team Fortress 2",
+    "id": 23720,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 66,
+    "created_at": "2025-01-20T16:06:13.587321Z",
+    "updated_at": "2025-01-20T16:06:13.587348Z",
+    "lead_time": 81.697
+  },
+  {
+    "review_id": 23881,
+    "review": "one of my favorite game but be plague with lot of issue especially in casual bot valve should pay attention more to the community that have drive it for many year and thrown money towards them even for bad seasonal crate community deserve more but instead get a cold shoulder",
+    "voted_up": false,
+    "app_name": "Team Fortress 2",
+    "id": 23882,
+    "tag": {
+      "choices": [
+        "support",
+        "online_play",
+        "seasonal_content"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 56,
+    "created_at": "2025-01-20T15:55:05.908595Z",
+    "updated_at": "2025-01-20T15:55:05.908634Z",
+    "lead_time": 48.002
+  },
+  {
+    "review_id": 24063,
+    "review": "besides the cheater and bot infested lobby the game just straight up suck there be no way to romance miss pauling no way to view miss pauling model in a space for hour on end and there be no way to get my parent to approve my marriage to miss pauling turn her into <NULL> pauling of course",
+    "voted_up": false,
+    "app_name": "Team Fortress 2",
+    "id": 24064,
+    "tag": {
+      "choices": [
+        "story",
+        "online_play"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 199,
+    "created_at": "2025-01-22T13:37:49.081455Z",
+    "updated_at": "2025-01-22T13:37:49.081486Z",
+    "lead_time": 49.621
+  },
+  {
+    "review_id": 24845,
+    "review": "probably the best game on steam although its a sequel it be well than the original it be free to play and the source film maker be epic",
+    "voted_up": true,
+    "app_name": "Team Fortress 2",
+    "id": 24846,
+    "tag": {
+      "choices": [
+        "visuals",
+        "price",
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 186,
+    "created_at": "2025-01-22T12:47:49.559143Z",
+    "updated_at": "2025-01-22T12:47:49.559169Z",
+    "lead_time": 21.044
+  },
+  {
+    "review_id": 24937,
+    "review": "love this game probably the best shooter with an original style funny voice line a very strong community a low and high skill level a lot of quirky moment and of course hat what more can i ask for oh boii i hope valve still support this old game it be not like theyou ve abandon it",
+    "voted_up": true,
+    "app_name": "Team Fortress 2",
+    "id": 24938,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "sound",
+        "support"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 75,
+    "created_at": "2025-01-20T16:19:13.100497Z",
+    "updated_at": "2025-01-20T16:19:13.100525Z",
+    "lead_time": 29.675
+  },
+  {
+    "review_id": 24989,
+    "review": "i wish i could have spend more time playing such a cherished game but nothing shun away new player like uncontrollable bot until valve come back and fixes team fortress i will be play something else",
+    "voted_up": false,
+    "app_name": "Team Fortress 2",
+    "id": 24990,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 164,
+    "created_at": "2025-01-22T12:23:02.220831Z",
+    "updated_at": "2025-01-22T12:23:02.220868Z",
+    "lead_time": 37.976
+  },
+  {
+    "review_id": 25126,
+    "review": "the gameplay itself be good but the game be ruin by bot and it seem like valve be ignore it sadly i do not think they will fix this anytime soon",
+    "voted_up": false,
+    "app_name": "Team Fortress 2",
+    "id": 25127,
+    "tag": "gamemode",
+    "annotator": 6,
+    "annotation_id": 201,
+    "created_at": "2025-01-22T22:26:16.433093Z",
+    "updated_at": "2025-01-22T22:26:16.433119Z",
+    "lead_time": 61.141
+  },
+  {
+    "review_id": 25190,
+    "review": "this game strangely never really get repetitive in my opinion as of this review i have hour of game playtime and i have enjoy every single second of it i may have come late to the party as i start play in miss the year of this game it have not change since i start play quite literally but yet again it never come to be as repetitive i my view this game have no definitive you can always change up how you play the game and still have fun this be the first computer game i ever play and feel like it will be the last if i ever stop play despite its cheater bot crisis this game be a masterpiece",
+    "voted_up": true,
+    "app_name": "Team Fortress 2",
+    "id": 25191,
+    "tag": {
+      "choices": [
+        "price",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 227,
+    "created_at": "2025-01-22T23:10:06.807647Z",
+    "updated_at": "2025-01-22T23:10:06.807679Z",
+    "lead_time": 14.481
+  },
+  {
+    "review_id": 25342,
+    "review": "this game can be wonderful and i have a great deal of wonderful memory on this game but due to the publisher inaction have allow for hacker swarm on the pub server community server tend to fair better it could be still great but valve do not take care of any of their other game much pas release anymore this review will change only when valve get their act together as for how they monetize the game they do not take care of it in return",
+    "voted_up": false,
+    "app_name": "Team Fortress 2",
+    "id": 25343,
+    "tag": {
+      "choices": [
+        "price",
+        "support",
+        "online_play"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 54,
+    "created_at": "2025-01-20T15:53:28.088374Z",
+    "updated_at": "2025-01-20T15:53:28.088479Z",
+    "lead_time": 26.673
+  },
+  {
+    "review_id": 25350,
+    "review": "i have be play for year and it be my favorite game of all time and i grow up play atari ne but the bot issue have make unplayable and valve continue to do nothing to resolve it they post two year ago that they hear us and be work on a solution yet nothing they continue to release seasonal update only to have the server flood with bot one of the greatest game to ever exist be be ignore to the point that we can no longer play it not because it have become outdated over the natural course of time but because valve have have choose to ignore it as they continue to make money off of us buy key mvm pass and cosmetic while they do nothing to fix the bot crisis",
+    "voted_up": false,
+    "app_name": "Team Fortress 2",
+    "id": 25351,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "updates",
+        "seasonal_content"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 180,
+    "created_at": "2025-01-22T12:43:07.307624Z",
+    "updated_at": "2025-01-22T12:43:07.307655Z",
+    "lead_time": 27.368
+  },
+  {
+    "review_id": 27045,
+    "review": "this review will stay negative until capcom come forward and retract try to use drm for game that we already own and damage performance and mod use",
+    "voted_up": false,
+    "app_name": "MONSTER HUNTER RISE",
+    "id": 27046,
+    "tag": {
+      "choices": [
+        "hardware_requirements",
+        "price"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 215,
+    "created_at": "2025-01-22T23:05:35.045433Z",
+    "updated_at": "2025-01-22T23:05:35.045512Z",
+    "lead_time": 11.518
+  },
+  {
+    "review_id": 27842,
+    "review": "this be a very stratagy game and take time and effort make it good for people to play and learn how to acutally have fun",
+    "voted_up": true,
+    "app_name": "ARK: Survival Evolved",
+    "id": 27843,
+    "tag": "gameplay",
+    "annotator": 4,
+    "annotation_id": 21,
+    "created_at": "2025-01-18T17:00:59.966145Z",
+    "updated_at": "2025-01-18T17:00:59.966176Z",
+    "lead_time": 39.699
+  },
+  {
+    "review_id": 30702,
+    "review": "watch rust for year on youtube finally purchase it and its a trip game community can be toxic or awesome but the game be fun pulse pounding stuff",
+    "voted_up": true,
+    "app_name": "Rust",
+    "id": 30703,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 190,
+    "created_at": "2025-01-22T13:31:03.863074Z",
+    "updated_at": "2025-01-22T13:31:03.863103Z",
+    "lead_time": 36.597
+  },
+  {
+    "review_id": 30744,
+    "review": "good game super toxic very fun youre bad sit",
+    "voted_up": true,
+    "app_name": "Rust",
+    "id": 30745,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 217,
+    "created_at": "2025-01-22T23:06:13.742949Z",
+    "updated_at": "2025-01-22T23:06:13.742988Z",
+    "lead_time": 25.518
+  },
+  {
+    "review_id": 31047,
+    "review": "its a fun survival game but the pvp be brutal to get start and some of the people who play this be very disturb",
+    "voted_up": true,
+    "app_name": "Rust",
+    "id": 31048,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 192,
+    "created_at": "2025-01-22T13:32:30.468160Z",
+    "updated_at": "2025-01-22T13:32:30.468187Z",
+    "lead_time": 27.976
+  },
+  {
+    "review_id": 32526,
+    "review": "be new to the series it take a while to get use to all the different part and build but the combat be fast paced and incredibly satisfy the visuals and the sense of scale be fantastic the arena battle be a great way to challenge yourself against different ac and play about with different build and the variety of different part and weapon allow you to approach mission and battle use different strategy the game also run incredibly well and i have have zero issue performance wise would definitely recommend",
+    "voted_up": true,
+    "app_name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+    "id": 32527,
+    "tag": {
+      "choices": [
+        "visuals",
+        "hardware_requirements",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 142,
+    "created_at": "2025-01-22T10:42:59.939249Z",
+    "updated_at": "2025-01-22T10:42:59.939280Z",
+    "lead_time": 262.86
+  },
+  {
+    "review_id": 32551,
+    "review": "before even beat once i have issue with but after get a good build and strategy it be quite easy fight not sure if i do but already do with all end and love all of them after play like hour i can say that this be one of the best game of",
+    "voted_up": true,
+    "app_name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+    "id": 32552,
+    "tag": "gameplay",
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2025-01-18T14:00:45.688698Z",
+    "updated_at": "2025-01-18T14:00:45.688726Z",
+    "lead_time": 71.85
+  },
+  {
+    "review_id": 33875,
+    "review": "i love how many wallpaper there be and how i can customize each you can search any wallpaper you like there be even move wallpaper and sum normal one too can also have some wallpaper which be great recommended",
+    "voted_up": true,
+    "app_name": "Wallpaper Engine",
+    "id": 33876,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 216,
+    "created_at": "2025-01-22T23:05:47.791034Z",
+    "updated_at": "2025-01-22T23:05:47.791082Z",
+    "lead_time": 12.361
+  },
+  {
+    "review_id": 34186,
+    "review": "love theses wallpaper it be amaze that many of them have build in music and or interactive wallpaper",
+    "voted_up": true,
+    "app_name": "Wallpaper Engine",
+    "id": 34187,
+    "tag": {
+      "choices": [
+        "visuals",
+        "sound"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 148,
+    "created_at": "2025-01-22T11:27:44.139144Z",
+    "updated_at": "2025-01-22T11:27:44.139175Z",
+    "lead_time": 110.357
+  },
+  {
+    "review_id": 34360,
+    "review": "really good except the people that make workshop wallpaper",
+    "voted_up": true,
+    "app_name": "Wallpaper Engine",
+    "id": 34361,
+    "tag": "support",
+    "annotator": 3,
+    "annotation_id": 76,
+    "created_at": "2025-01-20T16:19:25.043047Z",
+    "updated_at": "2025-01-20T16:19:25.043131Z",
+    "lead_time": 11.364
+  },
+  {
+    "review_id": 34457,
+    "review": "love it use the app on my phone the most since i have a potato for a pc but even if i use it on my pc i do not have much trouble run it if i be not play anything in the background definitely recommend this over any free apps",
+    "voted_up": true,
+    "app_name": "Wallpaper Engine",
+    "id": 34458,
+    "tag": {
+      "choices": [
+        "hardware_requirements",
+        "price"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 165,
+    "created_at": "2025-01-22T12:24:45.566040Z",
+    "updated_at": "2025-01-22T12:24:45.566066Z",
+    "lead_time": 71.384
+  },
+  {
+    "review_id": 34740,
+    "review": "if you want more that just a dark background or you feel bore with a static image if these apply to you than use this will satisfy you",
+    "voted_up": true,
+    "app_name": "Wallpaper Engine",
+    "id": 34741,
+    "tag": "support",
+    "annotator": 4,
+    "annotation_id": 134,
+    "created_at": "2025-01-20T22:01:32.714377Z",
+    "updated_at": "2025-01-20T22:01:32.714425Z",
+    "lead_time": 15.32
+  },
+  {
+    "review_id": 35255,
+    "review": "good wallpaper on here little to no bug in my experience",
+    "voted_up": true,
+    "app_name": "Wallpaper Engine",
+    "id": 35256,
+    "tag": "bugs",
+    "annotator": 7,
+    "annotation_id": 235,
+    "created_at": "2025-01-22T23:13:00.467574Z",
+    "updated_at": "2025-01-22T23:13:00.467622Z",
+    "lead_time": 10.992
+  },
+  {
+    "review_id": 35409,
+    "review": "very good game graphic",
+    "voted_up": true,
+    "app_name": "FIFA 22",
+    "id": 35410,
+    "tag": "visuals",
+    "annotator": 5,
+    "annotation_id": 189,
+    "created_at": "2025-01-22T12:50:08.642626Z",
+    "updated_at": "2025-01-22T12:50:08.642655Z",
+    "lead_time": 15.944
+  },
+  {
+    "review_id": 35899,
+    "review": "very nice game",
+    "voted_up": true,
+    "app_name": "FIFA 22",
+    "id": 35900,
+    "tag": "gameplay",
+    "annotator": 7,
+    "annotation_id": 239,
+    "created_at": "2025-01-22T23:13:43.554609Z",
+    "updated_at": "2025-01-22T23:13:43.554636Z",
+    "lead_time": 2.619
+  },
+  {
+    "review_id": 36015,
+    "review": "its just so good",
+    "voted_up": true,
+    "app_name": "FIFA 22",
+    "id": 36016,
+    "annotator": 3,
+    "annotation_id": 67,
+    "created_at": "2025-01-20T16:06:21.053895Z",
+    "updated_at": "2025-01-20T16:06:21.053921Z",
+    "lead_time": 6.869
+  },
+  {
+    "review_id": 36956,
+    "review": "bungie be way to greedy also i do not recommend play this game i play for hour and i be almost so addicted i could not stop despite the garbage bungie put out i do not give a damn my dad be the one who force me to stop play the game and i be grateful for that hour may not be much but if i do not quit i would have well over hour possibly more on this heap of garbage they call a game the graphic be beautiful and probably the best part about the game for me but bungies greed be to much like i say my dad saw me get to addict and force me to stop play completely i be so glad he do it teach me a valuable lesson over time even though i be still work on the habit of not waste my time of these type of game",
+    "voted_up": false,
+    "app_name": "Destiny 2",
+    "id": 36957,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 129,
+    "created_at": "2025-01-20T21:47:27.475627Z",
+    "updated_at": "2025-01-20T21:47:27.475654Z",
+    "lead_time": 366.822
+  },
+  {
+    "review_id": 36974,
+    "review": "i play it when it come out it be an ok shooter all the friend who say they be go to get it do not i play it for a while after launch but go to play different stuff i come back in winter of and have no idea where anything be what all this new shit be all over the place what to do and where to go i want to go back and play the base campaign and first expansion but i do not know how to do that because all they give me be a few short catch up mission on the plot i dont care i wan na go back and play it from the start with power they get over buck out of me when it be release what a wast i will probably never come back",
+    "voted_up": false,
+    "app_name": "Destiny 2",
+    "id": 36975,
+    "tag": {
+      "choices": [
+        "price",
+        "story",
+        "updates"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 197,
+    "created_at": "2025-01-22T13:36:15.603698Z",
+    "updated_at": "2025-01-22T13:36:15.603729Z",
+    "lead_time": 81.979
+  },
+  {
+    "review_id": 37303,
+    "review": "thing to do in destiny start game up sit there for hour quit game play another game that actually care about the player base and that give content that be enjoyable uninstall the game ignore youtube video about destiny and finally spend another hundred of hour on war thunder because gun go brr",
+    "voted_up": false,
+    "app_name": "Destiny 2",
+    "id": 37304,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "support"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 59,
+    "created_at": "2025-01-20T15:56:43.666602Z",
+    "updated_at": "2025-01-20T15:56:43.666629Z",
+    "lead_time": 38.075
+  },
+  {
+    "review_id": 37633,
+    "review": "even with all it be faults there be not another game like it and it always draw you back in for the grind",
+    "voted_up": true,
+    "app_name": "Destiny 2",
+    "id": 37634,
+    "tag": "gameplay",
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2025-01-18T14:01:58.344673Z",
+    "updated_at": "2025-01-18T14:01:58.344702Z",
+    "lead_time": 71.973
+  },
+  {
+    "review_id": 37703,
+    "review": "after take a break and wait for some discount i want to play the game again first i get different cutscenes into my face and throw into a high power level mission which frustrate me very hard before i realize that i can just leave the mission after leave it i decide to at least continue the dlc which i never finish but i cant play the mission like before because bungie wont let me finish it",
+    "voted_up": false,
+    "app_name": "Destiny 2",
+    "id": 37704,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 237,
+    "created_at": "2025-01-22T23:13:31.300976Z",
+    "updated_at": "2025-01-22T23:13:31.301004Z",
+    "lead_time": 25.738
+  },
+  {
+    "review_id": 37858,
+    "review": "in the begin the game be more or less a masterpiece in term of the story and design but the biggest drawback be that you can spend hour figure out what you need to do in order to achieve the guardian rankup one of the bug i notice in the meantime be that make clan do not work but i ignore it and continue play until i almost hit guardian rank and that be where i put an end to everything to achieve guardian rank i have to pay for the seasonal pas to achieve the most common rank and to pay to continue the main story there be in every game but this be by far the worst it be nice while it last but i do not recommend others to play",
+    "voted_up": false,
+    "app_name": "Destiny 2",
+    "id": 37859,
+    "tag": {
+      "choices": [
+        "bugs",
+        "price",
+        "story",
+        "seasonal_content"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 230,
+    "created_at": "2025-01-22T23:11:18.182541Z",
+    "updated_at": "2025-01-22T23:11:18.182569Z",
+    "lead_time": 22.211
+  },
+  {
+    "review_id": 38848,
+    "review": "the last fm i play be fm and honestly there be no important difference between the two not worth it",
+    "voted_up": false,
+    "app_name": "Football Manager 2022",
+    "id": 38849,
+    "tag": {
+      "choices": [
+        "price",
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 209,
+    "created_at": "2025-01-22T23:01:42.287149Z",
+    "updated_at": "2025-01-22T23:01:42.287175Z",
+    "lead_time": 28.807
+  },
+  {
+    "review_id": 38867,
+    "review": "i both love and hate this game and i suspect others have the same feeling",
+    "voted_up": true,
+    "app_name": "Football Manager 2022",
+    "id": 38868,
+    "tag": "gameplay",
+    "annotator": 7,
+    "annotation_id": 206,
+    "created_at": "2025-01-22T23:00:13.591605Z",
+    "updated_at": "2025-01-22T23:00:13.591638Z",
+    "lead_time": 39.736
+  },
+  {
+    "review_id": 39067,
+    "review": "it be alright played a bit",
+    "voted_up": true,
+    "app_name": "Football Manager 2022",
+    "id": 39068,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 202,
+    "created_at": "2025-01-22T22:56:21.452559Z",
+    "updated_at": "2025-01-22T22:56:21.452608Z",
+    "lead_time": 27.515
+  },
+  {
+    "review_id": 39274,
+    "review": "never in my life have i play a sandbox game and think man i need to go find all the collectible until this one swing around the city be so much fun that it make you want to go get all the backpack <NULL> whatever",
+    "voted_up": true,
+    "app_name": "Marvel’s Spider-Man Remastered",
+    "id": 39275,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 198,
+    "created_at": "2025-01-22T13:36:58.925878Z",
+    "updated_at": "2025-01-22T13:36:58.925910Z",
+    "lead_time": 42.781
+  },
+  {
+    "review_id": 39318,
+    "review": "major ubisoft open world vibe do the same stuff over and over and over in location across the map still have fun with it but the stealth mission be fuck terrible give us an option to skip these stop put stealth mission in spider man game",
+    "voted_up": false,
+    "app_name": "Marvel’s Spider-Man Remastered",
+    "id": 39319,
+    "tag": "story",
+    "annotator": 5,
+    "annotation_id": 153,
+    "created_at": "2025-01-22T11:52:13.118542Z",
+    "updated_at": "2025-01-22T11:52:13.118581Z",
+    "lead_time": 63.248
+  },
+  {
+    "review_id": 39516,
+    "review": "very cool great graphic and great combat",
+    "voted_up": true,
+    "app_name": "Marvel’s Spider-Man Remastered",
+    "id": 39517,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 88,
+    "created_at": "2025-01-20T16:29:31.342645Z",
+    "updated_at": "2025-01-20T16:29:31.342670Z",
+    "lead_time": 4.139
+  },
+  {
+    "review_id": 40421,
+    "review": "this game be a tough one for me to review i love the combat and feel of be spiderman it really make you feel like spiderman and that be not easy to do web sling across new york never get old though i do recommend mod and the way you can visit and climb anywhere and everywhere be certainly fun the character be fun if not one dimensional this game have a lot of love put in and you can feel the developer take care to honor the character and its world however the mission design compare to the rest of the game be outdated side quest consist of you go to somewhere and beat enemy there or go somewhere and catch stuff there boring collectible repetitive side mission mind numbing challenge all contribute to the game become stale for me as i play longer this game be not exactly cheap and with that in mind i could not wait to get the game over with and that be really a shame overall it be a pretty good game bring down by some bad section and design",
+    "voted_up": true,
+    "app_name": "Marvel’s Spider-Man Remastered",
+    "id": 40422,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "support"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 77,
+    "created_at": "2025-01-20T16:20:04.980206Z",
+    "updated_at": "2025-01-20T16:20:04.980234Z",
+    "lead_time": 39.338
+  },
+  {
+    "review_id": 40578,
+    "review": "with the latest patch the game crash on fast travel and challenge without any way to resolve it other than that it be fun",
+    "voted_up": false,
+    "app_name": "Marvel’s Spider-Man Remastered",
+    "id": 40579,
+    "tag": "bugs",
+    "annotator": 4,
+    "annotation_id": 127,
+    "created_at": "2025-01-20T21:40:47.338567Z",
+    "updated_at": "2025-01-20T21:40:47.338593Z",
+    "lead_time": 16.231
+  },
+  {
+    "review_id": 40580,
+    "review": "never have a playstation to play this series finally get it on pc be a real treat short game even for high completion have a to increase time as well note for others you can skip the cinematics by hit pause menu during scene and select skip cutscene",
+    "voted_up": true,
+    "app_name": "Marvel’s Spider-Man Remastered",
+    "id": 40581,
+    "tag": {
+      "choices": [
+        "hardware_requirements",
+        "gameplay"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 122,
+    "created_at": "2025-01-20T21:30:23.468251Z",
+    "updated_at": "2025-01-20T21:30:23.468276Z",
+    "lead_time": 107.965
+  },
+  {
+    "review_id": 41474,
+    "review": "the close combat battle system be well think fun and addict this provide a passion for improvement and compete with others by learn plenty of character skill weapon movesets as well as improve movement technics combo and so on only the matchmaking can be frustrate when you be a match with a asura player infinite comboing you into death without any resistance at the begin more hour into the game it feel good land some strike or parry and get a piece of revenge",
+    "voted_up": true,
+    "app_name": "NARAKA: BLADEPOINT",
+    "id": 41475,
+    "tag": "gameplay",
+    "annotator": 5,
+    "annotation_id": 157,
+    "created_at": "2025-01-22T12:02:58.408095Z",
+    "updated_at": "2025-01-22T12:02:58.408124Z",
+    "lead_time": 50.67
+  },
+  {
+    "review_id": 42183,
+    "review": "the weapon feel great and the game be very exquisite",
+    "voted_up": true,
+    "app_name": "NARAKA: BLADEPOINT",
+    "id": 42184,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 140,
+    "created_at": "2025-01-22T09:59:37.035049Z",
+    "updated_at": "2025-01-22T10:10:44.689857Z",
+    "lead_time": 122.572
+  },
+  {
+    "review_id": 42536,
+    "review": "graphic be crazy",
+    "voted_up": true,
+    "app_name": "NARAKA: BLADEPOINT",
+    "id": 42537,
+    "tag": "visuals",
+    "annotator": 4,
+    "annotation_id": 18,
+    "created_at": "2025-01-18T16:57:11.731588Z",
+    "updated_at": "2025-01-18T16:57:11.731614Z",
+    "lead_time": 28.734
+  },
+  {
+    "review_id": 43552,
+    "review": "have a problem with change email but the dev team pull thru",
+    "voted_up": true,
+    "app_name": "Warframe",
+    "id": 43553,
+    "tag": "support",
+    "annotator": 3,
+    "annotation_id": 90,
+    "created_at": "2025-01-20T16:29:42.653106Z",
+    "updated_at": "2025-01-20T16:29:42.653134Z",
+    "lead_time": 3.596
+  },
+  {
+    "review_id": 44414,
+    "review": "warframe be life warframe have the most wholesome community the highest ranking member often spend lot of time help out and teach beginner just for fun de the developer provide some of the best support in the video game world warframe be constantly be update and refine you absolutely can play without spend any money however if you be anything like me you will find yourself eager to contribute to and support the hard working team warframe be life p i know this probably sound like i be a shill but warframe really be a special game",
+    "voted_up": true,
+    "app_name": "Warframe",
+    "id": 44415,
+    "tag": {
+      "choices": [
+        "price",
+        "support",
+        "online_play",
+        "updates"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 30,
+    "created_at": "2025-01-18T17:13:23.131828Z",
+    "updated_at": "2025-01-18T17:13:23.131853Z",
+    "lead_time": 63.465
+  },
+  {
+    "review_id": 44512,
+    "review": "good game free battlepass huge variation of weapon all frame character feel different when play them paid currency can be obtain by farm stuff n sell it to other player downsides its farm heavy crate take time like craft a frame take day if u get all the part early weapon be rather weak the game doesnt explain well how everything work side note on the con you can rush all craft however it cost plat plat be the paid currency again you can obtain for free by sell prime warframes weapon etc to other player overal if u enjoy looter shooter this be a good game after normal star chart be where the real fun begin steel path hardmode be real awesome and get to be challenging with level cap enemy",
+    "voted_up": true,
+    "app_name": "Warframe",
+    "id": 44513,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "hardware_requirements",
+        "price",
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 224,
+    "created_at": "2025-01-22T23:09:05.762084Z",
+    "updated_at": "2025-01-22T23:09:05.762115Z",
+    "lead_time": 22.337
+  },
+  {
+    "review_id": 44646,
+    "review": "best looter shooter on the market today accept no substitute the developer actually love the game they make and it keep itself fresh with some crazy update and quest",
+    "voted_up": true,
+    "app_name": "Warframe",
+    "id": 44647,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "support",
+        "updates",
+        "seasonal_content"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 137,
+    "created_at": "2025-01-20T22:08:26.523264Z",
+    "updated_at": "2025-01-20T22:08:26.523293Z",
+    "lead_time": 36.497
+  },
+  {
+    "review_id": 44720,
+    "review": "i do play this obscure game year back i be think about it again and one day decide to give it a try once more i dont regret it one bit this have be the best experience and one of the best looter shooter ive play in a long while will never get tire of it with hour into the game and still go its safe to say its amazing but ofcourse its not for everyone il just list some pro and con on the game for me anyway pros content be free paywalls or pay to win driven economy gunplay and mobility character to choose from update and love from the devs con as hell then again its a looter shooter grind be of the game a bit annoy but i dont mind it since im patient game be a bit mid wish de could work on that overall this game be a masterpiece and as i say already il never get tire of it",
+    "voted_up": true,
+    "app_name": "Warframe",
+    "id": 44721,
+    "tag": {
+      "choices": [
+        "price",
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 244,
+    "created_at": "2025-01-22T23:14:57.482026Z",
+    "updated_at": "2025-01-22T23:14:57.482053Z",
+    "lead_time": 20.237
+  },
+  {
+    "review_id": 45181,
+    "review": "hardcore gamers haha",
+    "voted_up": true,
+    "app_name": "Wo Long: Fallen Dynasty",
+    "id": 45182,
+    "annotator": 3,
+    "annotation_id": 69,
+    "created_at": "2025-01-20T16:06:54.133675Z",
+    "updated_at": "2025-01-20T16:06:54.133706Z",
+    "lead_time": 5.533
+  },
+  {
+    "review_id": 45411,
+    "review": "combat mechanic be very good performance be not good lvl design be mediocre the story you collect infinity stone to smash thanos those that be exclusively here for combat will have a good time those that be not will not",
+    "voted_up": true,
+    "app_name": "Wo Long: Fallen Dynasty",
+    "id": 45412,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 103,
+    "created_at": "2025-01-20T16:33:15.628470Z",
+    "updated_at": "2025-01-20T16:33:15.628503Z",
+    "lead_time": 10.675
+  },
+  {
+    "review_id": 45917,
+    "review": "i do not understand why people be diss this game i find it very gratify and great to play it be get that perfect balance of hardness andtechnique i play nile love nioh and now i love this game i do not understand it but it be a great game love team ninja can not wait for the rise of ronin",
+    "voted_up": true,
+    "app_name": "Wo Long: Fallen Dynasty",
+    "id": 45918,
+    "tag": "gameplay",
+    "annotator": 4,
+    "annotation_id": 138,
+    "created_at": "2025-01-21T06:37:38.118313Z",
+    "updated_at": "2025-01-21T06:37:38.118339Z",
+    "lead_time": 122.994
+  },
+  {
+    "review_id": 45920,
+    "review": "extremely good game demo do not run well for me but full game run absolutely perfectly i be guess they never do anything to the demo and fix whatever problem it have for the full game highly recommend for everyone",
+    "voted_up": true,
+    "app_name": "Wo Long: Fallen Dynasty",
+    "id": 45921,
+    "tag": {
+      "choices": [
+        "bugs",
+        "gameplay"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 203,
+    "created_at": "2025-01-22T22:56:47.137194Z",
+    "updated_at": "2025-01-22T22:56:47.137278Z",
+    "lead_time": 25.25
+  },
+  {
+    "review_id": 47193,
+    "review": "great game if you like spreadsheet balance and very in depth mechanic and the great change from no more micromanaging army",
+    "voted_up": true,
+    "app_name": "Victoria 3",
+    "id": 47194,
+    "tag": "gameplay",
+    "annotator": 7,
+    "annotation_id": 248,
+    "created_at": "2025-01-22T23:16:57.753136Z",
+    "updated_at": "2025-01-22T23:16:57.753173Z",
+    "lead_time": 8.749
+  },
+  {
+    "review_id": 47344,
+    "review": "after the incredibly bug ridden release of the initial game i come back for just to see it happen all over again plenty of bug substantial change to the game that remove the fun out of it why the fuck can not i wage war to decrease autonomy of my subject let them radicalize i do not care but since when can not <NULL> do as they please if theyou re willing to deal with the consequence fuck poor game design i hate it rant rant rant word fail to express the extent of my frustration and a <NULL> ui that be just as cluttered as the initial one",
+    "voted_up": false,
+    "app_name": "Victoria 3",
+    "id": 47345,
+    "tag": {
+      "choices": [
+        "bugs",
+        "gameplay",
+        "support"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 37,
+    "created_at": "2025-01-18T17:20:07.562751Z",
+    "updated_at": "2025-01-18T17:20:07.562781Z",
+    "lead_time": 60.653
+  },
+  {
+    "review_id": 47608,
+    "review": "i really want to enjoy this game and i have put the time in to understand a lot of the mechanic that <NULL> the system but there be definitely frustration with some of the mechanic often time the player be on a political knife edge balance internal faction try to build the economy and attempt to expand without anger the wrong major power small mistake can completely ruin economy that take decade of slow work to build a key metric in the game be whether you be the producer of a particular item but to date the game lack a way to assist player in identify which good be likely contender for that spot in your economy or what be worth invest in and no way of monitor performance easily against other market where i become a producer it be usually a by product of already be generally economically dominant anyway another aspect that i find frustrating be the lost opportunity of the end screen after your year of shepherd your economy all you really get to show for it be a couple of line graph but not a lot of context about what they mean for example you can see that your gdp or prestige increase perhaps but from what to what and how do that compare to other nation the end screen should be an opportunity for the game to really showcase your economic and social achievement for example you begin as and end as most powerful nation or your military standing begin here and end here or you be the first nation to do x y what the end screen need be a comparative aspect even if its only with the top three or five player in each category",
+    "voted_up": false,
+    "app_name": "Victoria 3",
+    "id": 47609,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 182,
+    "created_at": "2025-01-22T12:45:20.192917Z",
+    "updated_at": "2025-01-22T12:45:20.192945Z",
+    "lead_time": 59.8
+  },
+  {
+    "review_id": 47832,
+    "review": "line go up line go down liberal revolt change law landowner revolt you suffer you enjoy",
+    "voted_up": true,
+    "app_name": "Victoria 3",
+    "id": 47833,
+    "tag": "gameplay",
+    "annotator": 1,
+    "annotation_id": 110,
+    "created_at": "2025-01-20T19:26:20.822383Z",
+    "updated_at": "2025-01-20T19:26:20.822409Z",
+    "lead_time": 15.37
+  },
+  {
+    "review_id": 48117,
+    "review": "all you do be wait year for your country to build stuff so you get the thing you need to fill a demand then you wait another year to build more stuff to fill in the new demand generate by the first thing you build whenever you run out of money invade some random country usually china or spain and take war reparation to pay off your debt that be the whole game and the war be not even fun lmao",
+    "voted_up": false,
+    "app_name": "Victoria 3",
+    "id": 48118,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story",
+        "updates"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 145,
+    "created_at": "2025-01-22T11:12:44.099143Z",
+    "updated_at": "2025-01-22T11:12:44.099170Z",
+    "lead_time": 76.333
+  },
+  {
+    "review_id": 48197,
+    "review": "the game be just a mess there some good design part here and there but overall the game be just boring broken and ultimately pointless",
+    "voted_up": false,
+    "app_name": "Victoria 3",
+    "id": 48198,
+    "tag": "gameplay",
+    "annotator": 1,
+    "annotation_id": 112,
+    "created_at": "2025-01-20T19:29:39.101727Z",
+    "updated_at": "2025-01-20T19:29:39.101758Z",
+    "lead_time": 31.465
+  },
+  {
+    "review_id": 48323,
+    "review": "this be one of my favorite game for many reason its very nice if you get tire of the base game you can play modded and get through many cool theme",
+    "voted_up": true,
+    "app_name": "Unturned",
+    "id": 48324,
+    "tag": "updates",
+    "annotator": 1,
+    "annotation_id": 109,
+    "created_at": "2025-01-20T19:26:04.883123Z",
+    "updated_at": "2025-01-20T19:26:04.883152Z",
+    "lead_time": 15.512
+  },
+  {
+    "review_id": 48588,
+    "review": "do not you love just go around and kill people right so much fun but it be illegal so i get unturned in hope of my dream come true where i can kill people with no issue my dream be fulfil but on occasion i get <NULL> by a load of zombie they do not take turn either not a bad game but stay away from large crowd of zombie and corner would recommend",
+    "voted_up": true,
+    "app_name": "Unturned",
+    "id": 48589,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "price",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 220,
+    "created_at": "2025-01-22T23:08:00.201627Z",
+    "updated_at": "2025-01-22T23:08:00.201653Z",
+    "lead_time": 57.849
+  },
+  {
+    "review_id": 48691,
+    "review": "its a fantastic game its interesting with the different map and land in those map but be prepare to fight because some of the zombie do not play around",
+    "voted_up": true,
+    "app_name": "Unturned",
+    "id": 48692,
+    "tag": "visuals",
+    "annotator": 5,
+    "annotation_id": 143,
+    "created_at": "2025-01-22T10:58:05.813835Z",
+    "updated_at": "2025-01-22T10:58:05.813864Z",
+    "lead_time": 67.413
+  },
+  {
+    "review_id": 49123,
+    "review": "i know most of the review down here be for unturned just give this game a shot it be a masterpiece with friend and it be also a great way to make more friend i like single player however it get pretty lonely none of my friend like this game however i do give this game a hour build a base fortify a building make a vehicle straight out of mad max do whatever you will be able to find yourself sink hour into this game thank you",
+    "voted_up": true,
+    "app_name": "Unturned",
+    "id": 49124,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 24,
+    "created_at": "2025-01-18T17:06:08.657986Z",
+    "updated_at": "2025-01-18T17:06:08.658017Z",
+    "lead_time": 102.08
+  },
+  {
+    "review_id": 49131,
+    "review": "this game be an amazing zombie survival game if the toxicity would be go it would be amaze",
+    "voted_up": true,
+    "app_name": "Unturned",
+    "id": 49132,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 34,
+    "created_at": "2025-01-18T17:16:51.517349Z",
+    "updated_at": "2025-01-18T17:16:51.517378Z",
+    "lead_time": 16.946
+  },
+  {
+    "review_id": 50125,
+    "review": "this game suck bro honestly waste of money the developer be fuck lazy as fuck all the company want be money nothing new to this game but if there be anything new this game be get more and more terrible each year fuck this game im gon na sue this game for fuck up my mental health fuck everyone that be involve in make this game fuck u fuck u fuck u",
+    "voted_up": false,
+    "app_name": "EA SPORTS FC™ 24",
+    "id": 50126,
+    "tag": {
+      "choices": [
+        "price",
+        "support"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 116,
+    "created_at": "2025-01-20T19:31:46.948301Z",
+    "updated_at": "2025-01-20T19:31:46.948333Z",
+    "lead_time": 40.336
+  },
+  {
+    "review_id": 50985,
+    "review": "it be a good game everything be fun only multiplayer be break fix multiplayer ea im still gon na give it a positive review because i have much fun play the game solo",
+    "voted_up": true,
+    "app_name": "EA SPORTS FC™ 24",
+    "id": 50986,
+    "tag": {
+      "choices": [
+        "bugs",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 222,
+    "created_at": "2025-01-22T23:08:28.661192Z",
+    "updated_at": "2025-01-22T23:08:28.661218Z",
+    "lead_time": 20.988
+  },
+  {
+    "review_id": 51003,
+    "review": "the playstyles and control dribble add a layer to the game pretty decent upgrade from last year career mode saw some love but not enough overall a good buy unlike",
+    "voted_up": true,
+    "app_name": "EA SPORTS FC™ 24",
+    "id": 51004,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "price",
+        "gameplay"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 42,
+    "created_at": "2025-01-18T17:25:46.121522Z",
+    "updated_at": "2025-01-18T17:25:46.121554Z",
+    "lead_time": 43.848
+  },
+  {
+    "review_id": 51136,
+    "review": "it be still the best football game on the market carrier mode could be well because football manager be mile ahead if you consider realism of transfer and game detail two different game but ea will always be ea when it come to game play",
+    "voted_up": true,
+    "app_name": "EA SPORTS FC™ 24",
+    "id": 51137,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2025-01-18T13:56:08.461754Z",
+    "updated_at": "2025-01-18T13:56:08.461785Z",
+    "lead_time": 70.319
+  },
+  {
+    "review_id": 51855,
+    "review": "rig and buggy mess of the dev work go into generate pack for the gambling addict",
+    "voted_up": false,
+    "app_name": "EA SPORTS FC™ 24",
+    "id": 51856,
+    "tag": "bugs",
+    "annotator": 5,
+    "annotation_id": 177,
+    "created_at": "2025-01-22T12:40:25.002880Z",
+    "updated_at": "2025-01-22T12:40:25.002908Z",
+    "lead_time": 36.307
+  },
+  {
+    "review_id": 52247,
+    "review": "an incredibly embarrass return after a year of head down development the gameplay and roster have issue but those be both subjective and i find myself enjoy both often so that be not particularly what i have an issue with this game be exceptionally anti player with absolutely baffle decision that seem to come from whatever higher up executive be in charge plenty of feature from the beta be straight up miss the ui become more convolute the content in the game be drip feed at such a staggeringly low rate that i be genuinely just baffle at who think you could sustain a live service fight game this way i be actively hop this game get the change it desperately need so i can change this review to a positive one and i want nothing more than to make this my forever game that i be constantly play and spend money on but as of right now it seem hopeless to consider that a possibility this concept of a wb fight game be a slam dunk that should be a smash hit that become a huge viral moment in game but this game from the player be perspective appear to be build on inauthentic ground where the gameplay take a backseat to how to mathematically increase player retention and profit your player can tell when theyou re be play theyou re not stupid we deserve better",
+    "voted_up": false,
+    "app_name": "MultiVersus",
+    "id": 52248,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 200,
+    "created_at": "2025-01-22T13:40:38.823844Z",
+    "updated_at": "2025-01-22T13:40:38.823875Z",
+    "lead_time": 169.127
+  },
+  {
+    "review_id": 52672,
+    "review": "play for hour in beta and i have to say this be the first time i have see such a massive downgrade between beta and release basically of the qol feature from the beta have be scrub from the game in the engine change no offline mode can not practice with any character you do not own can not change a number of control and display option that you once could no currency progression from regular match no bot mode no ffa no advanced tutorial the list go on what be worse be though they promise to let us maintain currency between the beta and the final release this be not true in the beta you unlock coin which could be use either on perk or character now all those coin get transfer into perk point which can only be use on perk additionally character on average get more expensive and fighter point that be use to unlock them be now wildly hard to come by now most perk get remove too with the one remain generally be the more boring one and be now arbitrarily group together so that two from any one group can not be equip at once additionally you can not change individual perk between match to synergize with randos and have to choose between premade loadouts this do not even mention the zoomed in camera now make character like tom jerry way harder to use the slow down gameplay or the multiple technical issue like frequent disconnect or desyncs or input lag overall this game go from a solid to an easy game be still fun but everything about this game become bafflingly worse i will update the review if most of these lose feature come back in some way and the economy become less blatently greedy though consider the publisher i would not hold my breath edit they add battlepass xp to match a pitiful xp per win per loss meaning that level of battlepass grind take win this might as well be nothing",
+    "voted_up": false,
+    "app_name": "MultiVersus",
+    "id": 52673,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "online_play"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 179,
+    "created_at": "2025-01-22T12:42:13.595186Z",
+    "updated_at": "2025-01-22T12:42:13.595216Z",
+    "lead_time": 28.757
+  },
+  {
+    "review_id": 52706,
+    "review": "worse than the beta not joke at the very least underwhelming for a full launch version the ability to play any character in train mode the ability to play any character in local play ruin tournament and competitive online which again be horrible for tournament this game be previously at evo btw feel slower somehow of perk be seemingly remove or nerfed gold and replace it with three currency yay currency can only be obtain from mission and event can not be grind fighter cost double than usual joker for example can zoom in way too close at time reward seem to be perk currency which do not feel good i beat a bos and only get perk currency rank mode yet even though this be the full launch version be report miss skin they earn from the beta and be not be refund new map just feel awful such as dexter be lab be worse in every way scoreboard and just a general lack of stats even though these be in the beta progress reset which you may or may not like of random bug such as character get stick on part of stage can not switch character between rematch really bad for imo amount of input buffer already tell the battlepass be too grindy seem to have unreal engine crash issue happen to me and others mission do not complete correctly the price of many skin from the beta it seem server selection option sure there use to be co op versus ai but it do not exist anymore to be a lack of control option such as swap attack input can not turn of character team color overlay like we could in the beta can pay to win in rift mode make the monetization feel even worse rift there be no new mode such as free for all which be seem like an obvious addition beta you could spend founder edition fighter ticket gold or premium currency of your choosing now you have to spend your founder ticket on new fighter to remove the ticket from your inventory before you can spend fighter currency or premium currency basically they do not want you to save your ticket for future character that will be twice the price just like joker i could go on and on but you get the point worse monetization worse gameplay worse option worse ui worse bug and issue worse support for competitive play worse value for player and consumer i be aware that the devs be say they will eventually add some thing like the scoreboard back in but like why be these type of feature remove in the first place some thing be not make sense i do not think that this game feel like a full release it feel like another beta and in many way a worse one",
+    "voted_up": false,
+    "app_name": "MultiVersus",
+    "id": 52707,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "bugs",
+        "visuals",
+        "price",
+        "gameplay",
+        "support",
+        "online_play",
+        "updates"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 133,
+    "created_at": "2025-01-20T22:01:16.347170Z",
+    "updated_at": "2025-01-20T22:01:16.347196Z",
+    "lead_time": 313.577
+  },
+  {
+    "review_id": 53347,
+    "review": "game play well and be very fun not as fast as i expect it to be but still fun to play with friend or solo",
+    "voted_up": true,
+    "app_name": "MultiVersus",
+    "id": 53348,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 119,
+    "created_at": "2025-01-20T19:33:14.672514Z",
+    "updated_at": "2025-01-20T19:33:14.672540Z",
+    "lead_time": 18.614
+  },
+  {
+    "review_id": 53404,
+    "review": "latest update crash the game for me my monitor will go black they audio game be still run then annoy beep will start to occur have to hard reset my pc by hold the power button",
+    "voted_up": false,
+    "app_name": "MultiVersus",
+    "id": 53405,
+    "tag": "bugs",
+    "annotator": 7,
+    "annotation_id": 238,
+    "created_at": "2025-01-22T23:13:40.535623Z",
+    "updated_at": "2025-01-22T23:13:40.535678Z",
+    "lead_time": 8.826
+  },
+  {
+    "review_id": 53695,
+    "review": "its not how it use to be every character be beyond slow with delay with each attack jump around be now also super floaty feeling which make it almost unplayable at time i dont know why they make the game so much slower compare to the beta",
+    "voted_up": false,
+    "app_name": "MultiVersus",
+    "id": 53696,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2025-01-18T13:54:57.645468Z",
+    "updated_at": "2025-01-18T13:54:57.645497Z",
+    "lead_time": 251.262
+  },
+  {
+    "review_id": 54257,
+    "review": "gaijin why be you greedy why can not repair cost be free and buy ammo why dose that even have to cost anything be it already hard as it be whit buying vehicles crew and ace them and why do you guy also nerf bomb base one of the way to grind air and it get nerfed why do you think it be too easy well let me tell you it be not so please take your head out of your ass before the community just decide to leave somewhere else like dc but dc cost money and so do war under you have to pay a premium that be a must to play this game i think my friend say it best war under be not pay to win it be pay to progress and for the love of god add a game mode to help the ground to grind better both air and helicopter both have effective way to grind well air <NULL> one not so any more so much thx for that add a mode where you go around kill ai target to give you some decent exp like the helicopter ohh wait you do have something like that but it provide noting change that plss fix the game",
+    "voted_up": false,
+    "app_name": "War Thunder",
+    "id": 54258,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "price",
+        "gameplay"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 246,
+    "created_at": "2025-01-22T23:15:50.684488Z",
+    "updated_at": "2025-01-22T23:15:50.684519Z",
+    "lead_time": 14.198
+  },
+  {
+    "review_id": 54417,
+    "review": "game start get dispose to player again few year ago gaijin chop dogfight gain and now start on chop bombard target gain i do not know what they want player to do to research new vehicle directly gacha and become wallet worry come on gaijin be you really want player play <NULL>",
+    "voted_up": false,
+    "app_name": "War Thunder",
+    "id": 54418,
+    "tag": "gameplay",
+    "annotator": 3,
+    "annotation_id": 97,
+    "created_at": "2025-01-20T16:32:12.794084Z",
+    "updated_at": "2025-01-20T16:32:12.794127Z",
+    "lead_time": 29.401
+  },
+  {
+    "review_id": 55149,
+    "review": "awesome game kind of lose my fucking sanity because of the ridiculous amount of grind there be but overall if you sell your soul and stop give a shit about your life its really enjoyable",
+    "voted_up": true,
+    "app_name": "War Thunder",
+    "id": 55150,
+    "tag": "gameplay",
+    "annotator": 5,
+    "annotation_id": 175,
+    "created_at": "2025-01-22T12:38:58.514977Z",
+    "updated_at": "2025-01-22T12:38:58.515009Z",
+    "lead_time": 40.978
+  },
+  {
+    "review_id": 55621,
+    "review": "will take your money your social life and love life but hey at least you have a top tier virtual tank yay",
+    "voted_up": true,
+    "app_name": "War Thunder",
+    "id": 55622,
+    "tag": "price",
+    "annotator": 3,
+    "annotation_id": 57,
+    "created_at": "2025-01-20T15:55:38.219976Z",
+    "updated_at": "2025-01-20T15:55:38.220004Z",
+    "lead_time": 31.724
+  },
+  {
+    "review_id": 55896,
+    "review": "quality of life addition really help the game thanks for these",
+    "voted_up": true,
+    "app_name": "War Thunder",
+    "id": 55897,
+    "tag": "updates",
+    "annotator": 3,
+    "annotation_id": 89,
+    "created_at": "2025-01-20T16:29:38.505330Z",
+    "updated_at": "2025-01-20T16:29:38.505357Z",
+    "lead_time": 6.607
+  },
+  {
+    "review_id": 56447,
+    "review": "i quit hour in month later a friend coax me to try again i be patient i learn to dodge i level as much as possible and i beat it and the dlc a masterpiece with no identifiable fault brutal expansive mature incredible",
+    "voted_up": true,
+    "app_name": "ELDEN RING",
+    "id": 56448,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 93,
+    "created_at": "2025-01-20T16:30:32.159223Z",
+    "updated_at": "2025-01-20T16:30:32.159251Z",
+    "lead_time": 18.492
+  },
+  {
+    "review_id": 57011,
+    "review": "one of the greatest game of all time great story beautiful graphic and the open world be pretty fun to explore it be the easiest souls game by far besides maybe the original de if you be try to get into the series definitely start with this one i play all of them on playstation before move to pc got elden ring again after get the platinum on i be enjoy make all my build all over again and just fall in love with the game like i do when it come out for the first time",
+    "voted_up": true,
+    "app_name": "ELDEN RING",
+    "id": 57012,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "visuals",
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 106,
+    "created_at": "2025-01-20T16:34:06.678676Z",
+    "updated_at": "2025-01-20T16:34:06.678707Z",
+    "lead_time": 23.22
+  },
+  {
+    "review_id": 57261,
+    "review": "i never think i would play and enjoy a soul like game but elden ring my first experience in the genre change that i have play for over hour and enjoy every single second even die multiple time in this game make you want to try again and again and it be always enjoyable elden ring have become my favorite rpg game i have already become elden lord and can not wait to play again to finish the other ending with different build",
+    "voted_up": true,
+    "app_name": "ELDEN RING",
+    "id": 57262,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 74,
+    "created_at": "2025-01-20T16:18:42.791951Z",
+    "updated_at": "2025-01-20T16:18:42.791990Z",
+    "lead_time": 63.508
+  },
+  {
+    "review_id": 57730,
+    "review": "idek what to say it be an amazing game and deserve all the award it have and will continue to get micra my beloved",
+    "voted_up": true,
+    "app_name": "ELDEN RING",
+    "id": 57731,
+    "tag": "support",
+    "annotator": 4,
+    "annotation_id": 126,
+    "created_at": "2025-01-20T21:40:30.064068Z",
+    "updated_at": "2025-01-20T21:40:30.064097Z",
+    "lead_time": 152.592
+  },
+  {
+    "review_id": 58442,
+    "review": "my friend and i start play this game during the pandemic lockdown and we have not stop the gameplay do not get old because of the regular update and addition of new character both original and license from other game",
+    "voted_up": true,
+    "app_name": "Dead by Daylight",
+    "id": 58443,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 73,
+    "created_at": "2025-01-20T16:17:38.671341Z",
+    "updated_at": "2025-01-20T16:17:38.671382Z",
+    "lead_time": 538.093
+  },
+  {
+    "review_id": 58558,
+    "review": "if you plan on buy this game make sure you have other friend to play it with or force friend to buy it because play alone as survivor be hell borderline horrific life drain blood sucking and it will send you into an asylum killer be fine tho",
+    "voted_up": true,
+    "app_name": "Dead by Daylight",
+    "id": 58559,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 132,
+    "created_at": "2025-01-20T21:56:01.630592Z",
+    "updated_at": "2025-01-20T21:56:01.630621Z",
+    "lead_time": 62.026
+  },
+  {
+    "review_id": 58651,
+    "review": "this game have become so toxic unless you want to be part of that community this game be for you but if you do not want toxicity in your life best bet do not waste your hard earn money on this game the devs listen to all the crybaby and the game swing wildly and you will regret buying this game i def do and i buy it when it first come out",
+    "voted_up": false,
+    "app_name": "Dead by Daylight",
+    "id": 58652,
+    "tag": {
+      "choices": [
+        "price",
+        "online_play"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 96,
+    "created_at": "2025-01-20T16:31:42.635533Z",
+    "updated_at": "2025-01-20T16:31:42.635560Z",
+    "lead_time": 16.012
+  },
+  {
+    "review_id": 59368,
+    "review": "it be a good game i can never recommend it for the grind just to get even just one more killer i have my playtime and win most game and still cant afford a killer let alone a one",
+    "voted_up": false,
+    "app_name": "Dead by Daylight",
+    "id": 59369,
+    "tag": "gameplay",
+    "annotator": 4,
+    "annotation_id": 136,
+    "created_at": "2025-01-20T22:07:48.742192Z",
+    "updated_at": "2025-01-20T22:07:48.742224Z",
+    "lead_time": 216.119
+  },
+  {
+    "review_id": 59444,
+    "review": "good game hard to grasp for newer player but very rewarding when play with friend no friend play killer there be many killer that fit your play style",
+    "voted_up": true,
+    "app_name": "Dead by Daylight",
+    "id": 59445,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 187,
+    "created_at": "2025-01-22T12:48:44.557356Z",
+    "updated_at": "2025-01-22T12:48:44.557385Z",
+    "lead_time": 45.291
+  },
+  {
+    "review_id": 59474,
+    "review": "fun sometimes scary multiplayer game it be pretty simple mechanic with a lot of potential for different fun build to try",
+    "voted_up": true,
+    "app_name": "Dead by Daylight",
+    "id": 59475,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 113,
+    "created_at": "2025-01-20T19:30:02.464280Z",
+    "updated_at": "2025-01-20T19:30:02.464310Z",
+    "lead_time": 22.904
+  },
+  {
+    "review_id": 59499,
+    "review": "very good game that have a lot of replay ability and a lot of fun try to get my favorite build both survivor and killer have many thing they and do and many immersive game play mechanic to try would recommend to any newcomer",
+    "voted_up": true,
+    "app_name": "Dead by Daylight",
+    "id": 59500,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 125,
+    "created_at": "2025-01-20T21:37:56.226747Z",
+    "updated_at": "2025-01-20T21:37:56.226778Z",
+    "lead_time": 48.007
+  },
+  {
+    "review_id": 59975,
+    "review": "ever since update payday have become literally unplayable if you have so much as a single mod instal and by unplayable i mean the game physically will not launch if you have mod thanks epic you ruin yet another otherwise good game",
+    "voted_up": false,
+    "app_name": "PAYDAY 2",
+    "id": 59976,
+    "tag": {
+      "choices": [
+        "bugs",
+        "support"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 70,
+    "created_at": "2025-01-20T16:07:16.171322Z",
+    "updated_at": "2025-01-20T16:07:16.171353Z",
+    "lead_time": 21.393
+  },
+  {
+    "review_id": 60321,
+    "review": "absolute banger of a game it be have its ups and down but now that its ran it be course it still continue to be one of if not the best coop game of all time",
+    "voted_up": true,
+    "app_name": "PAYDAY 2",
+    "id": 60322,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "online_play"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 46,
+    "created_at": "2025-01-18T17:32:52.866390Z",
+    "updated_at": "2025-01-18T17:32:52.866421Z",
+    "lead_time": 47.906
+  },
+  {
+    "review_id": 61057,
+    "review": "great game really confuse to get back to when you quit for a while so sad they never make payday cancer dlcs though and spyware",
+    "voted_up": true,
+    "app_name": "PAYDAY 2",
+    "id": 61058,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 40,
+    "created_at": "2025-01-18T17:23:29.025451Z",
+    "updated_at": "2025-01-18T17:23:29.025487Z",
+    "lead_time": 18.552
+  },
+  {
+    "review_id": 61310,
+    "review": "payday be a cooperative first person shooter develop by overkill software that excel at deliver a thrilling heist experience release in the game build on the success of its predecessor by offer deeper gameplay mechanic and a wider variety of heist from bank robbery to cyber crime the game shin with its strong emphasis on teamwork and strategy player can choose from multiple role and specialization such as the mastermind enforcer ghost or technician each provide unique skill contribute to the team be success combine with a wide array of customizable weapon and gear this class system allow for numerous tactical approach to each mission graphically payday do not aim for realism but opts for a more stylized aesthetic that suit its fast pace action the sound design deserve special mention effectively enhance the tension and excitement with dynamic music that react to the gameplay a notable strength of the game be its dynamic mission element which ensure that no two heist feel precisely the same this variability and the game be progression system keep the gameplay fresh and engage over time however the game be not without its flaw the ai can be inconsistent at time which can frustrate player without a full team of human player additionally the sheer volume of dlcs can be overwhelming and the narrative be somewhat thin which might detract from the experience for player seek a more story driven game overall payday remain a standout choice for player seek an action pack cooperative shooter emphasize strategic planning and execution its rewarding gameplay loop combine with the thrill of pull off the perfect heist ensure that it remain enjoyable and relevant even year after its release",
+    "voted_up": true,
+    "app_name": "PAYDAY 2",
+    "id": 61311,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 85,
+    "created_at": "2025-01-20T16:28:16.311431Z",
+    "updated_at": "2025-01-20T16:28:16.311480Z",
+    "lead_time": 206.594
+  },
+  {
+    "review_id": 62553,
+    "review": "an amazingly fun game give its age custom skin for the enemy and survivor allow every player to customize their experience all in all a fun and horrifying game",
+    "voted_up": true,
+    "app_name": "Left 4 Dead 2",
+    "id": 62554,
+    "tag": "gameplay",
+    "annotator": 4,
+    "annotation_id": 39,
+    "created_at": "2025-01-18T17:23:09.367373Z",
+    "updated_at": "2025-01-18T17:23:09.367403Z",
+    "lead_time": 29.631
+  },
+  {
+    "review_id": 62728,
+    "review": "tommy wise be a witch fat c vomit on me and neil been announces the acquisition of pill game",
+    "voted_up": true,
+    "app_name": "Left 4 Dead 2",
+    "id": 62729,
+    "tag": "support",
+    "annotator": 4,
+    "annotation_id": 29,
+    "created_at": "2025-01-18T17:12:18.716409Z",
+    "updated_at": "2025-01-18T17:12:18.716471Z",
+    "lead_time": 52.431
+  },
+  {
+    "review_id": 63185,
+    "review": "a game with intense zombie fight and really good to play with friend but a little bit frustating some time",
+    "voted_up": true,
+    "app_name": "Left 4 Dead 2",
+    "id": 63186,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 81,
+    "created_at": "2025-01-20T16:22:21.806756Z",
+    "updated_at": "2025-01-20T16:22:21.806783Z",
+    "lead_time": 14.395
+  },
+  {
+    "review_id": 63272,
+    "review": "play this solo on steam deck be some of the best fps action available if you run the left bot add on your ai teammate will support you very well and let you have a blast focusing on head pop it be amaze a game this old be still among the best fps experience available the ui have no clutter and everything be easy to see on the deck be screen with regular update from valve and ton of mod there be no reason not to jump into this game for the first time in",
+    "voted_up": true,
+    "app_name": "Left 4 Dead 2",
+    "id": 63273,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay",
+        "online_play",
+        "updates"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 19,
+    "created_at": "2025-01-18T16:58:52.941723Z",
+    "updated_at": "2025-01-18T16:58:52.941762Z",
+    "lead_time": 99.37
+  },
+  {
+    "review_id": 63382,
+    "review": "b to get ddos simulator with thicc furry mod i <NULL> because of the cringe af russian hacker ruin he game v thicc furry mod make up for it tho kinda",
+    "voted_up": false,
+    "app_name": "Left 4 Dead 2",
+    "id": 63383,
+    "tag": {
+      "choices": [
+        "bugs",
+        "online_play"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 169,
+    "created_at": "2025-01-22T12:29:32.055620Z",
+    "updated_at": "2025-01-22T12:29:32.055651Z",
+    "lead_time": 40.204
+  },
+  {
+    "review_id": 63461,
+    "review": "another great multiplayer game to play with friend to mod with goof around with and still enjoy the game to it be core a classic zombie game that will never not be enjoyable time and time again love this game to hell and back and ellis shut the hell up",
+    "voted_up": true,
+    "app_name": "Left 4 Dead 2",
+    "id": 63462,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 141,
+    "created_at": "2025-01-22T10:03:05.828475Z",
+    "updated_at": "2025-01-22T10:12:31.400478Z",
+    "lead_time": 156.46
+  },
+  {
+    "review_id": 63511,
+    "review": "great game all the mode be great fun best zombie survival game i have play great replay value would definitely suggest buy this game",
+    "voted_up": true,
+    "app_name": "Left 4 Dead 2",
+    "id": 63512,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 161,
+    "created_at": "2025-01-22T12:08:29.827218Z",
+    "updated_at": "2025-01-22T12:08:29.827249Z",
+    "lead_time": 105.711
+  },
+  {
+    "review_id": 63639,
+    "review": "a real fun game with really nice campaign and amazing online game modes one of my first game ever i buy here on steam",
+    "voted_up": true,
+    "app_name": "Left 4 Dead 2",
+    "id": 63640,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "story"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 195,
+    "created_at": "2025-01-22T13:34:30.600008Z",
+    "updated_at": "2025-01-22T13:34:30.600036Z",
+    "lead_time": 14.172
+  },
+  {
+    "review_id": 63884,
+    "review": "game be addict af and once you start to understand the game except navy fuck the navy the game become really fun vanilla suck tho play modded like kaiserreich the new order old world blue and more be the real experience",
+    "voted_up": true,
+    "app_name": "Hearts of Iron IV",
+    "id": 63885,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story",
+        "updates"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 115,
+    "created_at": "2025-01-20T19:31:06.152763Z",
+    "updated_at": "2025-01-20T19:31:06.152801Z",
+    "lead_time": 41.107
+  },
+  {
+    "review_id": 64220,
+    "review": "the best game to chill and click button in minute",
+    "voted_up": true,
+    "app_name": "Hearts of Iron IV",
+    "id": 64221,
+    "tag": "gameplay",
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2025-01-18T13:50:32.946386Z",
+    "updated_at": "2025-01-18T13:50:32.946413Z",
+    "lead_time": 128.538
+  },
+  {
+    "review_id": 64880,
+    "review": "this be an awful game i regret play for the past year in that time i have have many friend and relationship many of them i do not have now this game be regularly update at the cost of your wallet i hope you enjoy as much as i have",
+    "voted_up": true,
+    "app_name": "Hearts of Iron IV",
+    "id": 64881,
+    "tag": {
+      "choices": [
+        "price",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 231,
+    "created_at": "2025-01-22T23:12:04.713108Z",
+    "updated_at": "2025-01-22T23:12:04.713134Z",
+    "lead_time": 46.094
+  },
+  {
+    "review_id": 65360,
+    "review": "the ui in this game make me want to rip my intestine out through my mouth i want to like it i really really do but holy fucing shit only a pure masochist want to click through menu to send troop on an invasion try to invade miami from cuba why because fuck miami build up cuba be infrastructure train up a bunch of troop research some shit ok ready right no get ta click the fleet action to support your invasion ok cool spend mins try to figure out how to tell boat to do boat thing ready nope cant just sail over get ta formulate a war goal eh ok day to justify an invasion ready nope click on the unit to move out no movement get ta declare war why the fuck cant i surprise attack ok oh well war declare ready nope get ta have sea superiority to even try to invade woulda be nice to see this all lay out somewhere",
+    "voted_up": false,
+    "app_name": "Hearts of Iron IV",
+    "id": 65361,
+    "tag": "gameplay",
+    "annotator": 3,
+    "annotation_id": 94,
+    "created_at": "2025-01-20T16:31:01.121585Z",
+    "updated_at": "2025-01-20T16:31:01.121619Z",
+    "lead_time": 28.372
+  },
+  {
+    "review_id": 65364,
+    "review": "this game take everything from me all i have leave be encirclement focus tree and <NULL> infantry division template",
+    "voted_up": true,
+    "app_name": "Hearts of Iron IV",
+    "id": 65365,
+    "tag": "gameplay",
+    "annotator": 3,
+    "annotation_id": 91,
+    "created_at": "2025-01-20T16:29:56.203114Z",
+    "updated_at": "2025-01-20T16:29:56.203140Z",
+    "lead_time": 13.003
+  },
+  {
+    "review_id": 67006,
+    "review": "i have play this game since it be still in beta and my depression have only gotten worse i have speak to therapist and they all say my core of depression be cause by this game i do not recommend this video game to anyone that be happy",
+    "voted_up": true,
+    "app_name": "Tom Clancy's Rainbow Six® Siege",
+    "id": 67007,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 160,
+    "created_at": "2025-01-22T12:06:29.071808Z",
+    "updated_at": "2025-01-22T12:06:29.071847Z",
+    "lead_time": 62.456
+  },
+  {
+    "review_id": 67345,
+    "review": "rainbow siege i do not know why i still play this game to be yell at to be harass to get shoot through the wall to be bang from every corner to be teabagged to wander through formidable void lose among the star drift through the infinite intense be the feeling of dread day turn into month deepen hunger desperate only the god know why i be still here and here i be stand right here yet i simply be not there",
+    "voted_up": true,
+    "app_name": "Tom Clancy's Rainbow Six® Siege",
+    "id": 67346,
+    "tag": "online_play",
+    "annotator": 1,
+    "annotation_id": 108,
+    "created_at": "2025-01-20T19:25:48.907922Z",
+    "updated_at": "2025-01-20T19:25:48.907953Z",
+    "lead_time": 53.601
+  },
+  {
+    "review_id": 67742,
+    "review": "this game be very bad now because too many character in the game",
+    "voted_up": false,
+    "app_name": "Tom Clancy's Rainbow Six® Siege",
+    "id": 67743,
+    "tag": "story",
+    "annotator": 5,
+    "annotation_id": 152,
+    "created_at": "2025-01-22T11:49:00.809732Z",
+    "updated_at": "2025-01-22T11:49:00.809758Z",
+    "lead_time": 51.509
+  },
+  {
+    "review_id": 68229,
+    "review": "the game be wonderful but official server ping be crazy high its unplayable it be all lags lag lag and this fact be just ridiculous when you have to pay for the base version the devs must resolve this asap as this be waste of money on the game otherwise",
+    "voted_up": true,
+    "app_name": "DayZ",
+    "id": 68230,
+    "tag": {
+      "choices": [
+        "bugs",
+        "price",
+        "online_play"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 27,
+    "created_at": "2025-01-18T17:11:01.764622Z",
+    "updated_at": "2025-01-18T17:11:01.764649Z",
+    "lead_time": 27.181
+  },
+  {
+    "review_id": 69088,
+    "review": "i like the open world survival game and this one have be so much fun i have play some pvp but i have spend more hour enjoy the pve server make many friend and meet lot amaze people build what ever you can dream up or just take over some of the grate building to be find around the map the z be be fast and deadly these add to this well design landscape survival adventure you will experience",
+    "voted_up": true,
+    "app_name": "DayZ",
+    "id": 69089,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "visuals",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 226,
+    "created_at": "2025-01-22T23:09:51.936913Z",
+    "updated_at": "2025-01-22T23:09:51.936953Z",
+    "lead_time": 20.364
+  },
+  {
+    "review_id": 69397,
+    "review": "this be not a game for everyone and be prepare to lose it be an uphill battle with the world and everything in it but can be very addict at time and enjoyable with friend if you seek a challenge this be for you",
+    "voted_up": true,
+    "app_name": "DayZ",
+    "id": 69398,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 212,
+    "created_at": "2025-01-22T23:04:02.478416Z",
+    "updated_at": "2025-01-22T23:04:02.478521Z",
+    "lead_time": 14.163
+  },
+  {
+    "review_id": 69414,
+    "review": "absolutely amaze the game be just perfect for someone who love zombie apocalypse game the graphic be perfect and so be everything else they take so much time into detail and its pay off really well because the little detail that i see in the game be amaze",
+    "voted_up": true,
+    "app_name": "DayZ",
+    "id": 69415,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 168,
+    "created_at": "2025-01-22T12:28:40.851582Z",
+    "updated_at": "2025-01-22T12:28:40.851613Z",
+    "lead_time": 27.673
+  },
+  {
+    "review_id": 69804,
+    "review": "run like crap on even the very best pc be especially on higher resolution not recommend wait for year till hardware have catch up with this terribly optimized game i will not be buy dlc nor out of the gate i have lose my trust in this studio",
+    "voted_up": false,
+    "app_name": "ARK: Survival Ascended",
+    "id": 69805,
+    "tag": {
+      "choices": [
+        "hardware_requirements",
+        "support",
+        "updates"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 61,
+    "created_at": "2025-01-20T16:02:46.880294Z",
+    "updated_at": "2025-01-20T16:02:46.880323Z",
+    "lead_time": 328.499
+  },
+  {
+    "review_id": 70245,
+    "review": "so i buy this game for the upgraded graphic what happen be my dino be look like low poly trash cause i need to turn down the graphic on a rig with and of ram the game actually look worse than the original nor be i willing to spend on upgrade to play a game i have already spend hour play be warn",
+    "voted_up": false,
+    "app_name": "ARK: Survival Ascended",
+    "id": 70246,
+    "tag": {
+      "choices": [
+        "visuals",
+        "updates"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 166,
+    "created_at": "2025-01-22T12:26:23.799014Z",
+    "updated_at": "2025-01-22T12:26:23.799041Z",
+    "lead_time": 64.921
+  },
+  {
+    "review_id": 70567,
+    "review": "game keep crash randomly imagine fly around just to get a game crash and loose your stuff and mount this be absolutely game breaking and we shouldnt be force to tweak setting and stuff like that just to have the game run more stable i do not recommend anyone to buy the game now early access be just to have an excuse for all the glitch and crash",
+    "voted_up": false,
+    "app_name": "ARK: Survival Ascended",
+    "id": 70568,
+    "tag": {
+      "choices": [
+        "bugs",
+        "support",
+        "updates"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 58,
+    "created_at": "2025-01-20T15:56:04.998494Z",
+    "updated_at": "2025-01-20T15:56:04.998542Z",
+    "lead_time": 26.164
+  },
+  {
+    "review_id": 70767,
+    "review": "be an okay game but need a lot of work still the crash be make you pull your hair out and the game do not run smooth ever movement suck and the ability to enjoy be go after about second when you experience your first crash it rarely happen you get more than minute of play after that because either it have crash multiple time already or you have switch to play an other game i have give this game a long time to come up with fix to help us pay customer get what theyou ve pay for but nothing of that be true the game be in a poor state and do not seem to have dev be show any kind of care to address the problem express by the user so typical todayou s game industry do only care about trigger people to spend their money on a game idea but do not care about deliver value for that money",
+    "voted_up": false,
+    "app_name": "ARK: Survival Ascended",
+    "id": 70768,
+    "tag": {
+      "choices": [
+        "bugs",
+        "price",
+        "support"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 41,
+    "created_at": "2025-01-18T17:25:01.294604Z",
+    "updated_at": "2025-01-18T17:25:01.294631Z",
+    "lead_time": 90.872
+  },
+  {
+    "review_id": 71517,
+    "review": "the game be terrible run like shit every new update break the game its become pay to win the developer constantly break promise and dont seem to know how to run a game at all the only reason i play this game still be because im deeply invest it be definitely not worth buying if you havent already be play the game for a long time",
+    "voted_up": false,
+    "app_name": "ARK: Survival Ascended",
+    "id": 71518,
+    "tag": {
+      "choices": [
+        "bugs",
+        "price",
+        "updates"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 20,
+    "created_at": "2025-01-18T17:00:18.935525Z",
+    "updated_at": "2025-01-18T17:00:18.935552Z",
+    "lead_time": 84.71
+  },
+  {
+    "review_id": 71590,
+    "review": "it be pretty fun and the graphic be great i do prefer ark evolve but hopefully add more map will make this game well",
+    "voted_up": true,
+    "app_name": "ARK: Survival Ascended",
+    "id": 71591,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 100,
+    "created_at": "2025-01-20T16:32:51.315875Z",
+    "updated_at": "2025-01-20T16:32:51.315903Z",
+    "lead_time": 17.22
+  },
+  {
+    "review_id": 71934,
+    "review": "this be without a doubt one of the greatest game i have ever play i have get the most hour on it in my steam library of all my game and i have purchase it for friend too to those who worry about quest be time sensitive they be not any important one will stick around and any that be not important will come back the only time restriction be the season but that be only if you be try to speedrun thing take your time and enjoy it you will not regret get it it be more then worth it time after time i keep come back to this game i love it so much mod make it even well somehow",
+    "voted_up": true,
+    "app_name": "Stardew Valley",
+    "id": 71935,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "support"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 131,
+    "created_at": "2025-01-20T21:54:58.576558Z",
+    "updated_at": "2025-01-20T21:54:58.576583Z",
+    "lead_time": 338.194
+  },
+  {
+    "review_id": 72340,
+    "review": "cant praise this game highly enough absolutely love it",
+    "voted_up": true,
+    "app_name": "Stardew Valley",
+    "id": 72341,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "support"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 228,
+    "created_at": "2025-01-22T23:10:39.610071Z",
+    "updated_at": "2025-01-22T23:10:39.610102Z",
+    "lead_time": 32.355
+  },
+  {
+    "review_id": 72872,
+    "review": "best game ever by far its such a classic cozy log on and just have a little run around on your farm kind of game i love the diversity of what you can do and its such a nice little game i honestly can not believe the value for the price i buy it year ago and i have play so many hour in this game i definitely recommend",
+    "voted_up": true,
+    "app_name": "Stardew Valley",
+    "id": 72873,
+    "tag": {
+      "choices": [
+        "price",
+        "gameplay"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2025-01-18T13:57:18.956319Z",
+    "updated_at": "2025-01-18T13:57:18.956344Z",
+    "lead_time": 69.883
+  },
+  {
+    "review_id": 73724,
+    "review": "i really enjoy the unique base building mechanic and the fact that you can play the story entirely at your own pace the shark after a while become more annoy than challenge in my opinion but i do respect the grind i guess i have not try creative mode yet but will definitely be check it out",
+    "voted_up": true,
+    "app_name": "Raft",
+    "id": 73725,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 65,
+    "created_at": "2025-01-20T16:04:51.270098Z",
+    "updated_at": "2025-01-20T16:04:51.270124Z",
+    "lead_time": 29.51
+  },
+  {
+    "review_id": 74315,
+    "review": "i find get start to be a little rough but once i get the hang of it i fell in love with this game sail the sea on your float base as you build it up and explore the world and story be a immersive and thoroughly enjoyable experience it be a great game for people who like subnautica and game like that enjoy",
+    "voted_up": true,
+    "app_name": "Raft",
+    "id": 74316,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 184,
+    "created_at": "2025-01-22T12:46:38.094490Z",
+    "updated_at": "2025-01-22T12:46:38.094519Z",
+    "lead_time": 25.367
+  },
+  {
+    "review_id": 74741,
+    "review": "i have to say that this game really surprise me about year ago i get this game because my friend have it and i do not have high hope for it it just do not really seem appeal anyway i play with my buddy for a couple day and discover the real beauty of this game i love the music which have be ingrain into my brain after hour of playtime the life the story and pretty much everything else about the game the story be especially unique as it use mystery challenge and lore to create the best experience possible i myself enjoy the story so much that i replay it multiple time and beat it multiple time because it be just that amaze most of the multiplayer game i have play be not as enjoyable when play alone eventually my friend find a new game and get suck into it leave me to be the only one still play raft which mean i have to play alone i decide to make my own world to let the game show me what it be really capable of and wow i be able to catch up on the story islands that i miss and build my raft exactly the way i want to be this game provide a surplus of opportunity for creativity which be one of the number one thing i look for in a game the game be not at all gory so it be appropriate for most age and the survival aspect of the game be very balance so that it be not too hard to stay alive but it be also not too merciful result in easy and boring game play finally this game be definitely worth its price as i briefly indicate earlier i have more than hour on this game and it be currently and have be for the past two year my favorite game on steam it be a great multiplayer and single player game that be fit for most if not all audience i can not express my love for this game enough all in all if you be have trouble decide whether to get the game or not i highly recommend that you do even if you do not think it will be right for you i believe it will surprise you as it do for me this game be truly a and i guarantee that you will not regret purchase this game thank you and have fun game i apologize for the length",
+    "voted_up": true,
+    "app_name": "Raft",
+    "id": 74742,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "sound",
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 188,
+    "created_at": "2025-01-22T12:49:43.438036Z",
+    "updated_at": "2025-01-22T12:49:43.438075Z",
+    "lead_time": 46.073
+  },
+  {
+    "review_id": 75244,
+    "review": "raft be an open world survival game the game have such an easy to follow story and be very relaxing when play you can build your raft as big as you want you can explore and you can play with friend",
+    "voted_up": true,
+    "app_name": "Raft",
+    "id": 75245,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 104,
+    "created_at": "2025-01-20T16:33:30.708176Z",
+    "updated_at": "2025-01-20T16:33:30.708207Z",
+    "lead_time": 14.49
+  },
+  {
+    "review_id": 75474,
+    "review": "if survival and crafting game be your favorite this game will shoot to the top of your list its so fun to build your own insane raft fight shark and just have a good old time by yourself or with friend highly recommend",
+    "voted_up": true,
+    "app_name": "Raft",
+    "id": 75475,
+    "tag": "gameplay",
+    "annotator": 4,
+    "annotation_id": 121,
+    "created_at": "2025-01-20T21:28:33.930202Z",
+    "updated_at": "2025-01-20T21:28:33.930230Z",
+    "lead_time": 141.209
+  },
+  {
+    "review_id": 75735,
+    "review": "very fun very detailed world for the style it go for and very fun and challenge you can go for both a relaxed and stressful game play style and would highly recommend this for people want to get a new game",
+    "voted_up": true,
+    "app_name": "Terraria",
+    "id": 75736,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 173,
+    "created_at": "2025-01-22T12:37:42.013188Z",
+    "updated_at": "2025-01-22T12:37:42.013216Z",
+    "lead_time": 42.439
+  },
+  {
+    "review_id": 75744,
+    "review": "when i first download terraria year ago i never expect to be where i be now hour and i have enjoy every bit of it it would be possible to beat the game without use the wiki but it may be difficult with just how much be put into this game i still find myself check it every so often to make sure i be do the right thing have multiple boss to fight to progress be also very fun even the boss that be not require for progression be fun to go up against except empress of light but we do not talk about her and be able to choose a class you want to play as melee range magic summoner add to the whole experience especially when you be play with friend and each one have a different class this game be really something a in my book",
+    "voted_up": true,
+    "app_name": "Terraria",
+    "id": 75745,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 107,
+    "created_at": "2025-01-20T19:24:54.806822Z",
+    "updated_at": "2025-01-20T19:24:54.806850Z",
+    "lead_time": 79.469
+  },
+  {
+    "review_id": 76056,
+    "review": "its fun only issue be that i can not make a shirt and my massive <NULL> and i mean my massive <NULL> my giant <NULL> my <NULL> <NULL> my serious jug my insane <NULL> spore hitter my unreal double pecker dong poach swing vine hang nipple banging boob be cold great game though",
+    "voted_up": true,
+    "app_name": "Terraria",
+    "id": 76057,
+    "tag": "gameplay",
+    "annotator": 4,
+    "annotation_id": 26,
+    "created_at": "2025-01-18T17:10:33.632757Z",
+    "updated_at": "2025-01-18T17:10:33.632785Z",
+    "lead_time": 92.113
+  },
+  {
+    "review_id": 76935,
+    "review": "i have recently get more into build it be insane to me how much this game just keep on give i should have make a review a long time ago",
+    "voted_up": true,
+    "app_name": "Terraria",
+    "id": 76936,
+    "tag": "gameplay",
+    "annotator": 4,
+    "annotation_id": 28,
+    "created_at": "2025-01-18T17:11:24.929167Z",
+    "updated_at": "2025-01-18T17:11:24.929197Z",
+    "lead_time": 22.153
+  },
+  {
+    "review_id": 77004,
+    "review": "great direction and many boss well than minecraft good progression of ore",
+    "voted_up": true,
+    "app_name": "Terraria",
+    "id": 77005,
+    "tag": "gameplay",
+    "annotator": 5,
+    "annotation_id": 171,
+    "created_at": "2025-01-22T12:35:58.065703Z",
+    "updated_at": "2025-01-22T12:35:58.065735Z",
+    "lead_time": 241.805
+  },
+  {
+    "review_id": 77377,
+    "review": "i just want to say the game be so good and pretty cheap especially during sale and such it get ton of content such as multiple weapon boss armor potion and etc and if it be not enough for you there be ton of mod such as calamity or thorium you can download and use via tmodloader i highly recommend this game to everyone who want an experience similar to minecraft for a pretty low price",
+    "voted_up": true,
+    "app_name": "Terraria",
+    "id": 77378,
+    "tag": "price",
+    "annotator": 5,
+    "annotation_id": 172,
+    "created_at": "2025-01-22T12:36:52.110159Z",
+    "updated_at": "2025-01-22T12:36:52.110188Z",
+    "lead_time": 46.008
+  },
+  {
+    "review_id": 77889,
+    "review": "very fun game with friend and even by yourself endless workshop mod from the community that could make the possibility endless",
+    "voted_up": true,
+    "app_name": "Garry's Mod",
+    "id": 77890,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "online_play"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 48,
+    "created_at": "2025-01-18T17:34:50.920981Z",
+    "updated_at": "2025-01-18T17:34:50.921007Z",
+    "lead_time": 25.803
+  },
+  {
+    "review_id": 78342,
+    "review": "once a year i join a specific roleplay server and roleplay the king of the homeless people i have continue to build my small kingdom box by box inch around the rule and dodge ban each time the admins be different every year so i doubt other than this review will i be find out if you be seek to build in my name dm me otherwise you will find hour of do random shit with your friend for hour of endless fun buy this timeless classic today",
+    "voted_up": true,
+    "app_name": "Garry's Mod",
+    "id": 78343,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "online_play",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 218,
+    "created_at": "2025-01-22T23:06:31.154507Z",
+    "updated_at": "2025-01-22T23:06:31.154534Z",
+    "lead_time": 16.939
+  },
+  {
+    "review_id": 78623,
+    "review": "decent good very good kid teen adult grandma potato workable easy to learn hard to master some lore to infinity and beyond worth the price never heard of",
+    "voted_up": true,
+    "app_name": "Garry's Mod",
+    "id": 78624,
+    "tag": {
+      "choices": [
+        "hardware_requirements",
+        "price"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 49,
+    "created_at": "2025-01-20T15:51:16.047231Z",
+    "updated_at": "2025-01-20T15:51:16.047279Z",
+    "lead_time": 239.048
+  },
+  {
+    "review_id": 78896,
+    "review": "best game if willing to make game or make video this be the game for make inspired game or willing to make your own look into the workshop if you want realistic game play or make a funny video with all the tool you can use in the software or add additional feature from the workshop",
+    "voted_up": true,
+    "app_name": "Garry's Mod",
+    "id": 78897,
+    "tag": "gameplay",
+    "annotator": 1,
+    "annotation_id": 193,
+    "created_at": "2025-01-22T13:33:44.196081Z",
+    "updated_at": "2025-01-22T13:33:44.196111Z",
+    "lead_time": 73.124
+  },
+  {
+    "review_id": 78901,
+    "review": "i love garryou s mod and it be one of the greatest game i have ever play you can have or make anything you want in the game but not mario you can play on severs with friend and by yourself there be so many game mode for you to choose from you need to play this game because it be so fun and you can not miss out",
+    "voted_up": true,
+    "app_name": "Garry's Mod",
+    "id": 78902,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 117,
+    "created_at": "2025-01-20T19:32:34.277689Z",
+    "updated_at": "2025-01-20T19:32:34.277717Z",
+    "lead_time": 46.715
+  },
+  {
+    "review_id": 78926,
+    "review": "this game be super fun and you can get addons to make it more fun it have ragdolls and npc and cool map i only have problem with the game you can not search for addons maybe it be only me idk and i keep get an error that say to check problem menu for detail and when i check nothing there if i do not back out of the load screen it glitches and then crash and kick me out of the game so i can not play the game but before that it be a really good game and you should check it out if you have not already i hope you liked my review",
+    "voted_up": true,
+    "app_name": "Garry's Mod",
+    "id": 78927,
+    "tag": {
+      "choices": [
+        "bugs",
+        "price"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 151,
+    "created_at": "2025-01-22T11:46:49.212413Z",
+    "updated_at": "2025-01-22T11:46:49.212439Z",
+    "lead_time": 65.125
+  },
+  {
+    "review_id": 79129,
+    "review": "play garryou s mod have be one of the best experience i have have in video game create war between npcs experiment with different game mode especially horror themed map be something amazing i miss those time especially play with people in trouble in terrorist town chaos fun laughter and pseudo argument just a pure joy for nostalgic",
+    "voted_up": true,
+    "app_name": "Garry's Mod",
+    "id": 79130,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 194,
+    "created_at": "2025-01-22T13:34:15.944164Z",
+    "updated_at": "2025-01-22T13:34:15.944193Z",
+    "lead_time": 31.245
+  },
+  {
+    "review_id": 79357,
+    "review": "garryou s mod stand as a quintessential example of limitless creativity within the gaming sphere its sandbox style gameplay empower player with a plethora of tool and asset foster an environment where imagination reign supreme whether construct intricate structure script elaborate scenario or indulge in chaotic multiplayer antic garryou s mod provide an unparalleled canvas for self expression the game be modding community far enrich the experience continually inject fresh content and innovation ensure that no two session ever feel the same from comedic machinima production to intricate puzzle and competitive mini game garryou s mod transcend traditional gaming boundary offer an expansive playground where player be both creator and participant moreover garryou s mod serf as a testament to the endure allure of experimentation and exploration in game with its open end design and absence of <NULL> objective player be encourage to chart their own course and forge their own adventure the game be robust physic engine facilitate a wide array of interaction foster emergent gameplay moment that often defy expectation from launch ragdoll character into orbit with makeshift rocket to construct rube goldberg esque contraption the joy of discovery be ever present in garryou s mod by foster an environment where player agency be paramount and innovation be reward garryou s mod continue to captivate audience cement its status as a timeless classic in the gaming landscape gmod lol i def write this",
+    "voted_up": true,
+    "app_name": "Garry's Mod",
+    "id": 79358,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay",
+        "online_play",
+        "updates"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 38,
+    "created_at": "2025-01-18T17:22:38.572136Z",
+    "updated_at": "2025-01-18T17:22:38.572163Z",
+    "lead_time": 149.305
+  },
+  {
+    "review_id": 79821,
+    "review": "prepare to ignore all responsibility for entire weekend at a time find out exactly how long you can hold your bladder or go without eat have divorce paper deliver to you at your desk you forget you have kid that be okay they can learn the intricacy of global policy and history if you buy this for them too you have come far",
+    "voted_up": true,
+    "app_name": "Sid Meier’s Civilization® VI",
+    "id": 79822,
+    "tag": "gameplay",
+    "annotator": 4,
+    "annotation_id": 22,
+    "created_at": "2025-01-18T17:02:40.072193Z",
+    "updated_at": "2025-01-18T17:02:40.072218Z",
+    "lead_time": 98.788
+  },
+  {
+    "review_id": 80593,
+    "review": "there be plenty of strategy involve with lot of compete priority and different way to win the difficulty level be a bit skew anything higher than king be out of my reach unless i get an extremely lucky initial set up",
+    "voted_up": true,
+    "app_name": "Sid Meier’s Civilization® VI",
+    "id": 80594,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "gameplay"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 243,
+    "created_at": "2025-01-22T23:14:36.839653Z",
+    "updated_at": "2025-01-22T23:14:36.839701Z",
+    "lead_time": 19.644
+  },
+  {
+    "review_id": 80806,
+    "review": "good game in single player but shxt in stupid multiplayer my friend have super good computer even able to run <NULL> in this stupid game just say he be underage to play multiplayer and next time when he reload the game the game just do not read any expansion pack and we spend one and half hour to just solve this problem and its even unsolved yet stupid game",
+    "voted_up": false,
+    "app_name": "Sid Meier’s Civilization® VI",
+    "id": 80807,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "bugs"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 147,
+    "created_at": "2025-01-22T11:22:22.247347Z",
+    "updated_at": "2025-01-22T11:22:22.247374Z",
+    "lead_time": 87.663
+  },
+  {
+    "review_id": 80863,
+    "review": "fun although i recommend buy it during a sale the dlc change the game quite substantially just a warning though i do recommend them",
+    "voted_up": true,
+    "app_name": "Sid Meier’s Civilization® VI",
+    "id": 80864,
+    "tag": {
+      "choices": [
+        "price",
+        "updates"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 105,
+    "created_at": "2025-01-20T16:33:42.884139Z",
+    "updated_at": "2025-01-20T16:33:42.884168Z",
+    "lead_time": 11.642
+  },
+  {
+    "review_id": 81304,
+    "review": "still learn strategy play at king level graphic be fine for strategic game and apparently the variation be unlimited",
+    "voted_up": true,
+    "app_name": "Sid Meier’s Civilization® VI",
+    "id": 81305,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 196,
+    "created_at": "2025-01-22T13:34:53.087718Z",
+    "updated_at": "2025-01-22T13:34:53.087757Z",
+    "lead_time": 21.782
+  },
+  {
+    "review_id": 81366,
+    "review": "i have zero clue why i buy the game start it but do not know how to play i be sure there be tutorial but maybe deep inside i just do not want to play it because i be gon na play solo again anyways graphic look good intro be definitely well make would recommend the game for it be price would highly recommend play with other people if you have friend p do not be like me",
+    "voted_up": true,
+    "app_name": "Sid Meier’s Civilization® VI",
+    "id": 81367,
+    "tag": {
+      "choices": [
+        "visuals",
+        "price",
+        "online_play"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 247,
+    "created_at": "2025-01-22T23:16:48.586463Z",
+    "updated_at": "2025-01-22T23:16:48.586494Z",
+    "lead_time": 44.233
+  },
+  {
+    "review_id": 81730,
+    "review": "great story interactivity and balance between exploration freedom and narrated line so many amaze cute place to explore and the design and character be so cute",
+    "voted_up": true,
+    "app_name": "Stray",
+    "id": 81731,
+    "tag": {
+      "choices": [
+        "visuals",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 159,
+    "created_at": "2025-01-22T12:05:18.902930Z",
+    "updated_at": "2025-01-22T12:05:18.902961Z",
+    "lead_time": 87.033
+  },
+  {
+    "review_id": 81813,
+    "review": "what you see be what you get stray be an atmospheric platformer that only do a couple of thing but it do them really well this might be the game i would recommend to any beginner or new person that want to start play game other than the be classic",
+    "voted_up": true,
+    "app_name": "Stray",
+    "id": 81814,
+    "tag": {
+      "choices": [
+        "visuals",
+        "sound",
+        "gameplay"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 207,
+    "created_at": "2025-01-22T23:00:42.619855Z",
+    "updated_at": "2025-01-22T23:00:42.619882Z",
+    "lead_time": 28.586
+  },
+  {
+    "review_id": 82081,
+    "review": "def one of my favorite storytelling game it be a roller coaster of emotion from the adorable cat scratch to get spook by zurks coz cat",
+    "voted_up": true,
+    "app_name": "Stray",
+    "id": 82082,
+    "tag": "story",
+    "annotator": 7,
+    "annotation_id": 240,
+    "created_at": "2025-01-22T23:13:52.429681Z",
+    "updated_at": "2025-01-22T23:13:52.429712Z",
+    "lead_time": 8.471
+  },
+  {
+    "review_id": 82154,
+    "review": "if you like portal or portal then there be a strong chance you might like this yes the puzzle be simpler and the gameplay be less intense but that be also this game strong suit it have a calming relaxed quality to it and the character be very endear you actively want to help your character in their goal and no area or environment ever outstay its welcome well worth it on steam sale",
+    "voted_up": true,
+    "app_name": "Stray",
+    "id": 82155,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "price",
+        "gameplay"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 71,
+    "created_at": "2025-01-20T16:07:41.720859Z",
+    "updated_at": "2025-01-20T16:07:41.720889Z",
+    "lead_time": 24.979
+  },
+  {
+    "review_id": 82438,
+    "review": "i love the story and the graphic i hope the cat make it back to his home this make me wish there be a part or a second game",
+    "voted_up": true,
+    "app_name": "Stray",
+    "id": 82439,
+    "tag": {
+      "choices": [
+        "visuals",
+        "story"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 99,
+    "created_at": "2025-01-20T16:32:33.524999Z",
+    "updated_at": "2025-01-20T16:32:33.525027Z",
+    "lead_time": 8.772
+  },
+  {
+    "review_id": 82442,
+    "review": "get it during sale while the gameplay be short and lack difficulty i really enjoy the game",
+    "voted_up": true,
+    "app_name": "Stray",
+    "id": 82443,
+    "tag": {
+      "choices": [
+        "price",
+        "gameplay"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 156,
+    "created_at": "2025-01-22T12:01:59.987210Z",
+    "updated_at": "2025-01-22T12:01:59.987239Z",
+    "lead_time": 19.691
+  },
+  {
+    "review_id": 82498,
+    "review": "not too far in but i can see why it be get such great review the artwork be gorgeous the vibe be in the realm of the portal series if you have ever want to <NULL> wander like a cat you totally can you can even engage in act of whimsy such as scratch a post drinking from a pond or knock thing off edge they do not make you wait too long before get dynamically chase by these evil little thing that make you think on your foot truly capture cat turing all <NULL> aspect of cat life",
+    "voted_up": true,
+    "app_name": "Stray",
+    "id": 82499,
+    "tag": {
+      "choices": [
+        "visuals",
+        "gameplay"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 245,
+    "created_at": "2025-01-22T23:15:36.053077Z",
+    "updated_at": "2025-01-22T23:15:36.053115Z",
+    "lead_time": 38.134
+  },
+  {
+    "review_id": 83678,
+    "review": "for background be play pretty much every since season and i hover around gc every season the game have get significantly worse since launch it have take a big dip in quality ever since it have go free to play smurf account be more rampant than ever since it be free to do theyou ve removed trading completely remove crate and create a shop with bad price which ruin the trading scene before they obliterate it they have remove extra game mode too the rocket pass be terrible with lot of recycled content they have also remove most of the rlcs commentator that have be around for a long time and be love within the e sport community they unnecessarily change the ui system to one that be arguably worse and slower server have also be more inconsistent since it go",
+    "voted_up": false,
+    "app_name": "Rocket League®",
+    "id": 83679,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "bugs",
+        "price",
+        "support",
+        "online_play",
+        "seasonal_content"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 36,
+    "created_at": "2025-01-18T17:19:05.687490Z",
+    "updated_at": "2025-01-18T17:19:05.687518Z",
+    "lead_time": 98.85
+  },
+  {
+    "review_id": 86637,
+    "review": "probably the most respectable game on my list i get it at launch on console never love it or hat it at first but it be awesome now the game have be a breeze for year i find my favorite planet long ago carve out a cave system to store vehicle explore the deepest ocean find the highest mountain peak and build a skyscraper i can launch my car off of and that be just on my planet there be quintillion more i have everything all the rarest best ship and upgrade honestly it be kind of more fun for me when i cheat in regular mode with mod it be fun to set up everything perfectly store all the material i will ever need and just explore the vast galaxy or even just my home planet a very therapeutic and reward experience i do wish there be a better way to automate resource management across all container though the freighter selection be nice with storage container but everything be all mixed up just be able to organize thing <NULL> per container would help a lot",
+    "voted_up": true,
+    "app_name": "No Man's Sky",
+    "id": 86638,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 162,
+    "created_at": "2025-01-22T12:15:42.514884Z",
+    "updated_at": "2025-01-22T12:15:42.514913Z",
+    "lead_time": 425.53
+  },
+  {
+    "review_id": 87548,
+    "review": "while the game be great i have only encounter issue from be region lock struggle to find the support to remove my steam account from the final fantasy profile i be now block from play due to these weird limitation on their system not allow you to unlink yourself or change region buyer beware make sure your account be in the correct same region as your steam profile edit this be finally resolve however i will keep my review negative until they make it easier to do this online it take support day to resolve this",
+    "voted_up": false,
+    "app_name": "FINAL FANTASY XIV Online",
+    "id": 87549,
+    "tag": "support",
+    "annotator": 3,
+    "annotation_id": 55,
+    "created_at": "2025-01-20T15:54:17.197241Z",
+    "updated_at": "2025-01-20T15:54:17.197272Z",
+    "lead_time": 48.557
+  },
+  {
+    "review_id": 87612,
+    "review": "i despise play healer in mmorpgs with the exception of xiv the mechanic from the player side be great in every class i have play the only mechanic in this game that i do not like really be a select few of the bos fight mechanic but mostly because they keep kick my butt and i end up have to look up play guide lol but overall a great game worth the subscription fee to me",
+    "voted_up": true,
+    "app_name": "FINAL FANTASY XIV Online",
+    "id": 87613,
+    "tag": {
+      "choices": [
+        "price",
+        "gameplay"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 31,
+    "created_at": "2025-01-18T17:14:06.307968Z",
+    "updated_at": "2025-01-18T17:14:06.307996Z",
+    "lead_time": 42.072
+  },
+  {
+    "review_id": 88583,
+    "review": "be force to slog through the endless main quest line where at least half i be not make this up of it be go speak to this person in one city then speak to that person in another city be like chinese water torture you think you be near the end to finally make it to the next expansion and then you be slap in the face with the continuation of the quest line from post release content update none of it be particularly compelling you can do the gaggle of side quest available in any location but you will still have to do the main quest to proceed it would not be such a chore if the area outside of the city be interest too but it be just boring landscape with linear path i understand the later expansion up the fidelity and the screenshots make it look great but i will never know because i can not bring myself to spend another hour on something i do not enjoy just on the off chance that i might enjoy it once i have catch up",
+    "voted_up": false,
+    "app_name": "FINAL FANTASY XIV Online",
+    "id": 88584,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 183,
+    "created_at": "2025-01-22T12:46:01.452710Z",
+    "updated_at": "2025-01-22T12:46:01.452741Z",
+    "lead_time": 33.664
+  },
+  {
+    "review_id": 88861,
+    "review": "i be on linux which be not support play through steam game do crash often due to which i initially give it thumb down but it seem that most of the kind be iron out as i do not get a single crash in last two month which make me revise my initial review",
+    "voted_up": true,
+    "app_name": "FINAL FANTASY XIV Online",
+    "id": 88862,
+    "tag": {
+      "choices": [
+        "bugs",
+        "hardware_requirements",
+        "updates"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 185,
+    "created_at": "2025-01-22T12:47:18.096008Z",
+    "updated_at": "2025-01-22T12:47:18.096038Z",
+    "lead_time": 15.999
+  },
+  {
+    "review_id": 90036,
+    "review": "decent game very good but plenty of room fir improvement in year this game will be absolutely insane graphic wise and hopefully much more simple and smooth",
+    "voted_up": true,
+    "app_name": "Farming Simulator 22",
+    "id": 90037,
+    "tag": {
+      "choices": [
+        "visuals",
+        "updates"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 92,
+    "created_at": "2025-01-20T16:30:13.061912Z",
+    "updated_at": "2025-01-20T16:30:13.061938Z",
+    "lead_time": 16.205
+  },
+  {
+    "review_id": 90206,
+    "review": "this game be fantastic i never think i would enjoy something call farm simulator but a whole simrig setup later here we be i play this with my so and in co op especially this be just a fantastic time all around qualifier here we only play together and both have an identical simrig setup consist of a wheel pedal and shifter a thrustmaster t flight stick x and a galaxy tab run <NULL> safe to say this be not your avarage player setup so take this into consideration the setup do a lot for added immersion that say the game be magic it have a ridiculous learning curve and very little in game to help you out but to me that be also part of what make it great this journey you go on learn about tool machine agriculture brand lifestyle it be all there in spade no pun intend the gameplay have to be experience i could never put into word what i actually like about this game it be just a feeling satisfaction and a strange sense of accomplishment thing take long in the game though this be not for people who want to go fast force feedback be a little weird but it be really nice the game support it telemetry be great and you can control all function on all machine through external tablet device as somebody who buy a simrig for american truck simulator i would have never expect to adore this game so much but i do and maybe you will too",
+    "voted_up": true,
+    "app_name": "Farming Simulator 22",
+    "id": 90207,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "hardware_requirements",
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 1,
+    "annotation_id": 111,
+    "created_at": "2025-01-20T19:29:07.070180Z",
+    "updated_at": "2025-01-20T19:29:07.070208Z",
+    "lead_time": 165.718
+  },
+  {
+    "review_id": 90481,
+    "review": "i like everything this game have to offer i find very chill after a long day at work and my boy play the game with me they be and year of age and we love work the farm together with the animal and field work",
+    "voted_up": true,
+    "app_name": "Farming Simulator 22",
+    "id": 90482,
+    "tag": "gameplay",
+    "annotator": 7,
+    "annotation_id": 233,
+    "created_at": "2025-01-22T23:12:33.796145Z",
+    "updated_at": "2025-01-22T23:12:33.796176Z",
+    "lead_time": 18.536
+  },
+  {
+    "review_id": 90957,
+    "review": "as someone who do not do simulator or know anything about farm this game be freak awesome i recommend this game to anyone",
+    "voted_up": true,
+    "app_name": "Farming Simulator 22",
+    "id": 90958,
+    "tag": "gameplay",
+    "annotator": 5,
+    "annotation_id": 181,
+    "created_at": "2025-01-22T12:44:10.678322Z",
+    "updated_at": "2025-01-22T12:44:10.678353Z",
+    "lead_time": 20.976
+  },
+  {
+    "review_id": 91357,
+    "review": "have to be the best farming simulator untill farm simulator",
+    "voted_up": true,
+    "app_name": "Farming Simulator 22",
+    "id": 91358,
+    "tag": "gameplay",
+    "annotator": 7,
+    "annotation_id": 236,
+    "created_at": "2025-01-22T23:13:05.240239Z",
+    "updated_at": "2025-01-22T23:13:05.240270Z",
+    "lead_time": 4.39
+  },
+  {
+    "review_id": 92189,
+    "review": "this game be so much fun i download the eurotruck sim demo and play for day straight then i purchase the game and a bunch of heavy haul dlc pack to add to the game after about hour in i have purchase some expansion dlcs and i be have a blast building my trucking empire get the game you will not regret it i play on my desktop system with mouse steer that take some get use to but it work for me",
+    "voted_up": true,
+    "app_name": "Euro Truck Simulator 2",
+    "id": 92190,
+    "tag": {
+      "choices": [
+        "gamemode",
+        "hardware_requirements",
+        "updates"
+      ]
+    },
+    "annotator": 3,
+    "annotation_id": 64,
+    "created_at": "2025-01-20T16:04:21.198002Z",
+    "updated_at": "2025-01-20T16:04:21.198033Z",
+    "lead_time": 40.867
+  },
+  {
+    "review_id": 93261,
+    "review": "its relaxing and calm to drive until you hit something and get a huge fine i get a billion dollar fine no cap",
+    "voted_up": true,
+    "app_name": "Euro Truck Simulator 2",
+    "id": 93262,
+    "tag": {
+      "choices": [
+        "gameplay",
+        "story"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 158,
+    "created_at": "2025-01-22T12:03:43.631102Z",
+    "updated_at": "2025-01-22T12:03:43.631130Z",
+    "lead_time": 37.213
+  },
+  {
+    "review_id": 93734,
+    "review": "so you buy a beast of a pc and see new nba game be release you hear about it all be next generation mind blow thing basically cyberpunk for sport base on all the hype around it you be absolutely wrong my friend this game be do only for next gen console this be not even a new game for pc compare it to cyberpunk like i do do not do it justice because i enjoy cyberpunk on pc yes it have bug but it be a beautiful game nba be basically with worse shot meter which you can not really see in some situation as it may appear on the character leave or right not like the one above you be a standardized approach which you know where to find all the time and do not need to lean onto the monitor to look for it then come the career mode it be ridiculous the first game be make difficult only for to force you to buy vc to actually enjoy the storyline and get the best of it so if you be newer to the game and you do not invest vc to boost your character from overall to sometihng like or so well let be just say that will become a close friend of yours before you pass that first college game test rest of the game be easy thereafter which make perfect sense because you be go to top semi and final and it do not get more difficult there but rather counter intuitively become somewhat easier if this be not enough the game be soo much that your mycareer character be sometimes i still call junior ffs be there anything that i find better than absolutely not it be not optimize either as it randomly lag in online game with annoy stutterings all around waste of money and moreover a huge annoyance as you and go back to doesnt make much sense either",
+    "voted_up": false,
+    "app_name": "NBA 2K22",
+    "id": 93735,
+    "tag": {
+      "choices": [
+        "visuals",
+        "online_play"
+      ]
+    },
+    "annotator": 5,
+    "annotation_id": 163,
+    "created_at": "2025-01-22T12:18:42.122356Z",
+    "updated_at": "2025-01-22T12:18:42.122389Z",
+    "lead_time": 131.2
+  },
+  {
+    "review_id": 93817,
+    "review": "this be the exact same fucking game as last year all they do be add a few pie chart and send up a prayer that it would entertain the retard pc have the capability to have the next gen feature but decide to shove a massive cock up our as for the love of sam raimi be spider man do not buy this game",
+    "voted_up": false,
+    "app_name": "NBA 2K22",
+    "id": 93818,
+    "tag": {
+      "choices": [
+        "hardware_requirements",
+        "price",
+        "gameplay",
+        "updates"
+      ]
+    },
+    "annotator": 7,
+    "annotation_id": 211,
+    "created_at": "2025-01-22T23:02:50.285930Z",
+    "updated_at": "2025-01-22T23:02:50.285958Z",
+    "lead_time": 53.512
+  },
+  {
+    "review_id": 93822,
+    "review": "if this game be an nba player it be dillon brook trash",
+    "voted_up": false,
+    "app_name": "NBA 2K22",
+    "id": 93823,
+    "tag": "support",
+    "annotator": 4,
+    "annotation_id": 128,
+    "created_at": "2025-01-20T21:41:19.294769Z",
+    "updated_at": "2025-01-20T21:41:19.294800Z",
+    "lead_time": 30.714
+  },
+  {
+    "review_id": 93887,
+    "review": "can not play mycareer offline score",
+    "voted_up": false,
+    "app_name": "NBA 2K22",
+    "id": 93888,
+    "tag": "bugs",
+    "annotator": 7,
+    "annotation_id": 225,
+    "created_at": "2025-01-22T23:09:31.181505Z",
+    "updated_at": "2025-01-22T23:09:31.181537Z",
+    "lead_time": 24.956
+  },
+  {
+    "review_id": 94474,
+    "review": "the game be pretty simular to the last copy of it it be definetly better than thank god lol but still i can not see this as actual progress pc not be recognise as next gen be kill the community and i honestly can not be anything more or less than sad it be just sad it be difficult but it be come out of a big fan do not buy this game",
+    "voted_up": false,
+    "app_name": "NBA 2K22",
+    "id": 94475,
+    "tag": {
+      "choices": [
+        "price",
+        "online_play"
+      ]
+    },
+    "annotator": 4,
+    "annotation_id": 32,
+    "created_at": "2025-01-18T17:15:53.852989Z",
+    "updated_at": "2025-01-18T17:15:53.853017Z",
+    "lead_time": 105.589
+  },
+  {
+    "review_id": 94493,
+    "review": "if you be play on pc and you already have you can skip this one without miss anything there be literally nothing new of substance",
+    "voted_up": false,
+    "app_name": "NBA 2K22",
+    "id": 94494,
+    "tag": "updates",
+    "annotator": 7,
+    "annotation_id": 229,
+    "created_at": "2025-01-22T23:10:55.540806Z",
+    "updated_at": "2025-01-22T23:10:55.540838Z",
+    "lead_time": 15.501
+  }
+]
