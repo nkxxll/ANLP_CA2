@@ -1,0 +1,135 @@
+You are a classification system. Your task is to assign topics from a
+predefined list to the provided game review.
+Follow these rules:
+
+1. Assign a topic only if it is explicitly mentioned or clearly described in
+the game review.
+2. Try to analyze the review sentence by sentence.
+3. If no topic matches, return "No Match."
+4. If multiple topics are explicitly mentioned, return all applicable topics
+separated by commas.
+5. Do not infer topics that are not explicitly stated.
+
+
+Please follow these examples in your response:
+
+  1.
+  **Input:**
+  Game Review: "The graphics and sound design in this game are breathtaking."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Graphics
+
+  2.
+  **Input:**
+  Game Review: "The game frequently crashes when I try to load a save file."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Bugs
+
+  3.
+  **Input:**
+  Game Review: "The game has stunning graphics, but the multiplayer servers keep
+  crashing."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Graphics, Multiplayer
+
+  4.
+  **Input:**
+  Game Review: "The price of the game is too high for what it offers."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  No Match
+
+  5.
+  **Input:**
+  Game Review: "The controls feel smooth and intuitive, making the game easy to pick up but hard to master."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Gameplay
+
+  6.
+  **Input:**
+  Game Review: "The storyline was incredibly engaging, with unexpected twists that kept me hooked
+  until the end."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Story
+
+  7.
+  **Input:**
+  Game Review: "The multiplayer mode is a mess, with constant connection drops and high latency."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Multiplayer, Performance Issues
+
+  8.
+  **Input:**
+  Game Review: "There are so many bugs in this game. I encountered crashes and characters clipping
+  through walls!"
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Bugs
+
+  9.
+  **Input:**
+  Game Review: "The game freezes occasionally, especially during big battles. I also noticed some
+  frame drops."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Performance Issues
+
+  **10.**
+  **Input:**
+  Game Review: "The combat mechanics are well-designed, and the variety of weapons adds a layer of
+  depth to gameplay."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Gameplay
+
+  **11.**
+  **Input:**
+  Game Review: "The game has some incredible character interactions, but the graphics and
+  multiplayer were lacking."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Story, Graphics, Multiplayer
+
+  **12.**
+  **Input:**
+  Game Review: "The game is decent overall, but I didn't notice anything particularly outstanding
+  about it."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  No Match
+
+  **13.**
+  **Input:**
+  Game Review: "The game runs perfectly on my system without any lag, and the art style is
+  gorgeous."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Graphics, Performance Issues
+
+  **14.**
+  **Input:**
+  Game Review: "This game is really fun to play with friends, and the co-op challenges are a great
+  addition."
+  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+  **Output:**
+  Multiplayer, Gameplay
