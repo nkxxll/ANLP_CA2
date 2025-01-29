@@ -10,7 +10,11 @@ from logging import INFO, Logger, basicConfig, getLogger
 from types import FunctionType
 from typing import Literal
 
-from annotations import lstudio_label_mapping_to_dict, update_df_review_labels
+
+import sys
+sys.path.append("/workspaces/ANLP_CA2/src/scripts")
+
+from scripts.annotations import lstudio_label_mapping_to_dict, update_df_review_labels
 from ollama import ChatResponse, Client, Message, Options, RequestError
 from pandas import read_csv
 from termcolor import colored
@@ -123,14 +127,15 @@ class OllamaClassifier:
 
         res = {}
         for id, review in zip(self._ids, self._reviews):
-            self._logger.info(f"{colored("Review:", color="green")}\n{review}")
+            self._logger.info(f"{colored('Review:', color='green')}\n{review}")
             answer = self.get_topic(review)
-            self._logger.info(f"{colored("Answer:", color="green")}\n{answer}")
+            self._logger.info(f"{colored('Answer:', color='green')}\n{answer}")
             topics = eval_answer(answer)
-            self._logger.info(f"{colored("Topics:", color="green")}\n{topics}")
+            self._logger.info(f"{colored('Topics:', color='green')}\n{topics}")
             topics_list = [t.value for t in (topics if topics is not None else [])]
             res[id] = topics_list
         return res
+
 
     def get_topic_eval(self, review: str):
         answer = self.get_topic(review)
@@ -303,8 +308,8 @@ def main():
     o = OllamaClassifier(args.model, sys_prompt, prompt_template, reviews, ids, topics)
     data = o.get_all_topic_eval()
     with open(
-        f"./results/results-{datetime.now().isoformat()}-n{args.number if args.number > 0 else "all"}-{str(args.model)}.json",
-        "w",
+        f"./results/results-{datetime.now().isoformat()}-n{args.number if args.number > 0 else 'all'}-{str(args.model)}.json",
+        'w',
     ) as f:
         json.dump(data, f)
 
