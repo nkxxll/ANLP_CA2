@@ -295,9 +295,6 @@ def main():
         sys_prompt = f.read()
     with open(versions[args.propt_version]["promptfile"], "r") as f:
         prompt_template = f.read()
-    # id_reviews = read_review_panda(f"{DATA_DIR}{RAW_DATA_FILE}", n=10)
-    # reviews = list(id_reviews["review"])
-    # ids = list(id_reviews["recommendationid"])
 
     ids, reviews = ids_reviews_from_json(n=args.number)
     print(f"info: {len(reviews)}")
@@ -320,7 +317,9 @@ def main():
     ]
     o = OllamaClassifier(args.model, sys_prompt, prompt_template, reviews, ids, topics)
     data = o.get_all_topic_eval()
-    json_file_name = f"./results/results-{datetime.now().isoformat()}-n{args.number if args.number > 0 else "all"}-{str(args.model)}.json"
+    json_file_name = f"./results/results-{datetime.now().isoformat()}-n{args.number if args.number > 0 else "all"}-{str(args.model)}.json".replace(
+        ":", "_"
+    )
     print(json_file_name)
     with open(
         json_file_name,
