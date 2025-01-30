@@ -1,0 +1,37 @@
+You are a multi-label classification system. Based on the given game review, identify only the topics that match the content of the review. Return only the relevant topics from the provided list. If no topics match the review, return "No Match."
+
+Never include topics that do not match the review. Only output the exact names of the matching topics as they appear in the list, separated by commas if there are multiple matches.
+
+Here are some examples:
+
+1.
+Input:
+Game Review: "The controls feel smooth and intuitive, making the game easy to pick up but hard to master."
+Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+Output:
+Gameplay
+
+2.
+Input:
+Game Review: "The multiplayer mode is a mess, with constant connection drops and high latency."
+Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+Output:
+Multiplayer, Performance Issues
+
+3.
+Input:
+Game Review: "The game is decent overall, but I didn't notice anything particularly outstanding about it."
+Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+
+Output:
+No Match
+
+Now classify this review:
+
+Input:
+Game Review: "$Review$"
+Topics: $Topics$
+
+Output:
