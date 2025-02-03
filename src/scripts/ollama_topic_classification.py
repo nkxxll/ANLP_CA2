@@ -129,6 +129,8 @@ class OllamaClassifier:
             self._logger.info(f"{colored('Answer:', color='green')}\n{answer}")
             topics = eval_answer(answer)
             self._logger.info(f"{colored('Topics:', color='green')}\n{topics}")
+            if topics is None:
+                self._logger.warning(f"{colored('No topics found', color='red')}")
             topics_list = [t.value for t in (topics if topics is not None else [])]
             res[id] = topics_list
         return res
@@ -140,6 +142,7 @@ class OllamaClassifier:
 
     def get_topic(self, review: str) -> str | Literal["RequestError", "None"]:
         prompt = self._build_prompt(review)
+        self._logger.info(f"{colored("Full prompt:", color="green")}:\n{prompt}")
         msg: Message = Message(role="user", content=prompt)
         try:
             answer: ChatResponse = self._client.chat(
@@ -318,7 +321,7 @@ def main():
     ]
     o = OllamaClassifier(args.model, sys_prompt, prompt_template, reviews, ids, topics)
     data = o.get_all_topic_eval()
-    json_file_name = f"./results/results-{datetime.now().isoformat()}-n{args.number if args.number > 0 else "all"}-{str(args.model)}.json".replace(
+    json_file_name = f"./results/results-v{args.prompt_version}-{datetime.now().isoformat()}-n{args.number if args.number > 0 else "all"}-{str(args.model)}.json".replace(
         ":", "_"
     )
     print(json_file_name)

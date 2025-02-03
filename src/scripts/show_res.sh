@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-if [[ $(command -v fzf) ]]; then
+if [[ ! $(command -v fzf) ]]; then
     echo "[fzf] command line tool is not present you have to search yourself sorry!"
     echo "install with: sudo apt install fzf"
     echo "install with: brew install fzf"
