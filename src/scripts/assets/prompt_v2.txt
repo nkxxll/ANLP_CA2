@@ -4,34 +4,63 @@ Never include topics that do not match the review. Only output the exact names o
 
 Here are some examples:
 
-1.
-Input:
-Game Review: "The controls feel smooth and intuitive, making the game easy to pick up but hard to master."
-Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+**1.**
+**Input:**
+Game Review: "The multiplayer mode is fun, but the servers often lag, making it frustrating to play."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
 
-Output:
-Gameplay
+**Output:**
+gamemode, online_play
 
-2.
-Input:
-Game Review: "The multiplayer mode is a mess, with constant connection drops and high latency."
-Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+---
 
-Output:
-Multiplayer, Performance Issues
+**2.**
+**Input:**
+Game Review: "The graphics look stunning, and the character animations are smooth."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
 
-3.
-Input:
+**Output:**
+visuals
+
+---
+
+**3.**
+**Input:**
+Game Review: "The game crashes every time I try to load my save file."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
+
+**Output:**
+bugs
+
+---
+
+**4.**
+**Input:**
+Game Review: "The developers actively listen to feedback and patch issues quickly."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
+
+**Output:**
+support, updates
+
+---
+
+**5.**
+**Input:**
+Game Review: "I love how immersive the soundtrack is—it really enhances the vibe of the game."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
+
+**Output:**
+sound
+
+---
+
+**6.**
+**Input:**
 Game Review: "The game is decent overall, but I didn't notice anything particularly outstanding about it."
-Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
 
-Output:
+**Output:**
 No Match
 
-Now classify this review:
-
-Input:
-Game Review: "$Review$"
-Topics: $Topics$
-
-Output:
+Here are your topics: $Topics$
+Here is your review: $Review$

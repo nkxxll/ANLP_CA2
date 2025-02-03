@@ -10,11 +10,7 @@ from logging import INFO, Logger, basicConfig, getLogger
 from types import FunctionType
 from typing import Literal
 
-
-import sys
-sys.path.append("/workspaces/ANLP_CA2/src/scripts")
-
-from scripts.annotations import lstudio_label_mapping_to_dict, update_df_review_labels
+from annotations import lstudio_label_mapping_to_dict, update_df_review_labels
 from ollama import ChatResponse, Client, Message, Options, RequestError
 from pandas import read_csv
 from termcolor import colored
@@ -296,9 +292,9 @@ def main():
         },
     }
     basicConfig(level=INFO, filename="./ollama_log.txt", filemode="w")
-    with open(versions[args.propt_version]["sytemfile"], "r") as f:
+    with open(versions[args.prompt_version]["systemfile"], "r") as f:
         sys_prompt = f.read()
-    with open(versions[args.propt_version]["promptfile"], "r") as f:
+    with open(versions[args.prompt_version]["promptfile"], "r") as f:
         prompt_template = f.read()
 
     ids, reviews = ids_reviews_from_json(n=args.number)
@@ -327,13 +323,8 @@ def main():
     )
     print(json_file_name)
     with open(
-<<<<<<< HEAD
-        f"./results/results-{datetime.now().isoformat()}-n{args.number if args.number > 0 else 'all'}-{str(args.model)}.json",
-        'w',
-=======
         json_file_name,
         "w",
->>>>>>> 4f0c521161aa0decc1158cf2e2245ecccaceec1b
     ) as f:
         json.dump(data, f)
 

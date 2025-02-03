@@ -8,8 +8,10 @@ from .annotations import (
 from .ollama_topic_classification import Model, OllamaClassifier, Topic
 from .review_dataloader import SteamReviewDataset_old
 from .steam_review_dataset import SteamReviewDataset
+from .multilabel_classification_evaluator import MultiLabelEvaluator
 
 __all__ = [
+    "MultiLabelEvaluator",
     "get_one_hot_labels_df_",
     "lstudio_label_mapping_to_dict",
     "update_df_review_labels",

@@ -10,126 +10,77 @@ the game review.
 separated by commas.
 5. Do not infer topics that are not explicitly stated.
 
+This is the list of topics:
+
+1. gamemode (online, offline, singleplayer, multiplayer, coop, crossplatform, pvp, pve)
+2. bugs (crash, restart, gamebreaking)
+3. visuals (look, graphics, animation)
+4. sound (music, ambience_vibe)
+5. hardware_requirements (performance, storage, graphics card, cpu)
+6. price (worth, expensive, cheap, pay2win, sale, transactions)
+7. gameplay (mechanics, difficulty, balancing, playtime)
+8. story (campaign, characters, setting)
+9. support (developers, publishers, feedback)
+10. online_play (playerbase, cheater, hacker, competitive, ping, server)
+11. updates (content, qol, dlc, early-access, bugfixes)
+12. seasonal_content (season pass, reset, ranking)
 
 Please follow these examples in your response:
 
-  1.
-  **Input:**
-  Game Review: "The graphics and sound design in this game are breathtaking."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+**1.**
+**Input:**
+Game Review: "The multiplayer mode is fun, but the servers often lag, making it frustrating to play."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
 
-  **Output:**
-  Graphics
+**Output:**
+gamemode, online_play
 
-  2.
-  **Input:**
-  Game Review: "The game frequently crashes when I try to load a save file."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+---
 
-  **Output:**
-  Bugs
+**2.**
+**Input:**
+Game Review: "The graphics look stunning, and the character animations are smooth."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
 
-  3.
-  **Input:**
-  Game Review: "The game has stunning graphics, but the multiplayer servers keep
-  crashing."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+**Output:**
+visuals
 
-  **Output:**
-  Graphics, Multiplayer
+---
 
-  4.
-  **Input:**
-  Game Review: "The price of the game is too high for what it offers."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+**3.**
+**Input:**
+Game Review: "The game crashes every time I try to load my save file."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
 
-  **Output:**
-  No Match
+**Output:**
+bugs
 
-  5.
-  **Input:**
-  Game Review: "The controls feel smooth and intuitive, making the game easy to pick up but hard to master."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+---
 
-  **Output:**
-  Gameplay
+**4.**
+**Input:**
+Game Review: "The developers actively listen to feedback and patch issues quickly."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
 
-  6.
-  **Input:**
-  Game Review: "The storyline was incredibly engaging, with unexpected twists that kept me hooked
-  until the end."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+**Output:**
+support, updates
 
-  **Output:**
-  Story
+---
 
-  7.
-  **Input:**
-  Game Review: "The multiplayer mode is a mess, with constant connection drops and high latency."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+**5.**
+**Input:**
+Game Review: "I love how immersive the soundtrack is—it really enhances the vibe of the game."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
 
-  **Output:**
-  Multiplayer, Performance Issues
+**Output:**
+sound
 
-  8.
-  **Input:**
-  Game Review: "There are so many bugs in this game. I encountered crashes and characters clipping
-  through walls!"
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
+---
 
-  **Output:**
-  Bugs
+**6.**
+**Input:**
+Game Review: "The game is decent overall, but I didn't notice anything particularly outstanding about it."
+Topics: gamemode, bugs, visuals, sound, hardware_requirements, price, gameplay, story, support, online_play, updates, seasonal_content
 
-  9.
-  **Input:**
-  Game Review: "The game freezes occasionally, especially during big battles. I also noticed some
-  frame drops."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
-
-  **Output:**
-  Performance Issues
-
-  **10.**
-  **Input:**
-  Game Review: "The combat mechanics are well-designed, and the variety of weapons adds a layer of
-  depth to gameplay."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
-
-  **Output:**
-  Gameplay
-
-  **11.**
-  **Input:**
-  Game Review: "The game has some incredible character interactions, but the graphics and
-  multiplayer were lacking."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
-
-  **Output:**
-  Story, Graphics, Multiplayer
-
-  **12.**
-  **Input:**
-  Game Review: "The game is decent overall, but I didn't notice anything particularly outstanding
-  about it."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
-
-  **Output:**
-  No Match
-
-  **13.**
-  **Input:**
-  Game Review: "The game runs perfectly on my system without any lag, and the art style is
-  gorgeous."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
-
-  **Output:**
-  Graphics, Performance Issues
-
-  **14.**
-  **Input:**
-  Game Review: "This game is really fun to play with friends, and the co-op challenges are a great
-  addition."
-  Topics: Gameplay, Graphics, Story, Multiplayer, Bugs, Performance Issues
-
-  **Output:**
-  Multiplayer, Gameplay
+**Output:**
+No Match
