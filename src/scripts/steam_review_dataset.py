@@ -56,5 +56,5 @@ class SteamReviewDataset(Dataset):
                 tokens = tokens[: self.max_len]
             else:
                 tokens = tokens + [self.padding_char] * (self.max_len - len(tokens))
-
+        # print(f"tokens = {tokens}, label(s) = {label}")
         return torch.tensor(tokens), torch.tensor(label, dtype=torch.float32)
