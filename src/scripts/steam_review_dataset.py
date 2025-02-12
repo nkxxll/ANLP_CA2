@@ -27,7 +27,6 @@ class SteamReviewDataset(Dataset):
         self.padding = padding
         self.topic_mode = topic_mode
         
-        
 
     def __len__(self):
         return len(self.data)
@@ -43,8 +42,10 @@ class SteamReviewDataset(Dataset):
         """
         row = self.data.iloc[idx]
         review = row["review"]
+        
         if self.topic_mode:
-            label = self.data.loc[:, "gamemode":"bugs"].iloc[idx].values.flatten()
+            # print(self.data.iloc[:, 6:18].iloc[idx].values)
+            label = self.data.iloc[:, 6:18].iloc[idx].values.flatten()
         else:
             label = row["voted_up"]
 
