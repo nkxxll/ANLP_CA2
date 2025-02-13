@@ -10,6 +10,8 @@ from logging import INFO, Logger, basicConfig, getLogger
 from types import FunctionType
 from typing import Literal
 
+from tqdm import tqdm
+
 from annotations import lstudio_label_mapping_to_dict, update_df_review_labels
 from ollama import ChatResponse, Client, Message, Options, RequestError
 from pandas import read_csv
@@ -123,7 +125,7 @@ class OllamaClassifier:
             eval_answer = eval_answer_function
 
         res = {}
-        for id, review in zip(self._ids, self._reviews):
+        for id, review in tqdm(zip(self._ids, self._reviews), total=len(self._ids)):
             self._logger.info(f"{colored('Review:', color='green')}\n{review}")
             answer = self.get_topic(review)
             self._logger.info(f"{colored('Answer:', color='green')}\n{answer}")
@@ -305,9 +307,9 @@ def main():
         },
     }
     basicConfig(level=INFO, filename="./ollama_log.txt", filemode="w")
-    with open(versions[args.prompt_version]["systemfile"], "r") as f:
+    with open(versions[args.prompt_version]["systemfile"], "r", encoding='utf-8') as f:
         sys_prompt = f.read()
-    with open(versions[args.prompt_version]["promptfile"], "r") as f:
+    with open(versions[args.prompt_version]["promptfile"], "r", encoding='utf-8') as f:
         prompt_template = f.read()
 
     ids, reviews = ids_reviews_from_json(n=args.number)
