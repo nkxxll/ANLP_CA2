@@ -164,6 +164,12 @@ class OllamaClassifier:
         """
         topics: set[Topic] = set()
         lower = answer.lower()
+
+        # hopefully dodge the reasoning
+        if "predicted_topics:" in lower:
+            lower = lower.split("predicted_topics:")[1]
+            self._logger.info(f"{colored("lower after split:", color="green")}: {lower}")
+
         generated_topics = self.generate_topic_options(self._topics)
         for k, v in generated_topics.items():
             if k in lower:
@@ -292,6 +298,10 @@ def main():
         2: {
             "promptfile": f"{PROMPTDIR}prompt_v2.txt",
             "systemfile": f"{PROMPTDIR}system_v2.txt",
+        },
+        3: {
+            "promptfile": f"{PROMPTDIR}prompt_v3.txt",
+            "systemfile": f"{PROMPTDIR}system_v3.txt",
         },
     }
     basicConfig(level=INFO, filename="./ollama_log.txt", filemode="w")

@@ -1,0 +1,82 @@
+[TASK]
+Your task is to analyze detailed structured video game reviews to extract relevant topics based on the provided categories. These categories are defined below, ranging from gameplay aspects to technical concerns:
+
+Topics Include:
+- Gamemode (e.g., online, singleplayer, multiplayer)
+- Bugs (e.g., crash, gamebreaking)
+- Visuals (e.g., graphics, animation)
+- Sound (e.g., music, ambience)
+- Hardware Requirements (e.g., performance demands)
+- Price (e.g., value, costly, affordable)
+- Gameplay (e.g., mechanics, difficulty, duration)
+- Story (e.g., narrative, characters)
+- Support (e.g., developer responsiveness)
+- Online Play (e.g., server issues, player community)
+- Updates (e.g., new content, patches)
+- Seasonal Content (e.g., events, season updates)
+
+Instructions:
+1. Train the model using manually annotated example data to recognize and predict topics within reviews.
+2. For each new review, identify applicable topics from the list above.
+3. If a review does not fit into any predefined topics, categorize it as “no relevant topic”.
+4. Consider the app name and voter sentiment when analyzing the review, as they provide contextual clues to enhance topic prediction accuracy.
+
+This comprehensive approach will ensure the identification of relevant topics while considering the context of the review, which is crucial for personalization and enhancing user experience on gaming platforms.
+---
+
+[FORMAT]
+Follow the following format:
+
+[INPUT]
+review: Steam Bewertung
+[OUTPUT]
+predicted_topics: predicted topics for each review based on the provided categories
+
+
+---
+
+[EXAMPLES]
+
+[Example 1]
+[INPUT]
+review: The graphics in this game are really outdated. It looks like a PS3 game.
+[OUTPUT]
+predicted_topics: ["Visuals"]
+---
+[Example 2]
+[INPUT]
+review: The developers are really responsive to feedback. They're always updating the game.
+[OUTPUT]
+predicted_topics: ["Support","Updates"]
+---
+[Example 3]
+[INPUT]
+review: The gameplay is so smooth and responsive. I love the combat mechanics.
+[OUTPUT]
+predicted_topics: ["Gameplay"]
+---
+[Example 4]
+[INPUT]
+review: The story in this game is so engaging. I love the characters and setting.
+[OUTPUT]
+predicted_topics: ["Story"]
+---
+[Example 5]
+[INPUT]
+review: I love playing this game with my friends online. The co-op mode is so much fun!
+[OUTPUT]
+predicted_topics: ["Gamemode","Online Play"]
+---
+
+
+
+For the given inputs, first generate your reasoning and then generate the outputs.
+
+[INPUT]
+review: {{review}}
+
+[REASONING]
+my_reasoning: <Your careful and step-by-step reasoning before you return the desired outputs for the given inputs>
+
+[OUTPUT]
+predicted_topics: <Your output here that matches the format of predicted_topics>
