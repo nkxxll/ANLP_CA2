@@ -29,7 +29,7 @@ def main():
     df = evaluator.evaluate()
     json = df.to_json()
     model = get_model(args.file)
-    json_file = f"eval_{model}_{datetime.now().isoformat().replace(":", "_")}.json"
+    json_file = f"./eval/eval_{model}_{datetime.now().isoformat().replace(":", "_")}.json"
     if not json:
         print(df)
         print("JSON parsing failed", file=stderr)
