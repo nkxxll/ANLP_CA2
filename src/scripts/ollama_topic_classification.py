@@ -125,6 +125,8 @@ class OllamaClassifier:
             eval_answer = eval_answer_function
 
         res = {}
+        
+        print(f"loading {self._model} ..")
         for id, review in tqdm(zip(self._ids, self._reviews), total=len(self._ids)):
             self._logger.info(f"{colored('Review:', color='green')}\n{review}")
             answer = self.get_topic(review)
