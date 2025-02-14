@@ -18,4 +18,5 @@ ollama
 torch
 torchvision
 torchaudio
+torcheval
 sentencepiece
