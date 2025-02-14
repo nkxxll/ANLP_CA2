@@ -11,7 +11,8 @@ class SteamReviewDataset(Dataset):
         tokenizer: spm.SentencePieceProcessor,
         max_len: int = 200,
         padding: bool = True,
-        topic_mode: bool = False
+        topic_mode: bool = False,
+        topics: list[str] = None,
     ):
         """
         Args:
@@ -26,7 +27,7 @@ class SteamReviewDataset(Dataset):
         self.padding_char = self.tokenizer.pad_id()
         self.padding = padding
         self.topic_mode = topic_mode
-        
+        self.topics = topics
 
     def __len__(self):
         return len(self.data)
@@ -42,10 +43,9 @@ class SteamReviewDataset(Dataset):
         """
         row = self.data.iloc[idx]
         review = row["review"]
-        
-        if self.topic_mode:
-            # print(self.data.iloc[:, 6:18].iloc[idx].values)
-            label = self.data.iloc[:, 6:18].iloc[idx].values.flatten()
+
+        if self.topic_mode and self.topics is not None:
+            label = self.data[self.topics].iloc[idx].values
         else:
             label = row["voted_up"]
 

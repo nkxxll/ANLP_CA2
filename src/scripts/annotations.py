@@ -30,31 +30,39 @@ def lstudio_label_mapping_to_dict(json_path: str) -> dict[int, list[str]]:
 
 
 def update_df_review_labels(
-    df: pd.DataFrame, labels: dict, mode: str = "dummy"
-) -> pd.DataFrame:
+    df: pd.DataFrame, labels: dict, mode: str = "dummy", dropna: bool = False
+) -> tuple[pd.DataFrame, list[str]]:
     """updates dataset dataframe by left joining the one hot encoded annotation label columns (uncovered will be NaN)"""
 
     if mode == "dummy":
-        dummy_cols = get_one_hot_labels_df_(labels)
+        dummy_cols, all_labels = get_one_hot_labels_df_(labels)
         dummy_cols.reset_index(names="review_id", inplace=True)
-        # print(dummy_cols)
 
         # join review df with encoded labels
-        return pd.merge(df, dummy_cols, on="review_id", how="left")
+        dummified_df = pd.merge(df, dummy_cols, on="review_id", how="left")
+        if dropna:
+            dummified_df.dropna(
+                inplace=True,
+                ignore_index=True,
+                how="all",
+                subset=all_labels,
+            )
+        return dummified_df, list(all_labels)
+
     elif mode == "strlist":
         NotImplementedError("TODO")
     else:
         raise ValueError(f"Unknown mode '{mode}'")
 
 
-def get_one_hot_labels_df_(labels: dict) -> pd.DataFrame:
+def get_one_hot_labels_df_(labels: dict) -> tuple[pd.DataFrame, set[str]]:
     """builds dataframe from dict containing labels (values) per id (key) by one hot encoding them into columns"""
+    # see https://discuss.pytorch.org/t/multi-label-classification-in-pytorch/905/44
 
     # get unique labels
     all_labels = set(
         [l for label in labels.values() for l in label]
     )  # flatten list of all unique labels
-    print(f"mapping {len(all_labels)} unique labels: {', '.join(all_labels)}")
 
     # for each label, create a hot one encoded column
     dummy_cols = pd.DataFrame(
@@ -64,5 +72,5 @@ def get_one_hot_labels_df_(labels: dict) -> pd.DataFrame:
         },
         index=labels.keys(),
     )
-    return dummy_cols
 
+    return dummy_cols, all_labels
