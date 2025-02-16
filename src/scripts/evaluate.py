@@ -67,8 +67,8 @@ def model_v_model(file: str, file2: str):
         total += 1
 
     json_file = f"./eval/eval_{model1}_vs_{model2}_{datetime.now().isoformat().replace(":", "_")}.json"
-    # with open(json_file, "w") as f:
-    #     f.write(json.dumps({"total": total, "same_count": same_count, "accuracy": acc1, "hamming_loss": ham1}))
+    with open(json_file, "w") as f:
+        f.write(json.dumps({"total": total, "same_count": same_count, "accuracy": acc1, "hamming_loss": ham1}))
     print({"total": total, "same_count": same_count, "accuracy": acc1, "hamming_loss": ham1})
 
 
