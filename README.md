@@ -58,6 +58,8 @@ path to the data files is right. The first script holds a class for the automate
 parsing of the answers from the LLMs while the second script was used to annotate a large set of
 reviews as training data for the multi-label classification neural network.  
 For the evaluation of the results from the automated annotation you can use the
-`./src/scripts/evaluate.py`, `./src/example_multilabel_classification_evaluation.ipynb` and
-`./src/scripts/multilabel_classification_evaluator.py`. The latter holds the core functionality of
-the evaluation and the first two scripts use this core functionality.
+`src/scripts/evaluate.py`, `src/example_multilabel_classification_evaluation.ipynb`,
+`src/model_comparison.ipynb` and `src/scripts/multilabel_classification_evaluator.py`. The latter
+holds the core functionality of the evaluation and the first two scripts use this core
+functionality. The third script is a notebook that compares the results of the different
+LLMs visually.
