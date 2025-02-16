@@ -1,6 +1,8 @@
+import json
+import sys
 from datetime import datetime
-import json, sys
 from logging import INFO, basicConfig
+
 import pandas as pd
 
 sys.path.append("scripts")
@@ -12,9 +14,9 @@ def _sample_reviews(n: int = 1000) -> tuple[int, pd.DataFrame]:
     # load the original dataset
     reviews_df = pd.read_csv("../../data/reviews_100k_cleaned_new.csv.bz2", low_memory=False)
     reviews_df["review"] = reviews_df["review"].astype(str)
-    
+
     samples = reviews_df.sample(n = n)
-    
+
     return (list(samples["review_id"]), list(samples["review"]))
 
 if __name__ == "__main__":
