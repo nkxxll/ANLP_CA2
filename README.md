@@ -34,7 +34,9 @@ holds all the data and models that will be relevant for the project.
 
 ## Installation
 
-Use a `venv` if you want.
+**Step 1**: Download the project dataset from the HSMA clousi by running the `download_data.py` script from the project root directory!  
+
+**Step 2**: Download Python requirements. Use a `venv` if you want.
 
 ```sh
 conda install --yes --file requirements.txt
@@ -47,9 +49,8 @@ pip install -r requirements.txt
 The notebooks containing the results of the binary classification can be found in `src/name_here`.
 The results for the multi-label classification can also be found in the `src` folder.
 
-- `ffn_review_classifier.ipynb` todo short description
-- `gru_review_classifier.ipynb` todo short description
-- `gru_topics_classifier.ipynb` todo short description
+- `gru_review_classifier.ipynb` Notebook containing the GRU Pipeline for the binary review classification
+- `gru_topics_classifier.ipynb` Notebook containing the GRU Pipeline for the multilabel topic classification
 
 The script for the automated annotation of steam reviews is located in the
 `src/scripts/ollama_topic_classification.py` and `src/scripts/ollama_topic_annotator.py` files.
